@@ -1,0 +1,14 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": { "v": 1, "at": "2026-09-27T12:51:56Z" },
+  "title": "Satz",
+  "namespace": "Satz",
+  "libraries": [{ "name": "react", "version": "18" }, { "name": "react-dom", "version": "18" }],
+  "sections": {},
+  "groups": [],
+  "assetGroups": {},
+  "blobs": {},
+  "docs": { "readme": "project/README.md", "sections": [] },
+  "lastChange": { "by": "Claude", "via": "Claude Code", "at": "2026-09-27T12:51:56Z", "note": "First version, extracted from the 3,000-sentence app blueprint." }
+}

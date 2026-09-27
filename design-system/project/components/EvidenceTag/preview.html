@@ -1,0 +1,12 @@
+<!-- @dsCard group="Reference" height=72 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>EvidenceTag — preview</title></head>
+<body>
+<div id="root" class="sz-row"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null, ['strong', 'moderate', 'weak', 'company', 'inference'].map(function (l) { return h(S.EvidenceTag, { key: l, level: l }); })));
+</script>
+</body>
+</html>

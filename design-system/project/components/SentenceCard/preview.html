@@ -1,0 +1,13 @@
+<!-- @dsCard group="Sentence" height=300 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>SentenceCard — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(S.SentenceCard, { text: 'Ich hätte gern [die Rechnung].', gloss: "I'd like the bill.", band: 'Band 2 · A1', theme: 'café',
+  audio: h(F, null, h(S.AudioButton, { voice: 'Katja' }), h(S.AudioButton, { speed: 'slow', voice: 'Katja' })) }));
+</script>
+</body>
+</html>

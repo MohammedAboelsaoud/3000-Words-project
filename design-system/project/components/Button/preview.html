@@ -1,0 +1,12 @@
+<!-- @dsCard group="Actions" height=88 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Button — preview</title></head>
+<body>
+<div id="root" class="sz-row"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null, h(S.Button, { variant: 'primary' }, 'Check'), h(S.Button, null, 'Show answer'), h(S.Button, { variant: 'text' }, 'Skip for today')));
+</script>
+</body>
+</html>

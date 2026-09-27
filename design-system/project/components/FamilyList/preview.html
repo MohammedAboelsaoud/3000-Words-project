@@ -1,0 +1,12 @@
+<!-- @dsCard group="Sentence" height=210 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>FamilyList — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(S.FamilyList, { revealed: true, frame: 'Ich hätte gern ___', sentences: ['Ich hätte gern [einen Kaffee].', 'Ich hätte gern [ein Wasser].', 'Ich hätte gern [die Rechnung].'] }));
+</script>
+</body>
+</html>

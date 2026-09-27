@@ -1,0 +1,12 @@
+<!-- @dsCard group="Exercise" height=110 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>GradeChip — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null, h(S.GradeChip, { grade: 'good', onOverride: function () {} }), h(S.GradeChip, { grade: 'hard', onOverride: function () {} }), h(S.GradeChip, { grade: 'again', onOverride: function () {} })));
+</script>
+</body>
+</html>

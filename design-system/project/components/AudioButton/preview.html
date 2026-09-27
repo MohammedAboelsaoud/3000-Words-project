@@ -1,0 +1,12 @@
+<!-- @dsCard group="Actions" height=96 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>AudioButton — preview</title></head>
+<body>
+<div id="root" class="sz-row"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null, h(S.AudioButton, { voice: 'Katja' }), h(S.AudioButton, { speed: 'slow', voice: 'Katja' }), h(S.AudioButton, { playing: true, voice: 'Jonas' })));
+</script>
+</body>
+</html>

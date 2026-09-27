@@ -1,0 +1,12 @@
+<!-- @dsCard group="Exercise" height=300 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>ChoiceOption — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null, h(S.ChoiceOption, { state: 'correct' }, 'Are you free tonight?'), h(S.ChoiceOption, { state: 'wrong' }, 'Do you have the time?'), h(S.ChoiceOption, null, 'Were you home last night?'), h(S.ChoiceOption, { dir: 'rtl', lang: 'ar' }, 'فاضي النهارده بالليل؟')));
+</script>
+</body>
+</html>

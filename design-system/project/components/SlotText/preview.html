@@ -1,0 +1,12 @@
+<!-- @dsCard group="Sentence" height=72 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>SlotText — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h('p', { className: 'sz-sentence', lang: 'de' }, h(S.SlotText, { text: 'Ich hätte gern [die Rechnung].' })));
+</script>
+</body>
+</html>

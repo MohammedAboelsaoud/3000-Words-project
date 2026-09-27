@@ -1,0 +1,12 @@
+<!-- @dsCard group="Exercise" height=170 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>SpeakFeedback — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(S.SpeakFeedback, { score: 72, words: [{ text: 'Ich' }, { text: 'hätte', flag: 'mispronounced' }, { text: 'gern' }, { text: 'die' }, { text: 'Rechnung.' }] }));
+</script>
+</body>
+</html>

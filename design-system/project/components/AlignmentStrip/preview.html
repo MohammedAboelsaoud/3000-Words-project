@@ -1,0 +1,14 @@
+<!-- @dsCard group="Sentence" height=280 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>AlignmentStrip — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(F, null,
+  h(S.AlignmentStrip, { tokens: [{ de: 'Ich', gloss: 'I' }, { de: 'bin', gloss: '', mark: 'none' }, { de: 'müde.', gloss: 'tired' }], note: '“bin” has no present-tense counterpart in Arabic: أنا تعبان — “I tired”.' }),
+  h(S.AlignmentStrip, { tokens: [{ de: '…, weil', gloss: 'because' }, { de: 'ich', gloss: 'I' }, { de: 'müde', gloss: 'tired' }, { de: 'bin.', gloss: 'am', mark: 'moves' }], note: 'After “weil” the verb jumps to the end.' })));
+</script>
+</body>
+</html>

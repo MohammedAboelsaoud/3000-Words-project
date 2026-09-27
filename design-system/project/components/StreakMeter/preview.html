@@ -1,0 +1,12 @@
+<!-- @dsCard group="Progress" height=120 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>StreakMeter — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(S.StreakMeter, { days: 18, freezes: 1, week: ['done', 'done', 'frozen', 'done', 'today', 'future', 'future'] }));
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!-- @dsCard group="Exercise" height=190 -->
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>DictationDiff — preview</title></head>
+<body>
+<div id="root" class="sz-stack"></div>
+<script>
+  var S = window.Satz, h = React.createElement, F = React.Fragment;
+  ReactDOM.createRoot(document.getElementById('root')).render(h(S.DictationDiff, { errorTag: 'mishearing', tokens: [{ text: 'Hasst', expected: 'Hast', status: 'wrong' }, { text: 'du', status: 'ok' }, { text: 'heute', status: 'ok' }, { expected: 'Abend', status: 'missing' }, { text: 'Zeit?', status: 'ok' }] }));
+</script>
+</body>
+</html>
