@@ -1,0 +1,52 @@
+/* App layout on top of the Satz design system (bundle.css + tokens.css). */
+* { box-sizing: border-box; }
+html, body { background: var(--paper); }
+body { min-height: 100dvh; }
+button, input, select { font: inherit; }
+.screen { max-width: 40rem; margin: 0 auto; padding: var(--space-4) var(--space-4) var(--space-12); display: flex; flex-direction: column; gap: var(--space-6); }
+.muted { margin: 0; color: var(--ink-muted); font-size: 14px; line-height: 20px; }
+.wordmark { margin: 0; font: 600 24px/32px var(--font-target); color: var(--ink); }
+.home-top { display: flex; align-items: center; justify-content: space-between; }
+.home-title { margin: 0; font: 600 20px/28px var(--font-sans); }
+.home-main { display: flex; flex-direction: column; align-items: center; gap: var(--space-4); padding: var(--space-12) 0; text-align: center; }
+.home-main .sz-recover { text-align: start; width: 100%; }
+.home-cue { max-width: 26em; }
+.home-done { display: flex; flex-direction: column; gap: var(--space-2); }
+
+.session-top { display: flex; justify-content: flex-end; margin-bottom: calc(-1 * var(--space-4)); }
+.task { display: flex; flex-direction: column; gap: var(--space-4); }
+.task .sz-card, .task .sz-task, .task .sz-choice, .task .sz-rule, .task .sz-diff, .task .sz-family, .task .sz-pair { max-width: none; }
+.task-next { display: flex; justify-content: flex-end; padding-top: var(--space-2); }
+.task-next .sz-btn { min-width: 140px; }
+.choices { display: flex; flex-direction: column; gap: var(--space-3); }
+.audio-row { display: flex; gap: var(--space-6); padding: var(--space-4) 0; }
+.prompt { background: var(--paper-raised); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--space-6); display: flex; flex-direction: column; gap: var(--space-3); }
+.prompt-en { margin: 0; font: 500 22px/32px var(--font-sans); }
+.answer { display: flex; flex-direction: column; gap: var(--space-2); }
+.answer-input { width: 100%; min-height: 52px; padding: var(--space-3) var(--space-4); border: 1px solid var(--line-strong); border-radius: var(--radius-md); background: var(--paper-sunken); color: var(--ink); font: 400 18px/28px var(--font-mono); }
+.answer-input:focus-visible { outline: 2px solid transparent; box-shadow: var(--focus-ring); }
+.umlauts { display: flex; flex-wrap: wrap; gap: var(--space-1); }
+.umlaut { min-width: var(--size-tap); min-height: 36px; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--paper-raised); color: var(--ink); cursor: pointer; }
+.umlaut:focus-visible, .tap-word:focus-visible, .seg-btn:focus-visible { outline: 2px solid transparent; box-shadow: var(--focus-ring); }
+.tap-row { display: flex; flex-wrap: wrap; gap: var(--space-2); margin: 0; }
+.tap-word { min-height: var(--size-tap); padding: 0 var(--space-3); border: 1px solid var(--line-strong); border-radius: var(--radius-md); background: var(--paper-raised); color: var(--ink); font: 500 20px/28px var(--font-target); cursor: pointer; }
+.tap-word.is-on { background: var(--marker); color: var(--on-marker); border-color: var(--marker-edge); box-shadow: inset 0 -2px 0 var(--marker-edge); }
+.feedback-line { margin: 0; }
+.feedback-line strong { font: 500 18px/28px var(--font-target); }
+.sayit { display: flex; flex-direction: column; gap: var(--space-2); align-items: flex-start; }
+.sayit-heard { margin: 0; color: var(--ink-muted); font-size: 14px; }
+.sz-gradechip { flex-wrap: wrap; }
+.sz-grade-change select { min-height: 32px; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--paper-raised); color: var(--ink); padding: 0 var(--space-2); }
+
+.setup header { display: flex; flex-direction: column; gap: var(--space-2); }
+.field { border: 0; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--space-2); }
+.field legend, .field-l { font: 600 14px/20px var(--font-sans); padding: 0; margin-bottom: var(--space-2); }
+.seg { display: flex; gap: var(--space-2); }
+.seg-btn { min-width: 64px; min-height: var(--size-tap); border: 1px solid var(--line-strong); border-radius: var(--radius-md); background: var(--paper-raised); color: var(--ink); font-weight: 600; cursor: pointer; }
+.seg-btn.is-on { border: 2px solid var(--tinte); background: var(--tinte-soft); color: var(--tinte); }
+.cue { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2); }
+.cue input { flex: 1 1 12em; min-height: var(--size-tap); padding: 0 var(--space-3); border: 1px solid var(--line-strong); border-radius: var(--radius-md); background: var(--paper-raised); color: var(--ink); }
+.check { display: flex; align-items: center; gap: var(--space-2); min-height: var(--size-tap); }
+.check input { width: 20px; height: 20px; accent-color: var(--tinte); }
+.row { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.close { padding-top: var(--space-12); }

@@ -1,0 +1,11 @@
+{
+  "name": "Satz · German",
+  "short_name": "Satz",
+  "description": "Learn the 3,000 most useful German sentences through recall, spacing and comparison.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#0c5b61",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
