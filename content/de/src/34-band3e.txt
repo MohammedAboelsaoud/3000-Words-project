@@ -1,0 +1,251 @@
+// Band 3 · Everyday life (A2): polite requests (könnten, würden), du/ihr commands,
+// services, work situations, transport problems, invitations.
+## band 3
+
+# requests | Könnten Sie ___? | Könnten Sie …? = Could you …? (very polite)
+[Könnten Sie] mir helfen? | Could you help me?
+Könnten Sie [das Fenster zumachen]? | Could you close the window?
+Könnten Sie [langsamer sprechen]? | Could you speak more slowly?
+Könnten Sie mir [die Adresse] geben? | Could you give me the address?
+
+# requests | Würden Sie ___? | Würden Sie …? = Would you …?
+[Würden Sie] bitte hier unterschreiben? | Would you sign here, please?
+Würden Sie [kurz warten]? | Would you wait a moment?
+Würden Sie mir [ein Foto] machen? | Would you take a photo of me?
+Würden Sie [die Musik leiser machen]? | Would you turn the music down?
+
+# requests | Ich hätte gern ___. | hätte gern / würde gern = would like.
+Ich [würde gern] mehr Deutsch sprechen. | I'd like to speak more German. | Ich würde gerne mehr Deutsch sprechen.
+Ich würde gern [ein Konto eröffnen]. | I'd like to open an account. | Ich würde gerne ein Konto eröffnen.
+Ich würde [lieber] morgen kommen. | I'd rather come tomorrow.
+Ich hätte gern [eine Auskunft]. | I'd like some information. | Ich hätte gerne eine Auskunft.
+
+# requests | Wäre es möglich, ___? | Wäre es möglich …? = Would it be possible …?
+[Wäre es möglich], später zu kommen? | Would it be possible to come later?
+Wäre es möglich, [das Zimmer zu wechseln]? | Would it be possible to change rooms?
+Ist es möglich, [hier zu parken]? | Is it possible to park here?
+Das [wäre sehr nett]. | That would be very kind.
+
+# commands | ___ mal! | du-commands: the verb without -st: komm, nimm, hilf.
+[Komm] mal her! | Come here!
+[Warte] mal! | Wait a moment!
+[Hilf] mir bitte! | Help me, please!
+[Nimm] den Regenschirm mit! | Take the umbrella!
+= Du [kommst] mit. || [Komm] mit! || The du-command drops du and the -st ending.
+
+# commands | ___ nicht! | Warnings with du-commands.
+[Vergiss] das nicht! | Don't forget that!
+[Sei] leise! | Be quiet!
+[Pass] auf dich auf! | Take care of yourself!
+[Fahr] vorsichtig! | Drive carefully!
+
+# commands | ___ ihr! | ihr-commands: the ihr-form without ihr: kommt, seid.
+[Kommt] rein! | Come in, everyone!
+[Seid] bitte pünktlich! | Please be on time, everyone!
+[Macht] eure Hausaufgaben! | Do your homework, everyone!
+[Setzt] euch! | Sit down, everyone!
+
+# commands | Lass uns ___! | Suggestions: Lass uns … / Lasst uns …
+[Lass uns] gehen! | Let's go!
+Lass uns [eine Pause machen]! | Let's take a break!
+Lass uns [Pizza bestellen]! | Let's order pizza!
+[Wollen wir] ins Kino gehen? | Shall we go to the cinema?
+
+# services | Ich möchte ___ kündigen. | Contracts and subscriptions.
+Ich möchte [meinen Vertrag] kündigen. | I'd like to cancel my contract.
+Ich möchte [das Abo] kündigen. | I'd like to cancel the subscription.
+Wie lange ist [die Kündigungsfrist]? | How long is the notice period?
+Ich habe [eine Rechnung] bekommen. | I've received a bill.
+
+# services | Ich habe ___. | Problems with a service.
+Ich habe [eine Beschwerde]. | I have a complaint.
+Ich habe [seit Tagen] kein Internet. | I've had no internet for days.
+Man hat mir [zu viel] berechnet. | I've been overcharged.
+Ich warte [immer noch] auf eine Antwort. | I'm still waiting for an answer.
+
+# services | Beim Friseur ___. | At the hairdresser's.
+Nur [die Spitzen], bitte. | Just the ends, please.
+Bitte [nicht zu kurz]. | Not too short, please.
+Ich möchte [eine neue Frisur]. | I'd like a new hairstyle.
+[Waschen und schneiden], bitte. | A wash and cut, please.
+
+# services | Das Auto ___. | At the garage.
+Das Auto [springt nicht an]. | The car won't start.
+Ich habe [einen Platten]. | I have a flat tyre.
+Wann ist das Auto [fertig]? | When will the car be ready?
+Ich muss [tanken]. | I need to get petrol.
+
+# work | Kannst du ___ übernehmen? | Asking a colleague.
+Kannst du [meine Schicht] übernehmen? | Can you take over my shift?
+Kannst du mir [die Datei] schicken? | Can you send me the file?
+Hast du [kurz Zeit]? | Have you got a minute?
+Ich brauche [deine Hilfe] bei dem Projekt. | I need your help with the project.
+
+# work | Ich bin heute ___. | Calling in.
+Ich bin heute [krank]. | I'm ill today.
+Ich komme heute [später]. | I'll be late today.
+Ich arbeite heute [im Homeoffice]. | I'm working from home today.
+Ich nehme [morgen frei]. | I'm taking tomorrow off.
+
+# work | Die Besprechung ___. | Meetings.
+Die Besprechung [fängt gleich an]. | The meeting is about to start.
+Die Besprechung ist [verschoben]. | The meeting has been postponed.
+Wer [schreibt] das Protokoll? | Who's taking the minutes?
+Wir müssen [das bis Freitag] fertig machen. | We have to finish that by Friday.
+
+# work | Ich bin zuständig für ___. | Responsibilities.
+Ich bin zuständig [für den Einkauf]. | I'm responsible for purchasing.
+Wer ist [dafür zuständig]? | Who's responsible for that?
+Ich kümmere mich [um die Kunden]. | I look after the customers.
+Das ist [nicht meine Aufgabe]. | That's not my job.
+
+# work | Ich möchte ___ Urlaub. | Asking for leave.
+Ich möchte [im August] Urlaub nehmen. | I'd like to take holiday in August.
+Kann ich [zwei Tage] frei nehmen? | Can I take two days off?
+Ich habe [noch zehn Tage] Urlaub. | I still have ten days of holiday.
+Mein Urlaub [ist genehmigt]. | My holiday has been approved.
+
+# transport | Ich habe ___ verpasst. | Missing things.
+Ich habe [den Bus] verpasst. | I missed the bus.
+Ich habe [meine Haltestelle] verpasst. | I missed my stop.
+Ich habe [den letzten Zug] verpasst. | I missed the last train.
+Wann fährt [der nächste]? | When does the next one leave?
+
+# transport | Es gibt ___. | Traffic.
+Es gibt [einen Stau]. | There's a traffic jam.
+Es gibt [eine Baustelle]. | There are roadworks.
+Die Straße [ist gesperrt]. | The road is closed.
+Wir müssen [einen Umweg] fahren. | We have to take a detour.
+
+# transport | Ich suche ___. | Parking and driving.
+Ich suche [einen Parkplatz]. | I'm looking for a parking space.
+Wo ist [das Parkhaus]? | Where is the car park?
+Hier ist [Parkverbot]. | Parking is forbidden here.
+Ich habe [einen Strafzettel] bekommen. | I got a parking ticket.
+
+# transport | Ich habe ___ vergessen. | Things left behind.
+Ich habe [meinen Rucksack] im Zug vergessen. | I left my backpack on the train.
+Wo ist [das Fundbüro]? | Where is the lost property office?
+Ich habe [mein Ticket] nicht dabei. | I don't have my ticket on me.
+Ich habe [meine Monatskarte] verloren. | I've lost my monthly pass.
+
+# invitations | Willst du ___ kommen? | Inviting someone.
+Willst du [am Samstag] zu mir kommen? | Do you want to come round on Saturday?
+Hast du Lust, [mitzukommen]? | Do you fancy coming along?
+Ich mache [eine kleine Party]. | I'm having a little party.
+Bring [gern] jemanden mit! | Feel free to bring someone!
+
+# invitations | Soll ich ___ mitbringen? | Asking as a guest.
+Soll ich [etwas] mitbringen? | Shall I bring something?
+Soll ich [einen Salat] mitbringen? | Shall I bring a salad?
+[Um wie viel Uhr] soll ich kommen? | What time should I come?
+Wie ist [deine Adresse] genau? | What's your exact address?
+
+# invitations | Leider ___. | Declining politely.
+Leider [kann ich nicht] kommen. | Unfortunately I can't come.
+Leider [habe ich schon etwas vor]. | Unfortunately I already have plans.
+Ich [muss leider absagen]. | I'm afraid I have to cancel.
+Vielleicht [klappt es nächstes Mal]. | Maybe it'll work out next time.
+
+# invitations | Danke für ___. | Thanking a host.
+Danke für [den schönen Abend]! | Thanks for the lovely evening!
+Das Essen war [ausgezeichnet]. | The food was excellent.
+Es hat [mir sehr gefallen]. | I really enjoyed it.
+Das nächste Mal [kommt ihr zu uns]. | Next time you come to us.
+
+# leisure | Was läuft ___? | Cinema and TV.
+Was läuft [im Kino]? | What's on at the cinema?
+Was läuft [heute im Fernsehen]? | What's on TV today?
+Der Film [ist ausverkauft]. | The film is sold out.
+Der Film ist [auf Englisch mit Untertiteln]. | The film is in English with subtitles.
+
+# leisure | Ich habe Karten für ___. | Tickets and events.
+Ich habe Karten [für das Konzert]. | I have tickets for the concert.
+Ich habe Karten [für das Fußballspiel]. | I have tickets for the football match.
+Wann ist [Einlass]? | When do the doors open?
+Die Karten kosten [zwanzig Euro] pro Person. | The tickets cost twenty euros each.
+
+# leisure | Ich bin Mitglied ___. | Clubs.
+Ich bin Mitglied [in einem Verein]. | I'm a member of a club.
+Ich spiele [im Verein] Fußball. | I play football in a club.
+Das Training ist [dienstags]. | Training is on Tuesdays.
+Man kann [kostenlos] mitmachen. | You can join in for free.
+
+# leisure | Ich lese gerade ___. | Books and reading.
+Ich lese gerade [einen Roman]. | I'm reading a novel at the moment.
+Das Buch ist [sehr spannend]. | The book is very exciting.
+Ich leihe Bücher [in der Bibliothek] aus. | I borrow books from the library.
+Ich lese [lieber auf dem Handy]. | I prefer reading on my phone.
+
+# leisure | Ich höre gern ___. | Music.
+Ich höre gern [Popmusik]. | I like listening to pop music.
+Wer ist [dein Lieblingssänger]? | Who's your favourite singer?
+Ich lerne [Gitarre spielen]. | I'm learning to play the guitar.
+Die Band spielt [heute live]. | The band is playing live today.
+
+# sport | Ich mache ___. | Sport.
+Ich mache [zweimal pro Woche] Sport. | I do sport twice a week.
+Ich fahre [jeden Tag] Rad. | I cycle every day.
+Ich spiele [seit zehn Jahren] Basketball. | I've played basketball for ten years.
+Ich bin [nicht sportlich]. | I'm not sporty.
+
+# sport | Wer hat ___? | Following a match.
+Wer hat [gewonnen]? | Who won?
+Es steht [zwei zu eins]. | The score is two–one.
+Das Spiel war [unentschieden]. | The match was a draw.
+Unsere Mannschaft hat [verloren]. | Our team lost.
+
+# food | Wie macht man ___? | Recipes.
+Wie macht man [Kartoffelsalat]? | How do you make potato salad?
+Zuerst [schneidet man] die Zwiebeln. | First you cut the onions.
+Dann [kocht man] das Wasser. | Then you boil the water.
+Das muss [zwanzig Minuten] kochen. | That needs to cook for twenty minutes.
+
+# food | Ich mag ___ gern. | Tastes.
+Ich esse [gern scharf]. | I like spicy food.
+Ich mag [süße Sachen]. | I like sweet things.
+Ich esse [kaum Fleisch]. | I hardly eat meat.
+Das ist [mein Lieblingsgericht]. | That's my favourite dish.
+
+# food | Ich habe ___ bestellt. | Delivery and takeaway.
+Ich habe [Essen] bestellt. | I've ordered food.
+Die Lieferung dauert [eine Stunde]. | Delivery takes an hour.
+Ich hole das Essen [selbst ab]. | I'll pick up the food myself.
+Wir essen heute [beim Italiener]. | We're eating at the Italian restaurant today.
+
+# smalltalk | Wie lange ___ schon? | Getting to know someone.
+Wie lange [wohnst du] schon hier? | How long have you lived here?
+Was [gefällt dir] hier am besten? | What do you like best here?
+Wie hast du [Deutsch gelernt]? | How did you learn German?
+Woher [kennt ihr euch]? | How do you know each other?
+
+# smalltalk | Schönes ___ heute. | Talking about the weather.
+[Schönes Wetter] heute, oder? | Nice weather today, isn't it?
+[Was für ein] Regen! | What rain!
+Hoffentlich [bleibt es so]. | Hopefully it stays like this.
+Es soll [morgen wärmer] werden. | It's supposed to get warmer tomorrow.
+
+# smalltalk | Wie war ___? | Following up.
+Wie war [deine Reise]? | How was your trip?
+Wie war [das Vorstellungsgespräch]? | How was the job interview?
+Wie ist [die neue Arbeit]? | How's the new job?
+Wie geht es [deiner Familie]? | How's your family?
+
+# smalltalk | Das freut mich ___. | Responding to news.
+Das freut mich [für dich]! | I'm happy for you!
+Das tut mir [leid zu hören]. | I'm sorry to hear that.
+[Wirklich]? | Really?
+[Na so was]! | Well I never!
+[Kein Wunder]. | No wonder.
+
+# emergency | Ich möchte ___ melden. | At the police station.
+Ich möchte [einen Diebstahl] melden. | I'd like to report a theft.
+Man hat [mein Fahrrad] gestohlen. | My bike has been stolen.
+Mein Portemonnaie [ist weg]. | My wallet is gone.
+Ich brauche [eine Bestätigung] für die Versicherung. | I need confirmation for the insurance.
+
+# emergency | Es brennt ___. | Emergencies.
+Es [brennt]! | Fire!
+Es hat [einen Unfall] gegeben. | There's been an accident.
+Jemand ist [verletzt]. | Someone is injured.
+Die Nummer [ist eins eins zwei]. | The number is one one two.

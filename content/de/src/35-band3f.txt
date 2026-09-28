@@ -1,0 +1,201 @@
+// Band 3 · Everyday life (A2): courses, official matters, children and school, neighbours,
+// online shopping, money, conversation words.
+## band 3
+
+# learning | Ich mache einen ___. | Courses and levels.
+Ich mache einen [Integrationskurs]. | I'm doing an integration course.
+Ich bin [auf Niveau A2]. | I'm at level A2.
+Der Kurs [findet abends statt]. | The course takes place in the evenings.
+Ich habe [mich für den Kurs] angemeldet. | I've signed up for the course.
+
+# learning | Ich habe ___ bestanden. | Exams and certificates.
+Ich habe [die Prüfung] bestanden. | I passed the exam.
+Ich bin [leider durchgefallen]. | Unfortunately I failed.
+Ich brauche [ein Zertifikat]. | I need a certificate.
+Wann bekomme ich [das Ergebnis]? | When will I get the result?
+
+# learning | Ich lerne am besten ___. | How you learn.
+Ich lerne am besten [mit Karteikarten]. | I learn best with flashcards.
+Ich lerne [jeden Morgen] zwanzig Minuten. | I study for twenty minutes every morning.
+Ich [schaue Serien] auf Deutsch. | I watch series in German.
+Ich spreche [so oft wie möglich] Deutsch. | I speak German as often as possible.
+
+# learning | Ich verwechsle ___. | Common difficulties.
+Ich verwechsle [der, die und das]. | I mix up der, die and das.
+Die Aussprache ist [schwierig für mich]. | Pronunciation is difficult for me.
+Ich vergesse [die Wörter] so schnell. | I forget the words so quickly.
+Ich mache [noch viele Fehler]. | I still make lots of mistakes.
+
+# office | Ich brauche ___. | At the immigration office.
+Ich muss [mein Visum] verlängern. | I have to extend my visa.
+Ich brauche [eine Aufenthaltserlaubnis]. | I need a residence permit.
+Ich habe [einen Termin] bei der Ausländerbehörde. | I have an appointment at the immigration office.
+Welche [Dokumente] soll ich mitbringen? | Which documents should I bring?
+
+# office | Ich muss ___ ausfüllen. | Forms.
+Ich muss [einen Antrag] ausfüllen. | I have to fill in an application.
+Wo muss ich [unterschreiben]? | Where do I have to sign?
+Was bedeutet [dieses Wort] hier? | What does this word mean here?
+Brauche ich [eine Kopie]? | Do I need a copy?
+
+# office | Ich bin ___ versichert. | Insurance.
+Ich bin [bei der AOK] versichert. | I'm insured with AOK.
+Ich brauche [eine Haftpflichtversicherung]. | I need liability insurance.
+Die Versicherung [zahlt das]. | The insurance pays for that.
+Ich habe [einen Schaden] gemeldet. | I've reported some damage.
+
+# office | Ich habe einen Brief ___. | Official letters.
+Ich habe [einen Brief vom Amt] bekommen. | I've received a letter from the authorities.
+Ich verstehe [den Brief] nicht. | I don't understand the letter.
+Bis wann muss ich [antworten]? | By when do I have to reply?
+Kannst du mir [beim Brief] helfen? | Can you help me with the letter?
+
+# children | Mein Kind geht ___. | Nursery and school.
+Mein Kind geht [in die Kita]. | My child goes to nursery.
+Meine Tochter ist [in der zweiten Klasse]. | My daughter is in year two.
+Mein Sohn kommt [nächstes Jahr] in die Schule. | My son starts school next year.
+Die Schule [fängt um acht an]. | School starts at eight.
+
+# children | Heute ist ___. | School life.
+Heute ist [Elternabend]. | There's a parents' evening today.
+Morgen ist [ein Ausflug]. | There's a school trip tomorrow.
+Mein Kind [ist heute krank]. | My child is ill today.
+Die Lehrerin [möchte mit mir sprechen]. | The teacher wants to talk to me.
+
+# children | Mein Kind ___. | Talking about your children.
+Mein Kind [spielt gern draußen]. | My child likes playing outside.
+Mein Sohn [kann schon lesen]. | My son can already read.
+Meine Tochter [hat viele Freunde]. | My daughter has lots of friends.
+Die Kinder [streiten sich oft]. | The children often argue.
+
+# neighbours | Mein Nachbar ___. | Neighbours.
+Mein Nachbar [ist sehr nett]. | My neighbour is very nice.
+Die Nachbarn [sind zu laut]. | The neighbours are too loud.
+Können Sie [mein Paket] annehmen? | Can you take in my parcel?
+Ich habe [ein Paket für Sie]. | I have a parcel for you.
+
+# neighbours | Könnten Sie bitte ___? | Asking neighbours politely.
+Könnten Sie bitte [leiser sein]? | Could you please be quieter?
+Könnten Sie [meine Blumen] gießen? | Could you water my plants?
+Könnten Sie [den Schlüssel] nehmen? | Could you take the key?
+Könnten Sie [auf die Katze] aufpassen? | Could you look after the cat?
+
+# online | Ich habe ___ online bestellt. | Online shopping.
+Ich habe [Schuhe] online bestellt. | I ordered shoes online.
+Das Paket kommt [morgen]. | The parcel is coming tomorrow.
+Ich schicke [die Hose] zurück. | I'm sending the trousers back.
+Die Rücksendung ist [kostenlos]. | Returns are free.
+
+# online | Ich habe ___ vergessen. | Accounts and passwords.
+Ich habe [mein Passwort] vergessen. | I've forgotten my password.
+Ich kann mich [nicht einloggen]. | I can't log in.
+Ich habe [ein neues Konto] erstellt. | I've created a new account.
+Die App [stürzt immer ab]. | The app keeps crashing.
+
+# online | Ich lade ___ herunter. | Phones and apps.
+Ich lade [die App] herunter. | I'm downloading the app.
+Ich mache [ein Update]. | I'm doing an update.
+Mein Akku ist [fast leer]. | My battery is almost dead.
+Kann ich [mein Handy hier] aufladen? | Can I charge my phone here?
+
+# money | Ich spare ___. | Money habits.
+Ich spare [für ein Auto]. | I'm saving for a car.
+Ich gebe [zu viel Geld] aus. | I spend too much money.
+Am Ende des Monats [habe ich kein Geld]. | At the end of the month I have no money.
+Ich kann mir [das nicht leisten]. | I can't afford that.
+
+# money | Kannst du mir ___ leihen? | Borrowing.
+Kannst du mir [zehn Euro] leihen? | Can you lend me ten euros?
+Ich gebe dir das Geld [morgen] zurück. | I'll give you the money back tomorrow.
+Ich [schulde dir] noch fünf Euro. | I still owe you five euros.
+Das [geht auf mich]. | This one's on me.
+
+# talk | Also, ___ | Conversation words: also = so, well.
+[Also], ich finde das gut. | Well, I think it's good.
+[Na ja], es geht so. | Well, it's so-so.
+[Übrigens], ich komme morgen nicht. | By the way, I'm not coming tomorrow.
+[Eigentlich] wollte ich zu Hause bleiben. | Actually I wanted to stay at home.
+
+# talk | Zum Beispiel ___ | Giving examples and adding.
+[Zum Beispiel] Äpfel oder Birnen. | For example apples or pears.
+Ich mag Obst, [vor allem] Erdbeeren. | I like fruit, especially strawberries.
+[Außerdem] ist es billig. | Besides, it's cheap.
+[Und dann]? | And then?
+
+# talk | Wie bitte? — Ich meine ___. | Clarifying.
+[Ich meine], das ist zu teuer. | I mean, that's too expensive.
+[Was meinst du] damit? | What do you mean by that?
+[Also noch mal]: morgen um zehn. | So, once again: tomorrow at ten.
+[Habe ich das richtig verstanden]? | Did I understand that correctly?
+
+# talk | Da hast du ___. | Agreeing and disagreeing.
+Da hast du [recht]. | You're right there.
+[Genau so] ist es. | That's exactly how it is.
+Das [sehe ich anders]. | I see it differently.
+[Ich bin nicht sicher]. | I'm not sure.
+
+# talk | Das kommt ___. | Hedging.
+Das kommt [darauf an]. | It depends.
+[Kann sein]. | Could be.
+[Wahrscheinlich] ja. | Probably yes.
+[Mal sehen]. | We'll see.
+
+# festivals | An ___ … | German holidays.
+[An Weihnachten] besuchen wir die Familie. | At Christmas we visit family.
+[An Silvester] gibt es ein Feuerwerk. | On New Year's Eve there are fireworks.
+[An Ostern] suchen die Kinder Eier. | At Easter the children look for eggs.
+[Am Feiertag] sind die Geschäfte zu. | On public holidays the shops are closed.
+
+# festivals | Wir feiern ___. | Celebrating your own holidays.
+Wir feiern [das Opferfest]. | We celebrate Eid al-Adha.
+Im Ramadan [faste ich]. | During Ramadan I fast.
+Wir essen [zusammen mit der Familie]. | We eat together with the family.
+Die Kinder [bekommen Geschenke]. | The children get presents.
+
+# environment | Man soll ___. | Everyday environment.
+Man soll [Energie sparen]. | You should save energy.
+Ich [fahre lieber] mit dem Rad. | I prefer to go by bike.
+Ich kaufe [weniger Plastik]. | I buy less plastic.
+Wir [trennen den Müll]. | We separate our rubbish.
+
+# environment | Mach bitte ___ aus. | Saving energy at home.
+Mach bitte [das Licht] aus. | Please turn off the light.
+Mach bitte [die Heizung] leiser. | Please turn the heating down.
+Mach [das Fenster] nicht so lange auf. | Don't leave the window open so long.
+[Dusch] nicht so lange! | Don't shower for so long!
+
+# media | Hast du ___ gehört? | News.
+Hast du [die Nachrichten] gehört? | Have you heard the news?
+Ich lese [die Nachrichten] online. | I read the news online.
+Was steht [in der Zeitung]? | What's in the paper?
+Das habe ich [im Radio] gehört. | I heard that on the radio.
+
+# media | Ich schaue ___. | Films and series.
+Ich schaue gerade [eine Serie]. | I'm watching a series at the moment.
+Ich schaue [lieber Dokumentationen]. | I prefer watching documentaries.
+Wie viele [Folgen] hat die Serie? | How many episodes does the series have?
+Ich habe [die ganze Staffel] gesehen. | I watched the whole season.
+
+# feelings | Ich habe ___. | More feelings.
+Ich habe [Heimweh]. | I'm homesick.
+Ich habe [Stress]. | I'm stressed.
+Ich habe [ein schlechtes Gewissen]. | I have a guilty conscience.
+Ich bin [stolz auf dich]. | I'm proud of you.
+
+# feelings | Ich bin ___ enttäuscht. | Disappointment and relief.
+Ich bin [ein bisschen] enttäuscht. | I'm a bit disappointed.
+Ich bin [froh], dass du da bist. | I'm glad you're here.
+[Gott sei Dank]! | Thank goodness!
+[Zum Glück] hat es geklappt. | Luckily it worked out.
+
+# relationships | Wir haben ___. | Relationships.
+Wir haben uns [im Kurs] kennengelernt. | We met on the course.
+Wir sind [seit Mai] zusammen. | We've been together since May.
+Wir haben uns [getrennt]. | We've split up.
+Wir wollen [nächstes Jahr] heiraten. | We want to get married next year.
+
+# relationships | Ich vertraue ___. | Friendship.
+Ich vertraue [dir]. | I trust you.
+Er ist [mein bester Freund]. | He's my best friend.
+Wir haben [uns lange nicht] gesehen. | We haven't seen each other for a long time.
+Wir haben [den Kontakt] verloren. | We lost touch.

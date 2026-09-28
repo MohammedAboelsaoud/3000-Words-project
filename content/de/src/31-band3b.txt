@@ -1,0 +1,209 @@
+// Band 3 · Everyday life (A2): the Perfekt with sein; travel stories; the doctor; body and
+// health; appointments.
+## band 3
+
+# past | Ich bin ___ gegangen. | Movement from A to B uses sein: ich bin gegangen.
+Ich bin [nach Hause] gegangen. | I went home.
+Ich bin [ins Kino] gegangen. | I went to the cinema.
+Wir sind [spazieren] gegangen. | We went for a walk.
+Er ist [früh] gegangen. | He left early.
+= Ich [habe] Pizza gegessen. || Ich [bin] nach Hause gegangen. || Going somewhere takes bin; most other verbs take habe.
+
+# past | Ich bin ___ gefahren. | fahren → ich bin gefahren.
+Ich bin [mit dem Zug] gefahren. | I went by train.
+Wir sind [nach München] gefahren. | We went to Munich.
+Bist du [mit dem Auto] gefahren? | Did you go by car?
+Sie ist [zu schnell] gefahren. | She drove too fast.
+
+# past | Ich bin ___ gekommen. | kommen → gekommen.
+Ich bin [zu spät] gekommen. | I came too late.
+Wann bist du [nach Hause] gekommen? | When did you get home?
+Er ist [nicht] gekommen. | He didn't come.
+Der Brief ist [heute] gekommen. | The letter came today.
+
+# past | Ich bin ___ geflogen. | fliegen → geflogen.
+Ich bin [nach Kairo] geflogen. | I flew to Cairo.
+Wir sind [mit Ryanair] geflogen. | We flew with Ryanair.
+Bist du [schon mal] geflogen? | Have you ever flown?
+Der Flug ist [pünktlich] gelandet. | The flight landed on time.
+
+# past | Ich bin ___ angekommen. | Separable: angekommen, abgefahren, eingestiegen.
+Ich bin [gut] angekommen. | I arrived safely.
+Der Zug ist [pünktlich] abgefahren. | The train left on time.
+Wir sind [in Hamburg] ausgestiegen. | We got off in Hamburg.
+Ich bin [falsch] eingestiegen. | I got on the wrong train.
+
+# past | Ich bin ___ geblieben. | bleiben (to stay) also takes sein.
+Ich bin [zu Hause] geblieben. | I stayed at home.
+Wir sind [drei Wochen] geblieben. | We stayed for three weeks.
+Er ist [im Bett] geblieben. | He stayed in bed.
+Wie lange [bist du] geblieben? | How long did you stay?
+
+# past | Ich bin ___ aufgestanden. | aufstehen, einschlafen, aufwachen take sein (a change of state).
+Ich bin [um sechs] aufgestanden. | I got up at six.
+Ich bin [sofort] eingeschlafen. | I fell asleep immediately.
+Ich bin [in der Nacht] aufgewacht. | I woke up in the night.
+Das Baby ist [endlich] eingeschlafen. | The baby finally fell asleep.
+
+# past | Ich bin ___ gelaufen. | laufen, schwimmen, wandern: sein when you go somewhere.
+Ich bin [zehn Kilometer] gelaufen. | I ran ten kilometres.
+Wir sind [im See] geschwommen. | We swam in the lake.
+Wir sind [in den Bergen] gewandert. | We went hiking in the mountains.
+Sie ist [zum Bus] gerannt. | She ran to the bus.
+
+# past | Es ist ___ passiert. | passieren, werden, sterben take sein too.
+Was ist [dir] passiert? | What happened to you?
+Er ist [Vater] geworden. | He's become a father.
+Es ist [kalt] geworden. | It's got cold.
+Ihr Opa ist [letztes Jahr] gestorben. | Her grandad died last year.
+
+# past | Ich bin ___ gewesen. | sein → ich bin gewesen (often just: ich war).
+Ich bin [in Paris] gewesen. | I've been to Paris.
+Bist du [schon mal] in Wien gewesen? | Have you ever been to Vienna?
+Wir sind [beim Arzt] gewesen. | We've been to the doctor.
+Ich bin [lange nicht] hier gewesen. | I haven't been here for a long time.
+
+# travel | Im Urlaub bin ich ___. | Telling a holiday story.
+Im Urlaub bin ich [jeden Tag] geschwommen. | On holiday I swam every day.
+Wir haben [viele Fotos] gemacht. | We took lots of photos.
+Wir haben [in einem Zelt] geschlafen. | We slept in a tent.
+Wir haben [nette Leute] kennengelernt. | We met nice people.
+
+# travel | Wir haben ___ besichtigt. | besichtigen = to visit (a sight).
+Wir haben [das Schloss] besichtigt. | We visited the castle.
+Wir haben [die Altstadt] angeschaut. | We looked round the old town.
+Wir haben [eine Stadtführung] gemacht. | We did a city tour.
+Wir sind [auf den Turm] gestiegen. | We climbed up the tower.
+
+# travel | Ich habe ___ gebucht. | Booking.
+Ich habe [einen Flug] gebucht. | I've booked a flight.
+Ich habe [ein Hotel] am Strand gebucht. | I've booked a hotel on the beach.
+Ich habe [den Mietwagen] reserviert. | I've reserved the hire car.
+Ich möchte [die Buchung] stornieren. | I'd like to cancel the booking.
+
+# travel | Am Flughafen ___. | At the airport.
+Wo ist [der Check-in]? | Where is the check-in?
+Mein Koffer [ist nicht angekommen]. | My suitcase hasn't arrived.
+Der Flug [hat zwei Stunden Verspätung]. | The flight is two hours late.
+Ich habe [meinen Anschlussflug] verpasst. | I missed my connecting flight.
+
+# travel | Ich hätte gern ___. | At the ticket office.
+Ich hätte gern [eine Fahrkarte nach Köln]. | I'd like a ticket to Cologne. | Ich hätte gerne eine Fahrkarte nach Köln.
+Ich hätte gern [einen Fensterplatz]. | I'd like a window seat. | Ich hätte gerne einen Fensterplatz.
+Gibt es [eine Ermäßigung für Studenten]? | Is there a student discount?
+Muss ich [die Fahrkarte] entwerten? | Do I have to stamp the ticket?
+
+# travel | Von welchem Gleis ___? | At the station.
+Von welchem Gleis [fährt der Zug]? | Which platform does the train leave from?
+Der Zug fährt [von Gleis vier]. | The train leaves from platform four.
+Ist das [der Zug nach Berlin]? | Is this the train to Berlin?
+Ist [dieser Platz] reserviert? | Is this seat reserved?
+
+# travel | Ich habe mich ___. | Getting lost.
+Ich habe mich [verlaufen]. | I've got lost (on foot).
+Ich habe mich [verfahren]. | I've got lost (driving).
+Können Sie mir [auf der Karte] zeigen, wo wir sind? | Can you show me on the map where we are?
+Ich finde [mein Hotel] nicht. | I can't find my hotel.
+
+# health | Beim Arzt ___. | At the doctor's reception.
+Ich habe [einen Termin] um zehn. | I have an appointment at ten.
+Hier ist [meine Versicherungskarte]. | Here is my health insurance card.
+Ich bin [zum ersten Mal] hier. | I'm here for the first time.
+Wie lange muss ich [warten]? | How long do I have to wait?
+
+# health | Was fehlt ___? | The doctor asks.
+[Was fehlt Ihnen]? | What's the matter?
+[Wo tut es weh]? | Where does it hurt?
+[Seit wann] haben Sie die Schmerzen? | How long have you had the pain?
+Nehmen Sie [Medikamente]? | Do you take any medication?
+
+# health | Ich habe ___. | Describing symptoms.
+Ich habe [starke Schmerzen]. | I'm in a lot of pain.
+Ich habe [Durchfall]. | I have diarrhoea.
+Ich [kann nicht schlafen]. | I can't sleep.
+Ich habe [mich verletzt]. | I've hurt myself.
+Ich habe [mir den Fuß] gebrochen. | I've broken my foot.
+
+# health | Sie müssen ___. | The doctor's advice.
+Sie müssen [im Bett bleiben]. | You have to stay in bed.
+Sie müssen [viel trinken]. | You have to drink a lot.
+Sie dürfen [nicht arbeiten]. | You mustn't work.
+Nehmen Sie [dreimal täglich] eine Tablette. | Take one tablet three times a day.
+
+# health | Ich soll ___. | Reporting advice: soll = I've been told to.
+Ich soll [mich ausruhen]. | I'm supposed to rest.
+Ich soll [weniger Kaffee] trinken. | I'm supposed to drink less coffee.
+Ich soll [nächste Woche] wiederkommen. | I'm supposed to come back next week.
+Ich soll [mehr Sport] machen. | I'm supposed to do more exercise.
+
+# health | In der Apotheke ___. | At the pharmacy.
+Haben Sie [etwas gegen Husten]? | Do you have something for a cough?
+Brauche ich [dafür ein Rezept]? | Do I need a prescription for that?
+[Wie oft] muss ich das nehmen? | How often do I have to take it?
+Das nehmen Sie [vor dem Essen]. | Take that before meals.
+
+# health | Ich fühle mich ___. | sich fühlen = to feel.
+Ich fühle mich [nicht gut]. | I don't feel well.
+Ich fühle mich [schon besser]. | I already feel better.
+Ich fühle mich [schwach]. | I feel weak.
+Wie [fühlst du dich]? | How are you feeling?
+
+# body | Ich habe mir ___. | Small accidents.
+Ich habe mir [in den Finger] geschnitten. | I've cut my finger.
+Ich habe mir [den Kopf] gestoßen. | I've bumped my head.
+Ich habe mir [die Hand] verbrannt. | I've burnt my hand.
+Ich bin [hingefallen]. | I fell over.
+
+# appointments | Ich möchte einen Termin ___. | Making appointments.
+Ich möchte einen Termin [beim Zahnarzt]. | I'd like an appointment with the dentist.
+Haben Sie [nächste Woche] einen Termin frei? | Do you have a free appointment next week?
+Geht es [auch früher]? | Is anything earlier possible?
+[Passt Ihnen] Donnerstag um zehn? | Does Thursday at ten suit you?
+
+# appointments | Ich muss den Termin ___. | Changing appointments.
+Ich muss den Termin [absagen]. | I have to cancel the appointment.
+Ich muss den Termin [verschieben]. | I have to postpone the appointment.
+Kann ich [einen neuen Termin] machen? | Can I make a new appointment?
+Ich komme [zehn Minuten] später. | I'll be ten minutes late.
+
+# health | Ich mache ___. | Healthy habits.
+Ich esse [viel Gemüse]. | I eat a lot of vegetables.
+Ich gehe [jeden Tag] spazieren. | I go for a walk every day.
+Ich trinke [genug Wasser]. | I drink enough water.
+Ich [schlafe acht Stunden]. | I sleep eight hours.
+
+# health | - | -
+Ich habe [mit Yoga] angefangen. | I've started doing yoga.
+Ich esse [weniger Zucker]. | I eat less sugar.
+Ich will [abnehmen]. | I want to lose weight.
+Ich [trinke keinen Alkohol] mehr. | I don't drink alcohol any more.
+
+# past | Ich bin ___ umgestiegen. | Travel verbs in the past.
+Ich bin [in Frankfurt] umgestiegen. | I changed in Frankfurt.
+Wir sind [über Paris] geflogen. | We flew via Paris.
+Wir sind [die ganze Nacht] gefahren. | We drove all night.
+Ich bin [mit dem Nachtzug] gereist. | I travelled on the night train.
+
+# past | Als Kind ___. | als Kind = as a child.
+Als Kind [war ich] sehr schüchtern. | As a child I was very shy.
+Als Kind [hatte ich] einen Hund. | As a child I had a dog.
+Als Kind [habe ich] viel gelesen. | As a child I read a lot.
+Als Kind [bin ich] gern geschwommen. | As a child I liked swimming.
+
+# past | Früher ___. | früher = in the past, used to.
+[Früher] habe ich in Kairo gewohnt. | I used to live in Cairo.
+Früher [war] alles anders. | Everything used to be different.
+Früher habe ich [geraucht]. | I used to smoke.
+Früher [konnte] ich gut tanzen. | I used to be able to dance well.
+
+# past | ___ Jahre | Life events with years.
+Ich bin [2019] nach Deutschland gekommen. | I came to Germany in 2019.
+Ich habe [2015] geheiratet. | I got married in 2015.
+Unsere Tochter ist [2021] geboren. | Our daughter was born in 2021.
+Ich habe [mit achtzehn] den Führerschein gemacht. | I got my driving licence at eighteen.
+
+# past | Hat es ___? | Did you like it?
+Hat es [dir gefallen]? | Did you like it?
+Hat [der Film] dir gefallen? | Did you like the film?
+Hat [alles geklappt]? | Did everything work out?
+Hat [es geregnet]? | Did it rain?

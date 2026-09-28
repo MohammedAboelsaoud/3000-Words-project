@@ -1,0 +1,159 @@
+// Band 3 · Everyday life (A2), last part: someone/no one, something new, dieser,
+// suggestions, calendars, possession with names, travel planning.
+## band 3
+
+# words | Jemand ___. | jemand = someone, niemand = no one, alle = everyone.
+[Jemand] hat angerufen. | Someone called.
+[Niemand] ist zu Hause. | No one is at home.
+[Alle] sind schon da. | Everyone is already here.
+Ist [jemand] da? | Is anyone there?
+
+# words | Ich habe etwas ___. | etwas/nichts + describing word with a capital: etwas Neues.
+Ich habe [etwas Neues] gekauft. | I've bought something new.
+Gibt es [etwas Neues]? | Is there any news?
+Ich möchte [etwas Warmes] trinken. | I'd like something warm to drink.
+Es gibt [nichts Besonderes]. | There's nothing special.
+
+# words | Ich habe ___ gesehen. | etwas, nichts, alles.
+Ich habe [nichts] gesehen. | I didn't see anything.
+Ich habe [alles] verstanden. | I understood everything.
+Hast du [etwas] gehört? | Did you hear something?
+[Das ist alles], danke. | That's everything, thanks.
+
+# words | Dieser ___ | dieser/diese/dieses = this.
+[Dieser] Pullover ist schön. | This jumper is nice.
+[Diese] Woche bin ich müde. | This week I'm tired.
+[Dieses] Jahr fahren wir nicht weg. | This year we're not going away.
+Wie findest du [diese] Farbe? | What do you think of this colour?
+
+# words | Jeder ___ | jeder/jede/jedes = every.
+[Jeder] Mensch ist anders. | Every person is different.
+[Jede] Woche gehe ich schwimmen. | I go swimming every week.
+Ich trinke [jeden Morgen] Tee. | I drink tea every morning.
+[Jedes] Kind bekommt ein Geschenk. | Every child gets a present.
+
+# words | ___s Auto | Possession with names: Lenas Auto = Lena's car (no apostrophe).
+Das ist [Lenas] Auto. | That's Lena's car.
+Das ist [Pauls] Bruder. | That's Paul's brother.
+Kennst du [Omars] Frau? | Do you know Omar's wife?
+Das Auto [von meinem Bruder] ist rot. | My brother's car is red.
+
+# suggestions | Wie wäre es mit ___? | Wie wäre es mit …? = How about …?
+[Wie wäre es mit] einem Spaziergang? | How about a walk?
+Wie wäre es [mit Pizza]? | How about pizza?
+Wie wäre es [am Freitag]? | How about Friday?
+Wir könnten [ins Museum] gehen. | We could go to the museum.
+
+# suggestions | Warum ___ wir nicht …? | Suggesting with warum nicht.
+[Warum gehen wir nicht] ins Kino? | Why don't we go to the cinema?
+Warum [fragst du nicht] deinen Chef? | Why don't you ask your boss?
+[Was hältst du] davon? | What do you think of that?
+[Einverstanden]! | Agreed!
+
+# calendar | Ich habe ___ Zeit. | Checking your calendar.
+Am Montag [habe ich keine Zeit]. | I'm not free on Monday.
+Dienstag [geht bei mir]. | Tuesday works for me.
+Ich schaue [in meinen Kalender]. | I'll look in my calendar.
+Ich [trage es mir ein]. | I'll put it in my diary.
+
+# calendar | Ich bin ___ weg. | Being away.
+Ich bin [nächste Woche] weg. | I'm away next week.
+Ich bin [bis Freitag] im Urlaub. | I'm on holiday until Friday.
+Ich bin [ab Montag] wieder da. | I'm back from Monday.
+Ich bin [übers Wochenende] bei meinen Eltern. | I'm at my parents' over the weekend.
+
+# time | Das dauert ___. | How long things take.
+Das dauert [nur einen Moment]. | That'll only take a moment.
+Das dauert [ungefähr eine Stunde]. | That takes about an hour.
+Das dauert [mindestens zwei Wochen]. | That takes at least two weeks.
+Wie lange [hat es gedauert]? | How long did it take?
+
+# time | Ich bin ___. | Being on time.
+Ich bin [pünktlich]. | I'm on time.
+Ich bin [zu früh]. | I'm too early.
+Tut mir leid, [ich bin zu spät]. | Sorry, I'm late.
+Du bist [schon wieder] zu spät! | You're late again!
+
+# travel | Wir planen ___. | Planning a trip.
+Wir planen [eine Reise nach Italien]. | We're planning a trip to Italy.
+Wir fahren [für eine Woche] weg. | We're going away for a week.
+Wir wollen [viel sehen]. | We want to see a lot.
+Wir brauchen [noch eine Unterkunft]. | We still need somewhere to stay.
+
+# travel | Was kostet ___? | Travel prices.
+Was kostet [eine Nacht]? | How much is one night?
+Ist [das Frühstück] inklusive? | Is breakfast included?
+Was kostet [die Fahrt] ungefähr? | Roughly how much is the journey?
+Gibt es [ein günstigeres Zimmer]? | Is there a cheaper room?
+
+# travel | Im Hotel gibt es ___. | Hotel problems.
+Die Dusche [ist kaputt]. | The shower is broken.
+Das Zimmer ist [nicht sauber]. | The room isn't clean.
+Die Klimaanlage [funktioniert nicht]. | The air conditioning doesn't work.
+Können Sie [jemanden schicken]? | Can you send someone?
+
+# travel | Ich möchte ___ auschecken. | Leaving the hotel.
+Ich möchte [jetzt] auschecken. | I'd like to check out now.
+Kann ich [mein Gepäck] hier lassen? | Can I leave my luggage here?
+Können Sie mir [ein Taxi] rufen? | Can you call me a taxi?
+Bis wann muss ich [das Zimmer] verlassen? | By what time do I have to leave the room?
+
+# directions | Gehen Sie ___. | Detailed directions.
+Gehen Sie [über die Brücke]. | Go over the bridge.
+Gehen Sie [am Park] vorbei. | Go past the park.
+Gehen Sie [um die Ecke]. | Go round the corner.
+Es ist [auf der linken Seite]. | It's on the left-hand side.
+
+# directions | Das ist ___. | Near and far.
+Das ist [ganz in der Nähe]. | That's very close by.
+Das ist [am anderen Ende] der Stadt. | That's at the other end of town.
+Das ist [nicht zu verfehlen]. | You can't miss it.
+Das ist [etwa fünf Minuten] von hier. | That's about five minutes from here.
+
+# weather | Es ist ___. | Extreme weather.
+Es ist [glatt] draußen. | It's icy outside.
+Es gibt [ein Gewitter]. | There's a thunderstorm.
+Es ist [über dreißig Grad]. | It's over thirty degrees.
+Es sind [minus fünf Grad]. | It's minus five degrees.
+
+# weather | Zieh ___ an! | Dressing for the weather.
+Zieh [eine Jacke] an! | Put on a jacket!
+Nimm [einen Schirm] mit! | Take an umbrella!
+Vergiss [die Sonnencreme] nicht! | Don't forget the sun cream!
+Zieh [dich warm] an! | Wrap up warm!
+
+# describe | Es sieht aus wie ___. | aussehen wie = to look like.
+Es sieht aus [wie ein Hut]. | It looks like a hat.
+Er sieht [müde] aus. | He looks tired.
+Das sieht [lecker] aus. | That looks delicious.
+Wie sieht [dein Freund] aus? | What does your boyfriend look like?
+
+# describe | Das ist aus ___. | Materials.
+Der Tisch ist [aus Holz]. | The table is made of wood.
+Die Tasche ist [aus Leder]. | The bag is made of leather.
+Das T-Shirt ist [aus Baumwolle]. | The T-shirt is made of cotton.
+Die Flasche ist [aus Glas]. | The bottle is made of glass.
+
+# body | Er hat sich ___ verletzt. | More body parts.
+Er hat sich [am Knie] verletzt. | He hurt his knee.
+Mein [Arm] tut weh. | My arm hurts.
+Ich habe [Zahnschmerzen]. | I have toothache.
+Meine [Augen] sind müde. | My eyes are tired.
+
+# food | Ich hätte gern ___. | Ordering more precisely.
+Ich hätte gern [das Steak medium]. | I'd like the steak medium. | Ich hätte gerne das Steak medium.
+Ich hätte gern [die Soße extra]. | I'd like the sauce on the side. | Ich hätte gerne die Soße extra.
+Ich hätte gern [eine kleine Portion]. | I'd like a small portion. | Ich hätte gerne eine kleine Portion.
+Kann ich [statt Pommes Salat] haben? | Can I have salad instead of chips?
+
+# food | Kannst du mir ___ reichen? | At the table.
+Kannst du mir [das Brot] reichen? | Can you pass me the bread?
+Kann ich [noch etwas] haben? | Can I have some more?
+Ich bin [satt]. | I'm full.
+Das war [genug für mich]. | That was enough for me.
+
+# shopping | Welche Größe ___? | Sizes.
+Welche Größe [haben Sie]? | What size are you?
+Ich habe [Größe achtunddreißig]. | I'm a size 38.
+Ich brauche [eine Nummer größer]. | I need one size bigger.
+Die Schuhe gibt es nur [in Größe vierzig]. | The shoes only come in size 40.
