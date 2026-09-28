@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "predev": "node scripts/tokens-css.mjs",
+    "predev": "node scripts/compile-content.mjs && node scripts/tokens-css.mjs",
     "dev": "vite",
     "build": "node scripts/compile-content.mjs && node scripts/tokens-css.mjs && tsc --noEmit && vite build",
     "preview": "vite preview",
