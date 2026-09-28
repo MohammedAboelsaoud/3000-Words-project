@@ -1,3 +1,4 @@
+import type { SyncStatus } from '../lib/api';
 import type { Plan } from '../lib/planner';
 import type { Streak } from '../lib/progress';
 import { BandRoadmap, Button, RecoveryNotice, StartButton, StreakMeter } from '../ui/ds';
@@ -5,6 +6,8 @@ import { BandRoadmap, Button, RecoveryNotice, StartButton, StreakMeter } from '.
 export function Home(props: {
   plan: Plan;
   persistent: boolean;
+  sync: SyncStatus;
+  onSignIn(): void;
   sentences: number;
   streak: Streak;
   cue: string;
@@ -47,10 +50,20 @@ export function Home(props: {
         )}
       </section>
 
+      <SyncNotice status={props.sync} onSignIn={props.onSignIn} />
       {!props.persistent && <p className="notice">This browser window can't save your progress, so it will reset when you close it. Open the app in a normal (not private) window to keep it.</p>}
 
       <StreakMeter days={props.streak.days} freezes={props.streak.freezes} week={props.streak.week} />
       <BandRoadmap sentences={props.sentences} />
     </main>
   );
+}
+
+/** Shown only when saving to the account is not working. */
+export function SyncNotice({ status, onSignIn }: { status: SyncStatus; onSignIn(): void }) {
+  if (status === 'retrying') return <p className="notice" role="status">Your latest answers are not saved yet. Satz keeps trying; keep this page open until it reconnects.</p>;
+  if (status === 'signed-out') {
+    return <p className="notice" role="alert">You were logged out, so new answers are not being saved. <button type="button" className="sz-link" onClick={onSignIn}>Log in again</button></p>;
+  }
+  return null;
 }

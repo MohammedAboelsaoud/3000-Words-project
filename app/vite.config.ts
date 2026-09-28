@@ -5,5 +5,6 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   base: process.env.BASE_PATH ?? '/',
   plugins: [react()],
-  server: { fs: { allow: ['..'] } },
+  // In development, API calls go to the local Satz server (npm start in server/).
+  server: { fs: { allow: ['..'] }, proxy: { '/api': 'http://localhost:8080' } },
 });

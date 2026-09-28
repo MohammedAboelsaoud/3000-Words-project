@@ -6,14 +6,24 @@ import { nextCheckpoint, streak, trueRetention } from './lib/progress';
 import { makeScheduler, newTrace, PRODUCTION_UNLOCK_DAYS, review, State, traceId, type Format, type ReviewLog, type Trace } from './lib/scheduler';
 import { buildQueue, type Task } from './lib/session';
 import { voicesReady } from './lib/speech';
+import { ApiStore, currentUser, deleteAccount, logout, type SyncStatus, type User } from './lib/api';
 import { openStore, type AppStore, type Progress, type Settings } from './lib/store';
+import { Auth } from './screens/Auth';
 import { Home } from './screens/Home';
 import { Session } from './screens/Session';
 import { Setup } from './screens/Setup';
 import { Button, SessionClose } from './ui/ds';
 
 const content = germanContent;
-type Screen = 'loading' | 'setup' | 'home' | 'session' | 'close' | 'settings';
+type Screen = 'loading' | 'auth' | 'setup' | 'home' | 'session' | 'close' | 'settings';
+const GUEST_KEY = 'satz-guest';
+
+function guestChosen(): boolean {
+  try { return localStorage.getItem(GUEST_KEY) === '1'; } catch { return false; }
+}
+function setGuestChosen(on: boolean) {
+  try { if (on) localStorage.setItem(GUEST_KEY, '1'); else localStorage.removeItem(GUEST_KEY); } catch { /* storage blocked */ }
+}
 
 function daysBetween(fromKey: string | null, to: Date): number | null {
   if (!fromKey) return null;
@@ -32,9 +42,14 @@ export function App() {
   const [version, setVersion] = useState(0);
   const [session, setSession] = useState<{ queue: Task[]; estMin: number } | null>(null);
   const [error, setError] = useState<string | null>(null);
+  /** server: an account server is reachable; user: who is logged in (null = this device only). */
+  const [account, setAccount] = useState<{ server: boolean; user: User | null }>({ server: false, user: null });
+  const [sync, setSync] = useState<SyncStatus>('saved');
 
-  const load = useCallback(async () => {
+  const load = useCallback(async (next?: AppStore) => {
+    if (next) storeRef.current = next;
     const store = storeRef.current ?? (storeRef.current = await openStore());
+    if (store instanceof ApiStore) store.onStatus(setSync);
     const data = await store.load();
     traces.current = new Map(data.traces.map((t) => [t.id, t]));
     setLog(data.log);
@@ -50,10 +65,27 @@ export function App() {
     setScreen(data.settings.onboarded ? 'home' : 'setup');
   }, []);
 
+  // Start: a logged-in account if the server has one, else the login screen, else this device only.
   useEffect(() => {
-    load().catch((e) => setError(String(e)));
     voicesReady().then(setVoices);
+    (async () => {
+      if (import.meta.env.VITE_ARTIFACT) return load();
+      const me = await currentUser();
+      setAccount(me);
+      if (me.user) return load(new ApiStore(me.user));
+      if (me.server && !guestChosen()) return setScreen('auth');
+      return load();
+    })().catch((e) => setError(String(e)));
   }, [load]);
+
+  // Warn before closing the page while answers are still being saved.
+  useEffect(() => {
+    const warn = (e: BeforeUnloadEvent) => {
+      if (storeRef.current instanceof ApiStore && storeRef.current.pending > 0) e.preventDefault();
+    };
+    window.addEventListener('beforeunload', warn);
+    return () => window.removeEventListener('beforeunload', warn);
+  }, []);
 
   const f = useMemo(() => makeScheduler(settings?.retention ?? 0.9), [settings?.retention]);
   const secPerReview = useMemo(() => measuredSecPerReview(log.filter((l) => l.format !== 'intro').map((l) => l.durationMs)), [log]);
@@ -91,7 +123,49 @@ export function App() {
     return seen;
   }, [log]);
 
+  const onAuthed = async (user: User, created: boolean) => {
+    const local = storeRef.current && !(storeRef.current instanceof ApiStore) ? storeRef.current : null;
+    const api = new ApiStore(user);
+    if (created && local) {
+      // A new account starts with the progress made on this device.
+      const snap = await local.load();
+      if (snap.traces.length || snap.settings.onboarded) await api.importAll(snap);
+    }
+    setGuestChosen(false);
+    setAccount({ server: true, user });
+    setScreen('loading');
+    await load(api);
+  };
+
+  const onLogout = async () => {
+    await logout().catch(() => {});
+    storeRef.current = null;
+    traces.current = new Map();
+    setLog([]);
+    setSettings(null);
+    setProgress(null);
+    setAccount({ server: true, user: null });
+    setSync('saved');
+    setScreen('auth');
+  };
+
+  const onDeleteAccount = async (password: string) => {
+    await deleteAccount(password);
+    await onLogout();
+  };
+
+  const onGuest = () => {
+    setGuestChosen(true);
+    setScreen('loading');
+    load().catch((e) => setError(String(e)));
+  };
+
   if (error) return <main className="screen"><p className="home-title">Something went wrong</p><p className="muted">{error}</p></main>;
+  if (screen === 'auth') {
+    return <Auth onAuthed={(u, c) => { onAuthed(u, c).catch((e) => setError(String(e))); }}
+      onGuest={storeRef.current ? () => setScreen('settings') : onGuest}
+      hasLocalProgress={!!storeRef.current && traces.current.size > 0} />;
+  }
   if (screen === 'loading' || !settings || !progress || !plan) return <main className="screen"><p className="muted">Loading…</p></main>;
 
   const commit = async (updated: Trace[], entry: ReviewLog | null) => {
@@ -187,11 +261,12 @@ export function App() {
 
   if (screen === 'setup' || screen === 'settings') {
     return <Setup settings={settings} first={screen === 'setup'} voices={voices} onSave={saveSettings} persistent={storeRef.current?.persistent ?? true}
-      onCancel={() => setScreen('home')} onExport={exportBackup} onImport={importBackup} />;
+      onCancel={() => setScreen('home')} onExport={exportBackup} onImport={importBackup}
+      account={account} onLogout={onLogout} onDeleteAccount={onDeleteAccount} onSignIn={() => setScreen('auth')} />;
   }
 
   if (screen === 'session' && session) {
-    return <Session content={content} initialQueue={session.queue} traces={traces.current} voices={voices}
+    return <Session sync={sync} content={content} initialQueue={session.queue} traces={traces.current} voices={voices}
       speaking={settings.speaking} estMin={session.estMin} formatSeen={formatSeen}
       onIntro={onIntro} onReview={onReview} onActivity={onActivity} onFinish={onFinish} />;
   }
@@ -214,7 +289,7 @@ export function App() {
 
   const introducedIds = new Set(progress.introduced);
   return (
-    <Home persistent={storeRef.current?.persistent ?? true} plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
+    <Home sync={sync} onSignIn={() => setScreen('auth')} persistent={storeRef.current?.persistent ?? true} plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
       contentLeft={content.families.some((fam) => !introducedIds.has(fam.id))} onStart={start} onSettings={() => setScreen('settings')} />
   );
 }

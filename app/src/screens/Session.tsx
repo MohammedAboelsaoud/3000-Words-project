@@ -1,6 +1,7 @@
 // A session: planned reviews, then new families (listen → guess → reveal → shadow → compare),
 // with the 1-min and 10-min recalls of new sentences slotted in as they come due.
 import { useEffect, useMemo, useRef, useState } from 'react';
+import type { SyncStatus } from '../lib/api';
 import { distractors, shuffle, type Content } from '../lib/content';
 import { gradeSpoken, gradeTyped, type DiffToken, type Grade, type SpokenResult } from '../lib/grade';
 import type { Format, Trace } from '../lib/scheduler';
@@ -13,6 +14,7 @@ import {
 } from '../ui/ds';
 
 export interface SessionProps {
+  sync: SyncStatus;
   content: Content;
   initialQueue: Task[];
   traces: Map<string, Trace>;
@@ -129,6 +131,8 @@ export function Session(props: SessionProps) {
   return (
     <main className="screen session">
       <div className="session-top">
+        {props.sync === 'retrying' && <span className="sync-dot" role="status">Not saved yet · reconnecting</span>}
+        {props.sync === 'signed-out' && <span className="sync-dot" role="alert">Logged out · answers not saved</span>}
         <Button variant="text" onClick={() => { stopAudio(); recordActivity(); props.onFinish(false); }}>Stop for today</Button>
       </div>
       {body}

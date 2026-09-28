@@ -1,0 +1,15 @@
+{
+  "name": "satz",
+  "private": true,
+  "description": "Learn the 3,000 most useful German sentences. App (app/), account server (server/) and content (content/).",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "setup": "npm install --prefix app",
+    "build": "npm run build --prefix app",
+    "start": "npm start --prefix server",
+    "local": "npm run setup && npm run build && npm start",
+    "dev": "echo 'Run \"npm start\" (API on :8080) and, in a second terminal, \"npm run dev --prefix app\" (app on :5173).'",
+    "test": "npm test --prefix app && npm test --prefix server",
+    "content:check": "npm run content:check --prefix app"
+  }
+}
