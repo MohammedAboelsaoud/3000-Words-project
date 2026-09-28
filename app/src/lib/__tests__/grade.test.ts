@@ -56,3 +56,12 @@ describe('gradeSpoken', () => {
     expect(r.words.filter((w) => w.flag === 'omitted').map((w) => w.text)).toEqual(['die', 'Rechnung']);
   });
 });
+
+describe('split slots', async () => {
+  const { slotOf, blankSlot } = await import('../text');
+  it('joins and blanks both parts of a separable verb', () => {
+    expect(slotOf('Ich [stehe] um sieben Uhr [auf].')).toBe('stehe auf');
+    expect(blankSlot('Ich [stehe] um sieben Uhr [auf].')).toBe('Ich ___ um sieben Uhr ___.');
+    expect(gradeTyped('stehe auf', [slotOf('Ich [stehe] um sieben Uhr [auf].')]).grade).toBe('good');
+  });
+});

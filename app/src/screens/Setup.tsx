@@ -6,6 +6,12 @@ import { recognitionAvailable, voiceName } from '../lib/speech';
 import { Button } from '../ui/ds';
 
 const BUDGETS = [15, 30, 45, 60];
+const LEVELS = [
+  { band: 1, name: 'From the beginning', desc: 'Band 1 · Survival — greetings, ordering, asking the way' },
+  { band: 2, name: 'I know a few phrases', desc: 'Band 2 · Foundations (A1) — present tense, questions, modal verbs' },
+  { band: 3, name: 'I can handle simple conversations', desc: 'Band 3 · Everyday life (A2) — past tense, dative, comparisons' },
+  { band: 4, name: 'I can talk about everyday things', desc: 'Band 4 · Threshold (B1) — weil/dass clauses, would/could, opinions' },
+];
 const PACE: Record<number, string> = { 15: 'about 3 new sentences a day', 30: 'about 6–7 new sentences a day', 45: 'about 10 new sentences a day', 60: 'about 13 new sentences a day' };
 
 export function Setup(props: {
@@ -49,6 +55,19 @@ export function Setup(props: {
           ))}
         </div>
         <p className="muted">{PACE[s.budgetMin]}. The whole path takes about 225 hours at any pace; minutes only set the calendar.</p>
+      </fieldset>
+
+      <fieldset className="field">
+        <legend>Where do you start?</legend>
+        <div className="level-list">
+          {LEVELS.map((l) => (
+            <button key={l.band} type="button" className={'level-btn' + (s.startBand === l.band ? ' is-on' : '')} aria-pressed={s.startBand === l.band} onClick={() => set('startBand', l.band)}>
+              <span className="level-name">{l.name}</span>
+              <span className="muted">{l.desc}</span>
+            </button>
+          ))}
+        </div>
+        {s.startBand > 1 && <p className="muted">Earlier bands are skipped. You can go back to them any time here.</p>}
       </fieldset>
 
       <label className="field">

@@ -1,0 +1,177 @@
+// Band 4 · Threshold (B1): instructions and processes, daily life at B1, digital life,
+// time management, dating, the bank and transport at B1.
+## band 4
+
+# process | Zuerst muss man ___. | Explaining how something works.
+Zuerst muss man [sich online registrieren]. | First you have to register online.
+Danach bekommt man [einen Code per SMS]. | After that you get a code by text.
+Den Code gibt man [hier ein]. | You enter the code here.
+Dann ist [das Konto aktiviert]. | Then the account is activated.
+
+# process | Man drückt auf ___. | Using machines.
+Man drückt [auf den grünen Knopf]. | You press the green button.
+Man steckt [die Karte] hier hinein. | You put the card in here.
+Das Gerät [schaltet sich automatisch] aus. | The device switches off automatically.
+Die Anleitung [ist leider nur auf Deutsch]. | Unfortunately the instructions are only in German.
+
+# process | Wie funktioniert ___? | Asking how things work.
+Wie funktioniert [der Fahrkartenautomat]? | How does the ticket machine work?
+Wie funktioniert [das mit dem Pfand]? | How does the bottle deposit work?
+Kannst du mir zeigen, [wie man das einstellt]? | Can you show me how to set that up?
+Was muss ich [als Erstes] machen? | What do I have to do first?
+
+# daily | Ich komme kaum dazu, ___. | Busy life.
+Ich komme kaum dazu, [Sport zu machen]. | I hardly get round to doing sport.
+Mir fehlt [die Zeit] für Hobbys. | I don't have time for hobbies.
+Ich bin [ständig unterwegs]. | I'm always on the go.
+Am Wochenende [erhole ich mich]. | At the weekend I recover.
+
+# daily | Ich muss noch ___ erledigen. | Errands.
+Ich muss noch [ein paar Dinge] erledigen. | I still have a few things to do.
+Ich muss [zur Reinigung]. | I have to go to the dry cleaner's.
+Ich muss [das Paket] zur Post bringen. | I have to take the parcel to the post office.
+Ich muss [den Kühlschrank auffüllen]. | I have to restock the fridge.
+
+# daily | Im Haushalt ___. | Sharing housework.
+Im Haushalt [teilen wir die Arbeit] auf. | We share the housework.
+Ich [bin fürs Kochen zuständig]. | I'm in charge of cooking.
+Er [macht nie den Abwasch]. | He never does the washing-up.
+Wir haben [einen Putzplan]. | We have a cleaning rota.
+
+# time | Ich schaffe es nicht, ___. | Time management.
+Ich schaffe es nicht, [alles rechtzeitig zu machen]. | I can't manage to do everything on time.
+Ich muss [Prioritäten setzen]. | I need to set priorities.
+Ich [plane meinen Tag] am Abend vorher. | I plan my day the evening before.
+Ich [verschiebe Dinge] zu oft. | I put things off too often.
+
+# digital | Ich habe ___ gespeichert. | Files and data.
+Ich habe [die Datei] gespeichert. | I've saved the file.
+Ich habe [aus Versehen alles] gelöscht. | I accidentally deleted everything.
+Hast du [eine Sicherungskopie]? | Do you have a backup copy?
+Die Datei ist [zu groß zum Verschicken]. | The file is too big to send.
+
+# digital | Wir haben eine Videokonferenz ___. | Online meetings.
+Wir haben [um zehn] eine Videokonferenz. | We have a video conference at ten.
+Du bist [noch stummgeschaltet]. | You're still on mute.
+Kannst du [deinen Bildschirm] teilen? | Can you share your screen?
+Die Verbindung [bricht immer ab]. | The connection keeps dropping.
+
+# digital | Ich bekomme ___ E-Mails. | Online problems.
+Ich bekomme [so viele Werbe-E-Mails]. | I get so many advertising emails.
+Das ist [bestimmt eine Betrugsmail]. | That's definitely a scam email.
+Klick [nicht auf den Link]! | Don't click on the link!
+Ich habe [mein Passwort geändert]. | I've changed my password.
+
+# dating | Hast du Lust, ___? | Asking someone out.
+Hast du Lust, [mal mit mir essen zu gehen]? | Would you like to go out for a meal with me sometime?
+Darf ich dich [auf einen Kaffee einladen]? | May I invite you for a coffee?
+Ich würde dich [gern besser kennenlernen]. | I'd like to get to know you better.
+Wie wäre es [mit Samstagabend]? | How about Saturday evening?
+
+# dating | Ich habe mich ___. | Falling in love.
+Ich habe mich [in dich verliebt]. | I've fallen in love with you.
+Ich denke [ständig an dich]. | I think about you all the time.
+Du [bedeutest mir viel]. | You mean a lot to me.
+Wir [passen gut zusammen]. | We're a good match.
+
+# bank | Ich möchte ___ einrichten. | Banking at B1.
+Ich möchte [einen Dauerauftrag] einrichten. | I'd like to set up a standing order.
+Meine Karte [wurde gesperrt]. | My card has been blocked.
+Ich habe [eine falsche Abbuchung] entdeckt. | I've found an incorrect debit.
+Wie hoch sind [die Kontogebühren]? | How much are the account fees?
+
+# transport | Ich habe ___ im Abo. | Transport at B1.
+Ich habe [das Deutschlandticket] im Abo. | I have a Deutschlandticket subscription.
+Ich wurde [ohne Fahrschein] kontrolliert. | I was checked without a ticket.
+Ich muss [sechzig Euro] Strafe zahlen. | I have to pay a sixty-euro fine.
+Der Zug war [so voll], dass ich stehen musste. | The train was so full that I had to stand.
+
+# transport | Ich mache ___. | Driving.
+Ich mache [gerade den Führerschein]. | I'm learning to drive.
+Mein ausländischer Führerschein [muss umgeschrieben] werden. | My foreign driving licence has to be converted.
+Ich bin [durch die Prüfung gefallen]. | I failed the test.
+Ich fahre [lieber mit Navi]. | I prefer driving with satnav.
+
+# neighbourhood | In unserem Viertel ___. | The neighbourhood.
+In unserem Viertel [wohnen viele Familien]. | Lots of families live in our area.
+Es gibt [ein Straßenfest] im Sommer. | There's a street party in summer.
+Die Nachbarn [helfen sich gegenseitig]. | The neighbours help each other.
+Nachts [ist es hier sicher]. | It's safe here at night.
+
+# formal | Wären Sie so freundlich, ___? | Formal politeness.
+Wären Sie so freundlich, [mir das zu erklären]? | Would you be so kind as to explain that to me?
+Ich möchte Sie [höflich bitten], leiser zu sein. | I'd like to politely ask you to be quieter.
+Darf ich [Ihnen meine Kollegin] vorstellen? | May I introduce my colleague to you?
+[Es freut mich], Sie kennenzulernen. | It's a pleasure to meet you.
+
+# formal | Wir duzen uns ___. | du and Sie.
+Wollen wir [uns duzen]? | Shall we say du to each other?
+Bei der Arbeit [sieze ich meinen Chef]. | At work I say Sie to my boss.
+[Ich bin Thomas], übrigens. | I'm Thomas, by the way.
+Du kannst [gern du zu mir] sagen. | Feel free to say du to me.
+
+# shopping | Ich hätte gern eine Beratung ___. | Getting advice in a shop.
+Ich hätte gern [eine Beratung]. | I'd like some advice. | Ich hätte gerne eine Beratung.
+Welches Modell [würden Sie empfehlen]? | Which model would you recommend?
+Was ist [der Unterschied] zwischen den beiden? | What's the difference between the two?
+Gibt es [eine Garantie]? | Is there a guarantee?
+
+# restaurant | Ich hätte gern ___ reserviert. | Restaurants at B1.
+Ich würde gern [einen Tisch für Samstag] reservieren. | I'd like to reserve a table for Saturday.
+Können wir [draußen sitzen]? | Can we sit outside?
+Was ist [heute das Tagesgericht]? | What's today's special?
+Das Essen [war hervorragend], vielen Dank. | The food was excellent, thank you.
+
+# weekend | Am Wochenende habe ich vor, ___. | Weekend plans.
+Am Wochenende habe ich vor, [einen Ausflug zu machen]. | At the weekend I'm planning to go on a trip.
+Ich [schlafe mal richtig aus]. | I'm going to have a proper lie-in.
+Wir [grillen mit Freunden] am See. | We're having a barbecue with friends at the lake.
+Ich habe [noch nichts] geplant. | I haven't planned anything yet.
+
+# describe | Es ist ein Gerät, mit dem ___. | Describing objects you don't know the word for.
+Es ist ein Gerät, [mit dem man Kaffee macht]. | It's a device you use to make coffee.
+Es ist [so etwas wie] ein Messer. | It's something like a knife.
+Man braucht es, [um Löcher zu bohren]. | You need it to drill holes.
+Es ist [rund und aus Metall]. | It's round and made of metal.
+
+# health | Ich habe mich impfen lassen. | Health matters at B1.
+Ich habe [mich impfen] lassen. | I've had a vaccination.
+Ich gehe [einmal im Jahr] zur Vorsorge. | I go for a check-up once a year.
+Der Zahnarzt hat [ein Loch] gefunden. | The dentist found a cavity.
+Ich brauche [eine neue Brille]. | I need new glasses.
+
+# work | In der Pause ___. | Small talk at work.
+In der Pause [trinken wir zusammen Kaffee]. | In the break we have coffee together.
+Wie war [dein Urlaub]? Erzähl mal! | How was your holiday? Tell me!
+Hast du [das Neueste] schon gehört? | Have you heard the latest?
+Am Freitag [gehen wir nach der Arbeit] etwas trinken. | On Friday we're going for a drink after work.
+
+# celebrations | Wir haben ___ gefeiert. | Celebrations at B1.
+Wir haben [unseren Hochzeitstag] gefeiert. | We celebrated our wedding anniversary.
+Zu meinem Geburtstag [hat mich meine Familie überrascht]. | My family surprised me on my birthday.
+Das Zuckerfest feiern wir [drei Tage lang]. | We celebrate Eid al-Fitr for three days.
+Wir haben [bis in die Nacht] gefeiert. | We celebrated late into the night.
+
+# nature | Beim Wandern ___. | Outdoors at B1.
+Beim Wandern [vergesse ich den Stress]. | When I'm hiking, I forget my stress.
+Wir haben [eine Hütte in den Bergen] gemietet. | We rented a cabin in the mountains.
+Der Weg war [steiler als gedacht]. | The path was steeper than expected.
+Oben hatten wir [eine wunderbare Aussicht]. | At the top we had a wonderful view.
+
+# change | Seit ich hier wohne, ___. | How life has changed.
+Seit ich hier wohne, [bin ich selbstständiger]. | Since I've lived here, I've become more independent.
+Ich habe mich [sehr verändert]. | I've changed a lot.
+Ich sehe [vieles jetzt anders]. | I see a lot of things differently now.
+Ich habe [neue Seiten an mir] entdeckt. | I've discovered new sides to myself.
+
+# advice | Mein Tipp für Anfänger: ___. | Advice for learners.
+Mein Tipp: [Hab keine Angst vor Fehlern]. | My tip: don't be afraid of mistakes.
+Sprich [so viel wie möglich]. | Speak as much as possible.
+Hör [jeden Tag] etwas auf Deutsch. | Listen to something in German every day.
+Lern [ganze Sätze], nicht nur Wörter. | Learn whole sentences, not just words.
+
+# goals | Ich bin fast am Ziel. | Nearing the end of the path.
+Ich bin [fast am Ziel]. | I'm almost at my goal.
+Es war [ein langer Weg]. | It's been a long journey.
+Jeder Tag [hat sich gelohnt]. | Every day was worth it.
+Jetzt [fängt das Abenteuer erst an]. | Now the adventure is only just beginning.

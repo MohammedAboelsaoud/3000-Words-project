@@ -1,0 +1,147 @@
+// Band 4 · Threshold (B1): opinions, agreeing and disagreeing, arguing a point,
+// structuring what you say.
+## band 4
+
+# opinion | Meiner Meinung nach ___. | Meiner Meinung nach + verb straight after.
+Meiner Meinung nach [ist das falsch]. | In my opinion that's wrong.
+Meiner Meinung nach [sollte man mehr Rad fahren]. | In my opinion people should cycle more.
+Meiner Meinung nach [hat er recht]. | In my opinion he's right.
+Meiner Meinung nach [ist Bildung sehr wichtig]. | In my opinion education is very important.
+
+# opinion | Ich bin der Meinung, dass ___. | Stating a view formally.
+Ich bin der Meinung, dass [wir mehr tun müssen]. | I'm of the opinion that we have to do more.
+Ich bin der Ansicht, dass [das zu teuer ist]. | I take the view that it's too expensive.
+Ich bin davon überzeugt, dass [es funktioniert]. | I'm convinced that it works.
+Ich denke, dass [wir eine Lösung finden]. | I think that we'll find a solution.
+
+# opinion | Was hältst du von ___? | halten von = to think of.
+Was hältst du [von der Idee]? | What do you think of the idea?
+Ich halte [nicht viel] davon. | I don't think much of it.
+Ich halte das [für eine gute Idee]. | I think it's a good idea.
+Was hältst du [davon], wenn wir gehen? | What would you say if we left?
+
+# opinion | Ich finde es ___, dass … | Evaluating.
+Ich finde es [gut], dass du fragst. | I think it's good that you're asking.
+Ich finde es [unfair], dass er mehr verdient. | I think it's unfair that he earns more.
+Ich finde es [wichtig], ehrlich zu sein. | I think it's important to be honest.
+Ich finde es [komisch], dass niemand da ist. | I think it's strange that no one is here.
+
+# agree | Da stimme ich ___ zu. | zustimmen = to agree.
+Da stimme ich [dir] zu. | I agree with you there.
+Da [hast du völlig] recht. | You're completely right there.
+[Das sehe ich] genauso. | I see it exactly the same way.
+Ich bin [ganz deiner Meinung]. | I completely agree with you.
+
+# agree | Das stimmt, aber ___. | Partly agreeing.
+Das stimmt, aber [es ist teuer]. | That's true, but it's expensive.
+Im Prinzip ja, aber [nicht sofort]. | In principle yes, but not right away.
+[Einerseits] ist es praktisch, andererseits teuer. | On the one hand it's practical, on the other expensive.
+Da hast du [zum Teil] recht. | You're partly right there.
+
+# disagree | Da bin ich ___. | Disagreeing politely.
+Da bin ich [anderer Meinung]. | I disagree there.
+Das [sehe ich nicht so]. | I don't see it that way.
+Ich [habe da Zweifel]. | I have my doubts about that.
+Da muss ich dir [widersprechen]. | I have to contradict you there.
+
+# disagree | Das stimmt ___. | Firmer disagreement.
+Das stimmt [überhaupt nicht]. | That's not true at all.
+Das [kann ich nicht glauben]. | I can't believe that.
+Das ist [doch Unsinn]! | That's nonsense!
+[Auf keinen Fall]! | No way!
+
+# argue | Ein Vorteil ist, dass ___. | Pros and cons.
+Ein Vorteil ist, dass [es billig ist]. | One advantage is that it's cheap.
+Ein Nachteil ist, dass [es lange dauert]. | One disadvantage is that it takes a long time.
+Der größte Vorteil ist [die Flexibilität]. | The biggest advantage is the flexibility.
+Es hat [Vor- und Nachteile]. | It has advantages and disadvantages.
+
+# argue | Zum einen ___, zum anderen … | Structuring arguments.
+[Zum einen] ist es gesund, zum anderen macht es Spaß. | For one thing it's healthy, for another it's fun.
+[Außerdem] spart man Geld. | Besides, you save money.
+[Dazu kommt], dass es schnell geht. | On top of that, it's quick.
+[Nicht zuletzt] ist es gut für die Umwelt. | Last but not least, it's good for the environment.
+
+# argue | Deshalb ___. | Concluding.
+[Deshalb] bin ich dafür. | That's why I'm in favour.
+[Aus diesem Grund] bin ich dagegen. | For this reason I'm against it.
+[Zusammenfassend] kann man sagen, dass es sich lohnt. | In summary, you can say it's worth it.
+[Alles in allem] war es eine gute Entscheidung. | All in all it was a good decision.
+
+# argue | Ich bin für / gegen ___. | For and against.
+Ich bin [dafür], dass wir bleiben. | I'm in favour of us staying.
+Ich bin [dagegen]. | I'm against it.
+Ich bin [für mehr Grünflächen] in der Stadt. | I'm for more green spaces in the city.
+Viele Leute sind [gegen das Projekt]. | Many people are against the project.
+
+# argue | Es kommt darauf an, ___. | Conditions.
+Es kommt darauf an, [wie viel es kostet]. | It depends on how much it costs.
+Es hängt davon ab, [ob ich Zeit habe]. | It depends on whether I have time.
+[Unter einer Bedingung]: du hilfst mir. | On one condition: you help me.
+Das gilt [nur für Mitglieder]. | That only applies to members.
+
+# argue | Zum Beispiel ___. | Supporting with examples.
+[Ein gutes Beispiel] dafür ist Kopenhagen. | A good example of that is Copenhagen.
+[Aus eigener Erfahrung] weiß ich, dass es hilft. | I know from my own experience that it helps.
+[Laut einer Studie] schlafen wir zu wenig. | According to a study, we sleep too little.
+[In meinem Land] ist das anders. | In my country that's different.
+
+# compare | Im Vergleich zu ___. | Comparing countries and situations.
+Im Vergleich zu [Ägypten] ist es hier kalt. | Compared to Egypt it's cold here.
+[In Deutschland] ist Pünktlichkeit sehr wichtig. | In Germany punctuality is very important.
+[Bei uns] isst man später zu Abend. | Where I come from, people eat dinner later.
+[Im Gegensatz zu] früher ist alles digital. | Unlike in the past, everything is digital.
+
+# compare | ___ als früher | Changes over time.
+Heute leben die Menschen [länger als früher]. | Today people live longer than in the past.
+Es gibt [immer mehr] Autos. | There are more and more cars.
+Die Mieten werden [immer teurer]. | Rents are getting more and more expensive.
+[Immer weniger] Menschen lesen Zeitung. | Fewer and fewer people read newspapers.
+
+# talk | Ich meine damit, ___. | Explaining yourself.
+Ich meine damit, [dass wir mehr Zeit brauchen]. | What I mean is that we need more time.
+[Anders gesagt]: es ist zu spät. | In other words: it's too late.
+[Das heißt], wir müssen warten. | That means we have to wait.
+[Ich wollte nur sagen], dass ich dich verstehe. | I just wanted to say that I understand you.
+
+# talk | Darf ich kurz ___? | Joining a discussion.
+Darf ich [kurz etwas sagen]? | May I say something?
+[Entschuldigung, dass ich unterbreche]. | Sorry to interrupt.
+Ich möchte [noch etwas ergänzen]. | I'd like to add something.
+[Um auf deine Frage zurückzukommen]: ja. | To come back to your question: yes.
+
+# talk | Lass mich ___. | Taking and keeping a turn.
+Lass mich [bitte ausreden]. | Please let me finish.
+[Einen Moment], ich bin noch nicht fertig. | One moment, I haven't finished.
+[Was ich sagen wollte], ist Folgendes. | What I wanted to say is this.
+[Wie gesagt], ich habe keine Zeit. | As I said, I don't have time.
+
+# talk | Wie meinst du ___? | Checking understanding.
+Wie meinst du [das genau]? | What exactly do you mean?
+[Verstehe ich dich richtig], dass du kündigst? | Do I understand correctly that you're quitting?
+Kannst du [ein Beispiel] geben? | Can you give an example?
+Kannst du das [anders erklären]? | Can you explain it differently?
+
+# describe | Auf dem Bild sieht man ___. | Describing a picture.
+Auf dem Bild sieht man [eine Familie]. | In the picture you can see a family.
+[Im Vordergrund] steht ein Mann. | In the foreground there's a man.
+[Im Hintergrund] sieht man Berge. | In the background you can see mountains.
+Es sieht so aus, [als ob sie glücklich sind]. | It looks as if they're happy.
+
+# describe | Die Grafik zeigt ___. | Describing statistics.
+Die Grafik zeigt, [wie viele Menschen Rad fahren]. | The chart shows how many people cycle.
+[Die meisten] Menschen fahren mit dem Auto. | Most people go by car.
+[Nur wenige] fahren mit dem Bus. | Only a few go by bus.
+[Mehr als die Hälfte] arbeitet zu Hause. | More than half work from home.
+
+# experience | Ich habe die Erfahrung gemacht, dass ___. | Talking about experience.
+Ich habe die Erfahrung gemacht, [dass Geduld hilft]. | I've found that patience helps.
+[Mir ist aufgefallen], dass alle pünktlich sind. | I've noticed that everyone is punctual.
+Am Anfang war es [schwer für mich]. | At first it was hard for me.
+Mit der Zeit [habe ich mich daran gewöhnt]. | Over time I got used to it.
+
+# experience | Ich habe gelernt, ___. | Reflecting.
+Ich habe gelernt, [Nein zu sagen]. | I've learned to say no.
+Das war [eine wichtige Erfahrung]. | That was an important experience.
+Ich würde [es wieder machen]. | I'd do it again.
+[Im Nachhinein] war es richtig. | In hindsight it was right.

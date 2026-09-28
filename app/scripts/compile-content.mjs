@@ -53,6 +53,11 @@ for (const file of fs.readdirSync(srcDir).filter((f) => f.endsWith('.txt')).sort
     }
     const [de, en, ...alt] = line.split('|').map((x) => x.trim());
     if (!de || !en) return errors.push(`${where}: needs "German | English"`);
+    // One slot per sentence; a split item (a separable verb, um … zu) may use two brackets.
+    const opens = (de.match(/\[/g) || []).length;
+    if (opens < 1 || opens > 2 || opens !== (de.match(/\]/g) || []).length) errors.push(`${where}: needs one [slot] (two parts at most, for a split item)`);
+    const words = norm(de).split(' ').filter((w) => /\p{L}/u.test(w)).length;
+    if (words > 12) errors.push(`${where}: ${words} words (max 12)`);
     fam.sentences.push({ de, en, ...(alt.length ? { alt } : {}), where });
   });
 }

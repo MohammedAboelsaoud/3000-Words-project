@@ -1,0 +1,147 @@
+// Band 4 · Threshold (B1): everyday idioms, solving problems, measurements, food culture,
+// hobbies at B1, planning events.
+## band 4
+
+# idioms | Das ist ___. | Common idioms.
+Das ist [nicht mein Ding]. | That's not my thing.
+Das ist [mir Wurst]. | I couldn't care less.
+Das ist [ein Kinderspiel]. | That's child's play.
+Das ist [nicht der Rede wert]. | It's not worth mentioning.
+
+# idioms | Ich verstehe ___. | Idioms about understanding.
+Ich verstehe [nur Bahnhof]. | It's all Greek to me.
+[Der Groschen ist gefallen]. | The penny has dropped.
+Ich habe [keine Ahnung], wovon du sprichst. | I have no idea what you're talking about.
+Jetzt [geht mir ein Licht auf]. | Now it's dawning on me.
+
+# idioms | Ich drücke ___. | Idioms with body parts.
+Das [liegt mir auf der Zunge]. | It's on the tip of my tongue.
+Ich habe [die Nase voll]. | I've had enough.
+Er hat [zwei linke Hände]. | He's all thumbs.
+[Hals- und Beinbruch]! | Break a leg!
+
+# idioms | Das ist ___. | Idioms with animals and food.
+Da [steppt der Bär]. | It's a great party.
+Das ist [nicht mein Bier]. | That's not my problem.
+Alles hat [ein Ende, nur die Wurst hat zwei]. | Everything comes to an end.
+Ich [habe einen Kater]. | I have a hangover.
+
+# idioms | Es ist ___. | Everyday expressions.
+Es ist [höchste Zeit]. | It's high time.
+Es ist [noch nicht aller Tage Abend]. | It's not over yet.
+[Ende gut, alles gut]. | All's well that ends well.
+[Übung macht den Meister]. | Practice makes perfect.
+
+# problems | Ich habe ein Problem mit ___. | Explaining a problem.
+Ich habe ein Problem [mit meiner Bank]. | I have a problem with my bank.
+Das Problem ist, dass [niemand zuständig ist]. | The problem is that no one is responsible.
+Ich weiß nicht, [an wen ich mich wenden soll]. | I don't know who to turn to.
+Ich habe [schon dreimal] angerufen. | I've already called three times.
+
+# problems | Was kann man ___? | Finding solutions.
+Was kann man [da machen]? | What can be done about it?
+Gibt es [eine andere Möglichkeit]? | Is there another option?
+Wir finden [bestimmt eine Lösung]. | We're sure to find a solution.
+Wir versuchen es [noch einmal]. | We'll try again.
+
+# problems | Ich möchte mich über ___ beschweren. | Formal complaints.
+Ich möchte mich [über den Service] beschweren. | I'd like to complain about the service.
+Ich bin [mit der Reparatur] nicht zufrieden. | I'm not satisfied with the repair.
+Ich erwarte [eine Entschädigung]. | I expect compensation.
+Ich möchte [mit dem Geschäftsführer] sprechen. | I'd like to speak to the manager.
+
+# problems | Das hat nicht ___. | Things going wrong.
+Das hat [leider nicht geklappt]. | Unfortunately that didn't work out.
+Da ist [etwas schiefgegangen]. | Something went wrong there.
+Ich habe [mich geirrt]. | I was mistaken.
+Das war [ein Missverständnis]. | That was a misunderstanding.
+
+# measure | Das ist ___ lang. | Measurements.
+Das Zimmer ist [vier Meter] lang. | The room is four metres long.
+Die Wohnung hat [sechzig Quadratmeter]. | The flat is sixty square metres.
+Ich wiege [siebzig Kilo]. | I weigh seventy kilos.
+Ich bin [ein Meter achtzig] groß. | I'm one metre eighty tall.
+
+# measure | Ich brauche ___. | Quantities.
+Ich brauche [einen Liter] Milch. | I need a litre of milk.
+Ich brauche [eine Packung] Nudeln. | I need a packet of pasta.
+Ich brauche [eine Dose] Tomaten. | I need a tin of tomatoes.
+Ich brauche [ein Stück] Butter. | I need a block of butter.
+
+# measure | Das kostet ___ Prozent. | Percentages and prices.
+Alles ist [zwanzig Prozent] billiger. | Everything is twenty percent cheaper.
+Die Preise sind [um zehn Prozent] gestiegen. | Prices have gone up by ten percent.
+Das kostet [ungefähr fünfhundert] Euro. | That costs about five hundred euros.
+Das ist [das Doppelte]. | That's double.
+
+# food | Typisch deutsch ist ___. | Food culture.
+Typisch deutsch ist [das Abendbrot]. | The evening bread meal is typically German.
+In Bayern isst man [gern Weißwurst]. | In Bavaria people like eating white sausage.
+Sonntags gibt es [Kaffee und Kuchen]. | On Sundays there's coffee and cake.
+Das Brot in Deutschland ist [sehr vielfältig]. | The bread in Germany is very varied.
+
+# food | In meinem Land isst man ___. | Food from home.
+In meinem Land isst man [viel Reis]. | In my country people eat a lot of rice.
+Unser Nationalgericht ist [Koschari]. | Our national dish is koshari.
+Das Essen ist [schärfer] als hier. | The food is spicier than here.
+Ich koche dir [mal etwas Ägyptisches]. | I'll cook you something Egyptian sometime.
+
+# food | Man nimmt ___. | Giving a recipe.
+Man nimmt [zwei Eier] und etwas Mehl. | You take two eggs and some flour.
+Das Ganze [muss eine Stunde] ruhen. | The whole thing has to rest for an hour.
+Man backt es [bei zweihundert Grad]. | You bake it at two hundred degrees.
+Zum Schluss [streut man Salz] darüber. | Finally you sprinkle salt over it.
+
+# hobbies | Ich habe angefangen, ___. | New hobbies.
+Ich habe angefangen, [zu malen]. | I've started painting.
+Seit einem Jahr [spiele ich Theater]. | I've been doing theatre for a year.
+Ich habe [ein neues Hobby] gefunden. | I've found a new hobby.
+Das [entspannt mich] total. | It totally relaxes me.
+
+# hobbies | Ich treibe ___. | Sport at B1.
+Ich treibe [regelmäßig] Sport. | I do sport regularly.
+Ich trainiere [für einen Marathon]. | I'm training for a marathon.
+Ich habe [mich im Fitnessstudio] angemeldet. | I've joined the gym.
+Nach dem Sport [bin ich immer gut gelaunt]. | After sport I'm always in a good mood.
+
+# nature | Ich bin gern ___. | Nature.
+Ich bin gern [in der Natur]. | I like being out in nature.
+Wir machen [eine Radtour] an der Elbe. | We're doing a bike tour along the Elbe.
+Im Wald ist es [angenehm kühl]. | It's pleasantly cool in the forest.
+Man hat [einen tollen Blick] auf die Stadt. | You have a great view of the city.
+
+# nature | Tiere ___. | Animals and pets.
+Mein Hund [muss dreimal am Tag] raus. | My dog has to go out three times a day.
+Die Katze [schläft den ganzen Tag]. | The cat sleeps all day.
+Wir haben [einen Hund aus dem Tierheim]. | We have a dog from the animal shelter.
+Im Zoo gibt es [viele exotische Tiere]. | There are lots of exotic animals at the zoo.
+
+# events | Wir organisieren ___. | Planning an event.
+Wir organisieren [eine Überraschungsparty]. | We're organising a surprise party.
+Wer [kümmert sich] um die Musik? | Who's taking care of the music?
+Wir brauchen [noch jemanden] für die Getränke. | We still need someone for the drinks.
+Ich [schreibe eine Liste]. | I'll write a list.
+
+# events | Wie viele Gäste ___? | Guests and invitations.
+Wie viele Gäste [kommen]? | How many guests are coming?
+Wir haben [fünfzig Leute] eingeladen. | We've invited fifty people.
+Bitte [sag bis Freitag] Bescheid, ob du kommst. | Please let me know by Friday if you're coming.
+Die Party [findet im Garten] statt. | The party is taking place in the garden.
+
+# events | Das Fest war ___. | After the event.
+Das Fest war [ein voller Erfolg]. | The party was a complete success.
+Alle haben [bis spät getanzt]. | Everyone danced until late.
+Es war [schöner als erwartet]. | It was nicer than expected.
+Wir müssen [noch aufräumen]. | We still have to tidy up.
+
+# shopping | Ich vergleiche ___. | Shopping at B1.
+Ich vergleiche [die Preise] online. | I compare prices online.
+Es lohnt sich, [auf den Schlussverkauf zu warten]. | It's worth waiting for the sale.
+Ich kaufe [gern gebrauchte Sachen]. | I like buying second-hand things.
+Die Qualität ist [wichtiger als der Preis]. | Quality is more important than price.
+
+# services | Ich möchte ___ abschließen. | Contracts at B1.
+Ich möchte [einen Handyvertrag] abschließen. | I'd like to take out a phone contract.
+Wie lange ist [die Mindestlaufzeit]? | What's the minimum term?
+Gibt es [versteckte Kosten]? | Are there any hidden costs?
+Kann ich [jederzeit kündigen]? | Can I cancel at any time?

@@ -1,0 +1,153 @@
+// Band 4 · Threshold (B1): society, environment, technology, media, health system,
+// living in Germany.
+## band 4
+
+# environment | Wir sollten ___. | Environment.
+Wir sollten [weniger Fleisch] essen. | We should eat less meat.
+Wir sollten [öfter den Zug] nehmen. | We should take the train more often.
+Wir müssen [das Klima] schützen. | We have to protect the climate.
+Jeder kann [etwas] für die Umwelt tun. | Everyone can do something for the environment.
+
+# environment | Das ist schlecht für ___. | Causes and effects.
+Plastik ist [schlecht für das Meer]. | Plastic is bad for the sea.
+Die Luft in der Stadt [ist verschmutzt]. | The air in the city is polluted.
+Der Klimawandel [ist ein großes Problem]. | Climate change is a big problem.
+Die Sommer werden [immer heißer]. | The summers are getting hotter and hotter.
+
+# environment | Ich versuche, ___. | Personal choices.
+Ich versuche, [weniger Müll zu produzieren]. | I try to produce less rubbish.
+Ich kaufe [regionale Produkte]. | I buy local products.
+Ich [fliege nur selten]. | I rarely fly.
+Ich benutze [eine eigene Tasche]. | I use my own bag.
+
+# technology | Das Internet hat ___. | Technology and life.
+Das Internet hat [unser Leben verändert]. | The internet has changed our lives.
+Viele Menschen [sind süchtig] nach dem Handy. | Many people are addicted to their phones.
+Ich verbringe [zu viel Zeit] am Handy. | I spend too much time on my phone.
+Man kann [fast alles online] erledigen. | You can do almost everything online.
+
+# technology | Künstliche Intelligenz ___. | New technology.
+Künstliche Intelligenz [wird immer wichtiger]. | Artificial intelligence is becoming more and more important.
+Viele Jobs [werden automatisiert]. | Many jobs are being automated.
+Ich nutze [eine App] zum Deutschlernen. | I use an app to learn German.
+Man muss [auf seine Daten] aufpassen. | You have to be careful with your data.
+
+# technology | Ich habe ein Problem mit ___. | Tech support.
+Ich habe ein Problem [mit meinem Laptop]. | I have a problem with my laptop.
+Der Bildschirm [bleibt schwarz]. | The screen stays black.
+Haben Sie [es schon neu gestartet]? | Have you tried restarting it?
+Das Programm [lässt sich nicht installieren]. | The program won't install.
+
+# media | Ich informiere mich ___. | Getting information.
+Ich informiere mich [im Internet]. | I get my information online.
+Ich höre [jeden Morgen] Nachrichten. | I listen to the news every morning.
+Man darf [nicht alles glauben], was man liest. | You mustn't believe everything you read.
+Das ist [eine Falschmeldung]. | That's fake news.
+
+# media | In den Nachrichten ___. | Talking about news.
+In den Nachrichten [kam ein Bericht] über Kairo. | There was a report about Cairo on the news.
+Es gab [ein Erdbeben] in der Türkei. | There was an earthquake in Turkey.
+Die Preise [sind wieder gestiegen]. | Prices have gone up again.
+Es gibt [morgen einen Streik]. | There's a strike tomorrow.
+
+# media | Soziale Medien ___. | Social media.
+Soziale Medien haben [Vor- und Nachteile]. | Social media has pros and cons.
+Ich poste [nicht viel]. | I don't post much.
+Ich folge [vielen Köchen] auf Instagram. | I follow lots of chefs on Instagram.
+Kinder sollten [nicht zu früh] ein Handy haben. | Children shouldn't have a phone too early.
+
+# society | In Deutschland ___. | Life in Germany.
+In Deutschland [trennt man den Müll]. | In Germany people separate their rubbish.
+In Deutschland [ist sonntags alles zu]. | In Germany everything is closed on Sundays.
+In Deutschland [bezahlt man oft bar]. | In Germany people often pay cash.
+In Deutschland [ist das Wasser aus der Leitung gut]. | In Germany the tap water is good.
+
+# society | Mir fällt auf, dass ___. | Cultural differences.
+Mir fällt auf, dass [die Leute sehr direkt sind]. | I notice that people are very direct.
+Hier [begrüßt man sich] mit Handschlag. | Here people greet each other with a handshake.
+Man [duzt] sich unter Kollegen oft. | Colleagues often say du to each other.
+Es ist [unhöflich], zu spät zu kommen. | It's rude to be late.
+
+# society | Es gibt ___ Probleme. | Social issues.
+Es gibt [zu wenige Wohnungen]. | There are too few flats.
+Viele Menschen [haben wenig Geld]. | Many people have little money.
+Die Menschen werden [immer älter]. | People are getting older and older.
+Es fehlen [Fachkräfte] in der Pflege. | There's a shortage of skilled workers in care.
+
+# society | Ich engagiere mich ___. | Volunteering.
+Ich engagiere mich [ehrenamtlich]. | I do voluntary work.
+Ich helfe [in einer Tafel]. | I help at a food bank.
+Ich gebe [Nachhilfe] in Mathe. | I give maths tutoring.
+Ich [übersetze] für andere Neuankömmlinge. | I translate for other newcomers.
+
+# politics | Ich darf ___ wählen. | Politics basics.
+Ich darf [noch nicht] wählen. | I'm not allowed to vote yet.
+Die Wahl ist [im September]. | The election is in September.
+Ich interessiere mich [nicht besonders] für Politik. | I'm not particularly interested in politics.
+Die Regierung [hat ein neues Gesetz] beschlossen. | The government has passed a new law.
+
+# politics | Ich möchte ___ werden. | Citizenship.
+Ich möchte [deutscher Staatsbürger] werden. | I'd like to become a German citizen.
+Ich brauche [den Einbürgerungstest]. | I need the citizenship test.
+Man braucht [Deutschkenntnisse auf B1-Niveau]. | You need German at B1 level.
+Ich habe [eine unbefristete Aufenthaltserlaubnis]. | I have a permanent residence permit.
+
+# health | Das Gesundheitssystem ___. | The health system.
+Jeder muss [krankenversichert] sein. | Everyone has to have health insurance.
+Man braucht [eine Überweisung] zum Facharzt. | You need a referral to see a specialist.
+Die Wartezeit ist [oft sehr lang]. | The waiting time is often very long.
+Die Kasse [übernimmt die Kosten]. | The health insurer covers the costs.
+
+# health | Ich muss ___ operiert werden. | Hospital.
+Ich muss [am Knie] operiert werden. | I need an operation on my knee.
+Ich war [eine Woche] im Krankenhaus. | I was in hospital for a week.
+Die Operation [ist gut verlaufen]. | The operation went well.
+Wann darf ich [nach Hause]? | When can I go home?
+
+# health | Ich achte auf ___. | Health and lifestyle.
+Ich achte [auf meine Ernährung]. | I watch what I eat.
+Stress kann [krank machen]. | Stress can make you ill.
+Bewegung ist [wichtig für die Gesundheit]. | Exercise is important for your health.
+Ich sollte [mehr Pausen] machen. | I should take more breaks.
+
+# health | Ich fühle mich ___. | Mental health.
+Ich fühle mich [oft einsam]. | I often feel lonely.
+Ich bin [total erschöpft]. | I'm completely exhausted.
+Es hilft, [mit jemandem zu reden]. | It helps to talk to someone.
+Ich brauche [etwas Ruhe]. | I need some peace and quiet.
+
+# education | Das Schulsystem ___. | Education in Germany.
+Nach der Grundschule [gibt es verschiedene Schulen]. | After primary school there are different schools.
+Mit dem Abitur [kann man studieren]. | With the Abitur you can go to university.
+Eine Ausbildung [dauert meistens drei Jahre]. | An apprenticeship usually takes three years.
+Das Studium [ist oft kostenlos]. | University is often free.
+
+# education | Mein Abschluss wird ___. | Recognition of qualifications.
+Mein Abschluss wird [hier nicht anerkannt]. | My qualification isn't recognised here.
+Ich lasse [mein Zeugnis] übersetzen. | I'm having my certificate translated.
+Ich muss [eine Prüfung] nachmachen. | I have to retake an exam.
+Die Anerkennung [dauert Monate]. | Recognition takes months.
+
+# housing | Die Mieten ___. | Housing market.
+Die Mieten [sind stark gestiegen]. | Rents have risen sharply.
+Es ist schwer, [eine günstige Wohnung zu finden]. | It's hard to find an affordable flat.
+Viele [Menschen ziehen aufs Land]. | Many people are moving to the countryside.
+Ich [teile mir] eine Wohnung mit zwei Leuten. | I share a flat with two people.
+
+# housing | Im Mietvertrag steht, ___. | Tenancy.
+Im Mietvertrag steht, [dass Haustiere verboten sind]. | The tenancy agreement says pets are forbidden.
+Ich muss [drei Monate vorher] kündigen. | I have to give three months' notice.
+Die Kaution beträgt [zwei Monatsmieten]. | The deposit is two months' rent.
+Der Vermieter will [die Miete erhöhen]. | The landlord wants to raise the rent.
+
+# transport | Der Nahverkehr ___. | Public transport.
+Der Nahverkehr [ist gut ausgebaut]. | Public transport is well developed.
+Mit dem Deutschlandticket [fahre ich überall]. | With the Deutschlandticket I travel everywhere.
+Die Bahn [ist oft unpünktlich]. | The trains are often late.
+In der Stadt [braucht man kein Auto]. | In the city you don't need a car.
+
+# travel | Auf der Reise ___. | Travel stories at B1.
+Auf der Reise [habe ich viel gelernt]. | I learned a lot on the trip.
+Das Beste war [das Essen]. | The best thing was the food.
+Leider [ist unser Gepäck verloren gegangen]. | Unfortunately our luggage got lost.
+Ich kann [die Stadt nur empfehlen]. | I can highly recommend the city.

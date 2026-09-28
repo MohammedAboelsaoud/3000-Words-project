@@ -1,0 +1,111 @@
+// Band 4 · Threshold (B1): travel and culture, city and country, official matters at B1,
+// the doctor at B1, school and parents, emergencies.
+## band 4
+
+# travel | Ich war noch nie ___. | Travel experiences.
+Ich war noch nie [in den Alpen]. | I've never been to the Alps.
+Ich würde gern [mal nach Norwegen] reisen. | I'd love to travel to Norway sometime.
+Am liebsten reise ich [mit dem Rucksack]. | I like travelling with a backpack best.
+Ich reise lieber [allein als in der Gruppe]. | I prefer travelling alone to travelling in a group.
+
+# travel | Es lohnt sich, ___. | Recommendations.
+Es lohnt sich, [die Altstadt zu besuchen]. | It's worth visiting the old town.
+Du musst [unbedingt] das Museum sehen. | You absolutely have to see the museum.
+Ich empfehle dir, [früh zu buchen]. | I recommend booking early.
+[Am besten] fährst du im Frühling hin. | It's best to go there in spring.
+
+# travel | Unterwegs ___. | Things that happen on the way.
+Unterwegs [haben wir eine Panne] gehabt. | We broke down on the way.
+Wir haben [den Weg nicht gefunden]. | We couldn't find the way.
+Ein netter Mann [hat uns geholfen]. | A kind man helped us.
+Wir sind [erst um Mitternacht] angekommen. | We didn't arrive until midnight.
+
+# culture | Ich interessiere mich für ___. | Culture.
+Ich interessiere mich [für Geschichte]. | I'm interested in history.
+Wir waren [in einer Ausstellung] über Ägypten. | We went to an exhibition about Egypt.
+Das Theaterstück war [schwer zu verstehen]. | The play was hard to understand.
+Ich gehe [gern auf Flohmärkte]. | I like going to flea markets.
+
+# culture | Die Stadt ist bekannt für ___. | Famous places.
+Die Stadt ist bekannt [für ihren Dom]. | The city is known for its cathedral.
+Köln ist berühmt [für den Karneval]. | Cologne is famous for its carnival.
+München ist [bekannt für das Oktoberfest]. | Munich is known for the Oktoberfest.
+Berlin hat [eine spannende Geschichte]. | Berlin has an exciting history.
+
+# places | Ich wohne lieber ___. | City or country.
+Ich wohne lieber [in der Stadt]. | I prefer living in the city.
+Auf dem Land ist es [ruhiger, aber langweiliger]. | In the country it's quieter but more boring.
+In der Stadt [ist immer etwas los]. | In the city there's always something going on.
+Ich brauche [die Natur] um mich herum. | I need nature around me.
+
+# places | In meiner Stadt gibt es ___. | Describing your town.
+In meiner Stadt gibt es [einen schönen Fluss]. | There's a beautiful river in my town.
+Das Stadtzentrum ist [autofrei]. | The town centre is car-free.
+Es gibt [viele Parks und Radwege]. | There are lots of parks and cycle paths.
+Leider [gibt es kaum Parkplätze]. | Unfortunately there are hardly any parking spaces.
+
+# official | Ich möchte einen Antrag ___. | Official matters at B1.
+Ich möchte einen Antrag [auf Kindergeld] stellen. | I'd like to apply for child benefit.
+Wie lange dauert [die Bearbeitung]? | How long does processing take?
+Mir fehlt [noch eine Unterlage]. | I'm still missing one document.
+Ich lege [gegen den Bescheid] Widerspruch ein. | I'm lodging an objection to the decision.
+
+# official | Ich bin dazu verpflichtet, ___. | Obligations.
+Ich bin verpflichtet, [mich anzumelden]. | I'm obliged to register.
+Man muss [die Frist] einhalten. | You have to meet the deadline.
+Das ist [gesetzlich vorgeschrieben]. | That's required by law.
+Bei Verspätung [muss man eine Gebühr] zahlen. | If you're late you have to pay a fee.
+
+# doctor | Seit einiger Zeit ___. | Describing symptoms in detail.
+Seit einiger Zeit [habe ich Rückenschmerzen]. | For some time I've had back pain.
+Die Schmerzen werden [nachts schlimmer]. | The pain gets worse at night.
+Es tut weh, [wenn ich mich bücke]. | It hurts when I bend down.
+Ich habe [keinen Appetit mehr]. | I've lost my appetite.
+
+# doctor | Muss ich ___? | Questions for the doctor.
+Muss ich [das Medikament] lange nehmen? | Do I have to take the medication for long?
+Hat das [Nebenwirkungen]? | Does it have side effects?
+Ist das [ansteckend]? | Is it contagious?
+Wann bekomme ich [die Ergebnisse]? | When will I get the results?
+
+# school | Ich möchte mit der Lehrerin über ___ sprechen. | Talking to teachers.
+Ich möchte mit der Lehrerin [über die Noten] sprechen. | I'd like to speak to the teacher about the grades.
+Mein Sohn [hat Schwierigkeiten] in Mathe. | My son is having difficulties in maths.
+Wie können wir [unser Kind unterstützen]? | How can we support our child?
+Meine Tochter [wird in der Schule gemobbt]. | My daughter is being bullied at school.
+
+# school | Mein Kind hat ___. | School matters.
+Mein Kind hat [eine gute Note] bekommen. | My child got a good mark.
+Er muss [die Klasse wiederholen]. | He has to repeat the year.
+Sie [macht nächstes Jahr Abitur]. | She's taking her A levels next year.
+Die Schule [bietet Förderunterricht] an. | The school offers extra support lessons.
+
+# emergency | Ich habe einen Unfall ___. | Accidents.
+Ich hatte [einen Autounfall]. | I had a car accident.
+Zum Glück wurde [niemand verletzt]. | Luckily no one was injured.
+Der andere Fahrer [ist bei Rot gefahren]. | The other driver went through a red light.
+Ich brauche [die Daten Ihrer Versicherung]. | I need your insurance details.
+
+# emergency | Bleiben Sie ___! | Staying calm.
+[Bleiben Sie ruhig]! | Stay calm!
+Der Krankenwagen ist [schon unterwegs]. | The ambulance is already on its way.
+Können Sie [mich hören]? | Can you hear me?
+Wo genau [ist der Unfall passiert]? | Where exactly did the accident happen?
+
+# weather | Das Wetter ist ___. | Weather talk at B1.
+Das Wetter ist [total unberechenbar]. | The weather is totally unpredictable.
+Es hat [die ganze Nacht] geregnet. | It rained all night.
+Morgen soll es [Unwetter] geben. | There's supposed to be a storm tomorrow.
+Ich [vertrage die Hitze] nicht gut. | I don't cope well with the heat.
+
+# money | Ich muss ___ zahlen. | Money matters at B1.
+Ich muss [Steuern] zahlen. | I have to pay taxes.
+Ich habe [eine Rückzahlung] vom Finanzamt bekommen. | I got a refund from the tax office.
+Die Nebenkosten sind [höher als erwartet]. | The bills are higher than expected.
+Ich habe [einen Kredit] aufgenommen. | I've taken out a loan.
+
+# housing | Wir haben Probleme mit ___. | Housing problems at B1.
+Wir haben Probleme [mit Schimmel]. | We have problems with mould.
+Der Vermieter [reagiert nicht] auf meine E-Mails. | The landlord doesn't respond to my emails.
+Ich habe [den Mangel] schriftlich gemeldet. | I've reported the defect in writing.
+Ich darf [die Miete mindern]. | I'm allowed to reduce the rent.

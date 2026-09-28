@@ -1,0 +1,147 @@
+// Band 4 · Threshold (B1): relationships, feelings, family life, living abroad,
+// apologising and thanking.
+## band 4
+
+# feelings | Ich habe Angst, dass ___. | Fears and worries.
+Ich habe Angst, dass [ich die Prüfung nicht schaffe]. | I'm afraid I won't pass the exam.
+Ich mache mir Sorgen [um meine Eltern]. | I'm worried about my parents.
+Ich habe Angst [vor Hunden]. | I'm afraid of dogs.
+Es beunruhigt mich, [dass er nicht antwortet]. | It worries me that he isn't answering.
+
+# feelings | Ich freue mich, dass ___. | Joy and relief.
+Ich freue mich, dass [du gekommen bist]. | I'm glad you came.
+Ich bin erleichtert, dass [alles gut gegangen ist]. | I'm relieved that everything went well.
+Es macht mich glücklich, [wenn die Sonne scheint]. | It makes me happy when the sun shines.
+Ich bin [dankbar für] meine Freunde. | I'm grateful for my friends.
+
+# feelings | Es ärgert mich, dass ___. | Annoyance.
+Es ärgert mich, dass [er immer zu spät kommt]. | It annoys me that he's always late.
+Ich finde es [nervig], wenn das Handy klingelt. | I find it annoying when the phone rings.
+Das [geht mir auf die Nerven]. | That gets on my nerves.
+Ich [bin sauer] auf dich. | I'm cross with you.
+
+# feelings | Ich vermisse ___. | Missing people and places.
+Ich vermisse [meine Familie] sehr. | I miss my family a lot.
+Ich vermisse [das Essen] meiner Mutter. | I miss my mother's cooking.
+[Am meisten] vermisse ich das Meer. | What I miss most is the sea.
+Manchmal fühle ich mich [fremd] hier. | Sometimes I feel like a stranger here.
+
+# feelings | Ich fühle mich ___ zu Hause. | Settling in.
+Ich fühle mich [langsam] zu Hause. | I'm slowly starting to feel at home.
+Ich habe [hier neue Freunde] gefunden. | I've found new friends here.
+Am Anfang [war alles fremd]. | At first everything was strange.
+Jetzt [kenne ich mich gut aus]. | Now I know my way around well.
+
+# relationships | Wir haben uns ___. | Relationship stories.
+Wir haben uns [auf einer Party] kennengelernt. | We met at a party.
+Es war [Liebe auf den ersten Blick]. | It was love at first sight.
+Wir [sind zusammengezogen]. | We moved in together.
+Wir [haben uns verlobt]. | We got engaged.
+
+# relationships | Wir haben uns gestritten, weil ___. | Arguments.
+Wir haben uns gestritten, weil [er nie Zeit hat]. | We argued because he never has time.
+Wir haben [uns wieder vertragen]. | We've made up.
+Ich [will nicht mehr streiten]. | I don't want to argue any more.
+Wir müssen [darüber reden]. | We need to talk about it.
+
+# relationships | Ein guter Freund ___. | Friendship.
+Ein guter Freund [hört zu]. | A good friend listens.
+Auf ihn [kann ich mich verlassen]. | I can rely on him.
+Sie [ist immer für mich da]. | She's always there for me.
+Echte Freunde [sind selten]. | Real friends are rare.
+
+# family | In meiner Familie ___. | Family life.
+In meiner Familie [kochen alle zusammen]. | In my family everyone cooks together.
+Meine Eltern [haben mich streng erzogen]. | My parents brought me up strictly.
+Wir [halten zusammen]. | We stick together.
+Die Familie ist [mir sehr wichtig]. | Family is very important to me.
+
+# family | Kinder brauchen ___. | Raising children.
+Kinder brauchen [viel Liebe]. | Children need lots of love.
+Mein Sohn [ist in der Pubertät]. | My son is going through puberty.
+Wir erziehen unsere Kinder [zweisprachig]. | We're raising our children bilingually.
+Die Kinder [sprechen besser Deutsch] als wir. | The children speak better German than we do.
+
+# family | Ich kümmere mich um ___. | Caring for relatives.
+Ich pflege [meine kranke Mutter]. | I'm caring for my sick mother.
+Mein Opa [lebt im Altersheim]. | My grandad lives in a care home.
+Wir besuchen ihn [jedes Wochenende]. | We visit him every weekend.
+Es ist [nicht leicht], alles zu organisieren. | It's not easy to organise everything.
+
+# abroad | Ich bin nach Deutschland gekommen, um ___. | Why you came.
+Ich bin nach Deutschland gekommen, um [zu studieren]. | I came to Germany to study.
+Ich bin [wegen der Arbeit] hier. | I'm here for work.
+Ich bin [mit meinem Mann] hergekommen. | I came here with my husband.
+Ich wollte [ein neues Leben] anfangen. | I wanted to start a new life.
+
+# abroad | Das Schwierigste war ___. | Challenges.
+Das Schwierigste war [die Sprache]. | The hardest thing was the language.
+Ich musste [ganz von vorne] anfangen. | I had to start from scratch.
+Die Bürokratie [hat mich viel Zeit gekostet]. | The bureaucracy cost me a lot of time.
+Es hat [lange gedauert], Arbeit zu finden. | It took a long time to find work.
+
+# abroad | Ich würde gern ___ zurück. | Future plans abroad.
+Ich möchte [für immer] hierbleiben. | I'd like to stay here for good.
+Vielleicht gehe ich [eines Tages] zurück. | Maybe I'll go back one day.
+Ich fliege [jeden Sommer] nach Hause. | I fly home every summer.
+Meine Kinder [sollen beide Kulturen] kennen. | I want my children to know both cultures.
+
+# apologise | Entschuldige, dass ___. | Apologising.
+Entschuldige, dass [ich zu spät bin]. | Sorry I'm late.
+Entschuldigung, [das war nicht so gemeint]. | Sorry, I didn't mean it like that.
+Es tut mir leid, dass [ich dich nicht angerufen habe]. | I'm sorry I didn't call you.
+[Das war mein Fehler]. | That was my mistake.
+
+# apologise | Das macht ___. | Accepting apologies.
+Das macht [doch nichts]. | That doesn't matter at all.
+[Schon gut]. | It's fine.
+[Ist nicht so schlimm]. | It's not so bad.
+[Vergessen wir das]. | Let's forget about it.
+
+# thank | Vielen Dank für ___. | Thanking warmly.
+Vielen Dank [für deine Hilfe]. | Many thanks for your help.
+Ich weiß [das sehr zu schätzen]. | I really appreciate it.
+[Ohne dich] hätte ich das nicht geschafft. | I couldn't have done it without you.
+Das war [wirklich nett] von Ihnen. | That was really kind of you.
+
+# congrats | Herzlichen Glückwunsch zu ___. | Congratulating.
+Herzlichen Glückwunsch [zur Hochzeit]! | Congratulations on your wedding!
+Herzlichen Glückwunsch [zum Baby]! | Congratulations on the baby!
+Herzlichen Glückwunsch [zur bestandenen Prüfung]! | Congratulations on passing the exam!
+Ich [gratuliere dir] zum neuen Job! | Congratulations on the new job!
+
+# condolence | Mein Beileid ___. | Sympathy.
+[Mein herzliches Beileid]. | My deepest sympathy.
+Es tut mir [so leid für dich]. | I'm so sorry for you.
+Wenn du [etwas brauchst], sag Bescheid. | If you need anything, let me know.
+[Ich denke an dich]. | I'm thinking of you.
+
+# character | Er ist jemand, der ___. | Describing personality.
+Er ist jemand, der [immer lacht]. | He's someone who's always laughing.
+Sie ist [sehr hilfsbereit]. | She's very helpful.
+Er [nimmt alles zu ernst]. | He takes everything too seriously.
+Sie hat [viel Humor]. | She has a great sense of humour.
+
+# character | Ich bin eher ___. | Describing yourself.
+Ich bin eher [ruhig]. | I'm rather quiet.
+Ich bin [ein Morgenmensch]. | I'm a morning person.
+Ich [kann schlecht Nein sagen]. | I find it hard to say no.
+Ich [lerne gern Neues]. | I like learning new things.
+
+# habits | Ich habe mir angewöhnt, ___. | Habits.
+Ich habe mir angewöhnt, [früh aufzustehen]. | I've got into the habit of getting up early.
+Ich habe mir [das Rauchen] abgewöhnt. | I've given up smoking.
+Ich [neige dazu], zu viel zu arbeiten. | I tend to work too much.
+Es fällt mir schwer, [pünktlich zu sein]. | I find it hard to be on time.
+
+# memories | Ich erinnere mich gern an ___. | Memories.
+Ich erinnere mich gern [an meine Kindheit]. | I have fond memories of my childhood.
+Das war [die schönste Zeit] meines Lebens. | That was the best time of my life.
+Ich werde [diesen Tag] nie vergessen. | I'll never forget that day.
+Wir haben [viel zusammen erlebt]. | We've been through a lot together.
+
+# decisions | Ich habe mich entschieden, ___. | Decisions.
+Ich habe mich entschieden, [den Job anzunehmen]. | I've decided to accept the job.
+Ich [bin noch unentschlossen]. | I'm still undecided.
+Das ist [eine schwere Entscheidung]. | That's a difficult decision.
+Ich muss [darüber nachdenken]. | I need to think about it.

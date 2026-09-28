@@ -1,0 +1,163 @@
+// Band 4 · Threshold (B1): relative clauses, the Präteritum for telling stories,
+// the passive, wegen/trotz/während, lassen.
+## band 4
+
+# relative | Der Mann, der ___. | Relative clauses: der/die/das + verb at the end.
+Das ist der Mann, [der hier wohnt]. | That's the man who lives here.
+Das ist die Frau, [die mir geholfen hat]. | That's the woman who helped me.
+Das ist das Buch, [das ich gelesen habe]. | That's the book I read.
+Das sind die Leute, [die nebenan wohnen]. | Those are the people who live next door.
+= Der Mann wohnt hier. || Der Mann, [der] hier [wohnt], … || The relative clause starts with der/die/das and sends the verb to the end.
+
+# relative | Der Film, den ___. | Accusative: den (der-words); die and das stay the same.
+Der Film, [den ich gesehen habe], war toll. | The film I saw was great.
+Der Kollege, [den du kennst], ist krank. | The colleague you know is ill.
+Die Jacke, [die ich gekauft habe], ist zu klein. | The jacket I bought is too small.
+Das Auto, [das wir gemietet haben], ist neu. | The car we rented is new.
+= Der Film, [der] im Kino läuft, … || Der Film, [den] ich sehe, … || der when the film does something; den when someone does something to it.
+
+# relative | Die Frau, der ___. | Dative: dem (der/das), der (die), denen (plural).
+Das ist der Freund, [dem ich das Geld geliehen habe]. | That's the friend I lent the money to.
+Die Frau, [der ich geholfen habe], war sehr dankbar. | The woman I helped was very grateful.
+Das sind die Kinder, [denen ich Deutsch beibringe]. | Those are the children I teach German.
+Der Kollege, [mit dem ich arbeite], ist nett. | The colleague I work with is nice.
+
+# relative | Die Stadt, in der ___. | Preposition + relative pronoun.
+Die Stadt, [in der ich wohne], ist klein. | The town I live in is small.
+Das ist das Restaurant, [in dem wir gegessen haben]. | That's the restaurant where we ate.
+Die Firma, [bei der ich arbeite], ist groß. | The company I work for is big.
+Das ist der Freund, [von dem ich dir erzählt habe]. | That's the friend I told you about.
+
+# relative | Alles, was ___. | was after alles, etwas, nichts, das.
+Das ist alles, [was ich weiß]. | That's all I know.
+Es gibt nichts, [was ich nicht esse]. | There's nothing I don't eat.
+Das Beste, [was du tun kannst], ist warten. | The best thing you can do is wait.
+Ich verstehe nicht, [was du meinst]. | I don't understand what you mean.
+
+# relative | Der Ort, wo ___. | wo for places.
+Das ist der Ort, [wo wir uns kennengelernt haben]. | That's the place where we met.
+Berlin ist die Stadt, [wo ich studiert habe]. | Berlin is the city where I studied.
+Das ist das Café, [wo ich immer frühstücke]. | That's the café where I always have breakfast.
+Kennst du ein Land, [wo es immer warm ist]? | Do you know a country where it's always warm?
+
+# relative | Ein Mensch, der ___. | Describing people with relative clauses.
+Ich suche jemanden, [der Deutsch spricht]. | I'm looking for someone who speaks German.
+Er ist ein Mensch, [der immer hilft]. | He's someone who always helps.
+Ich brauche einen Job, [der mir Spaß macht]. | I need a job I enjoy.
+Sie ist eine Frau, [die weiß, was sie will]. | She's a woman who knows what she wants.
+
+# story | Es war einmal ___. | The Präteritum is used for stories and in writing.
+Es war [einmal] ein König. | Once upon a time there was a king.
+Er [hatte] drei Töchter. | He had three daughters.
+Eines Tages [kam] ein Fremder. | One day a stranger came.
+Alle [waren] überrascht. | Everyone was surprised.
+
+# story | Er ging ___. | Common Präteritum forms: ging, kam, sah, fand.
+Er [ging] nach Hause. | He went home.
+Sie [kam] zu spät. | She came too late.
+Ich [sah] einen Mann an der Tür. | I saw a man at the door.
+Wir [fanden] den Weg nicht. | We couldn't find the way.
+= Er [ist] nach Hause [gegangen]. || Er [ging] nach Hause. || Spoken German prefers the Perfekt; stories and news use the Präteritum.
+
+# story | Sie sagte, ___. | sagen → sagte, fragen → fragte (regular: -te).
+Sie [sagte] nichts. | She said nothing.
+Er [fragte] nach dem Weg. | He asked the way.
+Wir [wohnten] damals in Kairo. | We lived in Cairo at the time.
+Ich [arbeitete] als Kellner. | I worked as a waiter.
+
+# story | Er stand ___. | More irregular Präteritum: stand, saß, lag, lief.
+Er [stand] vor der Tür. | He was standing at the door.
+Sie [saß] am Fenster. | She was sitting by the window.
+Das Buch [lag] auf dem Boden. | The book was lying on the floor.
+Der Hund [lief] weg. | The dog ran away.
+
+# story | Plötzlich ___. | Story words: plötzlich, dann, am Ende.
+[Plötzlich] klingelte das Telefon. | Suddenly the phone rang.
+[Auf einmal] ging das Licht aus. | All of a sudden the light went out.
+[Am Ende] war alles gut. | In the end everything was fine.
+[Zuerst] wusste ich nicht, was ich tun sollte. | At first I didn't know what to do.
+
+# story | Damals ___. | Talking about the past: damals = back then.
+[Damals] war ich zwanzig. | Back then I was twenty.
+Damals [gab es] noch keine Handys. | Back then there were no mobile phones.
+Damals [musste] ich viel arbeiten. | Back then I had to work a lot.
+[In meiner Kindheit] wohnten wir auf dem Land. | In my childhood we lived in the countryside.
+
+# story | Ich wollte gerade ___, als … | Interrupted actions.
+Ich wollte gerade [gehen], als das Telefon klingelte. | I was about to leave when the phone rang.
+Ich war [gerade] beim Essen, als er kam. | I was just eating when he came.
+Wir [schliefen] schon, als sie anrief. | We were already asleep when she called.
+Es fing an zu regnen, [als wir losgingen]. | It started to rain when we set off.
+
+# passive | Das Haus wird ___. | Passive: werden + past participle = something is being done.
+Das Haus [wird] renoviert. | The house is being renovated.
+Die Straße wird [gebaut]. | The road is being built.
+Hier wird [Deutsch] gesprochen. | German is spoken here.
+Das Essen wird [gleich serviert]. | The food will be served shortly.
+= Man [renoviert] das Haus. || Das Haus [wird renoviert]. || The passive puts the thing first and leaves out who does it.
+
+# passive | Das Haus wurde ___. | Past passive: wurde + past participle.
+Das Haus [wurde] 1900 gebaut. | The house was built in 1900.
+Mein Fahrrad wurde [gestohlen]. | My bike was stolen.
+Der Brief wurde [gestern] geschickt. | The letter was sent yesterday.
+Er wurde [ins Krankenhaus] gebracht. | He was taken to hospital.
+
+# passive | Das muss ___ werden. | Modal + passive: muss … gemacht werden.
+Das muss [heute] gemacht werden. | That has to be done today.
+Die Rechnung muss [bis Freitag] bezahlt werden. | The bill has to be paid by Friday.
+Das Formular muss [unterschrieben] werden. | The form has to be signed.
+Hier darf [nicht geraucht] werden. | Smoking is not permitted here.
+
+# passive | Es ist ___. | State passive: ist + past participle = the result.
+Die Tür ist [geschlossen]. | The door is closed.
+Das Geschäft ist [heute geöffnet]. | The shop is open today.
+Der Tisch ist [schon reserviert]. | The table is already reserved.
+Alles ist [vorbereitet]. | Everything is prepared.
+
+# genitive | wegen ___ | wegen = because of (+ genitive, in speech often + dative).
+[Wegen des Wetters] bleiben wir zu Hause. | Because of the weather, we're staying at home.
+Wegen [eines Unfalls] gibt es Stau. | There's a traffic jam because of an accident.
+Wegen [der Kinder] kann ich nicht kommen. | I can't come because of the children.
+Der Zug hat [wegen eines Streiks] Verspätung. | The train is delayed because of a strike.
+
+# genitive | trotz ___ | trotz = despite.
+[Trotz des Regens] gehen wir spazieren. | Despite the rain, we're going for a walk.
+Trotz [der Probleme] war es schön. | Despite the problems, it was nice.
+Er kam [trotz seiner Erkältung]. | He came despite his cold.
+Trotz [allem] bin ich zufrieden. | Despite everything, I'm satisfied.
+
+# genitive | Das Auto meines ___ | Genitive for possession: des Mannes, der Frau.
+Das ist das Auto [meines Bruders]. | That's my brother's car.
+Das ist die Tochter [meiner Nachbarin]. | That's my neighbour's daughter.
+Der Name [des Hotels] ist schwer. | The hotel's name is difficult.
+Am Ende [des Monats] bekomme ich Geld. | I get paid at the end of the month.
+
+# lassen | Ich lasse ___. | lassen = to have something done, or to let.
+Ich lasse [mein Auto] reparieren. | I'm having my car repaired.
+Ich lasse [mir die Haare] schneiden. | I'm having my hair cut.
+Lass [mich] in Ruhe! | Leave me alone!
+Lass [uns] das morgen machen. | Let's do that tomorrow.
+
+# lassen | Ich habe ___ lassen. | Leaving things somewhere.
+Ich habe [meinen Schirm] im Bus liegen lassen. | I left my umbrella on the bus.
+Ich habe [die Tür offen] gelassen. | I left the door open.
+Lass [das Licht] an. | Leave the light on.
+Lass [die Kinder] spielen. | Let the children play.
+
+# verbs | Ich warte darauf, dass ___. | Verbs with a preposition + da(r)-: darauf, daran, darüber.
+Ich warte darauf, [dass er anruft]. | I'm waiting for him to call.
+Ich freue mich darauf, [dich zu sehen]. | I'm looking forward to seeing you.
+Ich denke oft daran, [wie schön es war]. | I often think of how nice it was.
+Wir sprechen darüber, [wohin wir fahren]. | We're talking about where to go.
+
+# verbs | Worauf ___? | Questions: wo(r) + preposition for things.
+[Worauf] wartest du? | What are you waiting for?
+[Worüber] sprecht ihr? | What are you talking about?
+[Woran] denkst du? | What are you thinking about?
+[Wofür] brauchst du das Geld? | What do you need the money for?
+
+# verbs | Ich bin ___ gewöhnt. | Adjectives with prepositions.
+Ich bin [an das Wetter] gewöhnt. | I'm used to the weather.
+Ich bin [mit der Arbeit] zufrieden. | I'm satisfied with the work.
+Ich bin [stolz auf] meine Kinder. | I'm proud of my children.
+Ich bin [verantwortlich für] das Projekt. | I'm responsible for the project.

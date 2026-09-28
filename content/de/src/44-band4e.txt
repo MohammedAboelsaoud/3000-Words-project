@@ -1,0 +1,147 @@
+// Band 4 · Threshold (B1): work and career — job search, interviews, emails, meetings,
+// customers, rights at work.
+## band 4
+
+# jobs | Ich suche eine Stelle als ___. | Job searching.
+Ich suche eine Stelle [als Elektriker]. | I'm looking for a job as an electrician.
+Ich habe [eine Anzeige] im Internet gesehen. | I saw an advert online.
+Ich interessiere mich [für die Stelle]. | I'm interested in the position.
+Ist die Stelle [noch frei]? | Is the position still available?
+
+# jobs | Ich bewerbe mich ___. | Applications.
+Ich bewerbe mich [um die Stelle als Verkäuferin]. | I'm applying for the job as a sales assistant.
+Ich habe mich [bei drei Firmen] beworben. | I've applied to three companies.
+Anbei [sende ich Ihnen] meine Unterlagen. | Please find my documents attached.
+Ich habe [noch keine Antwort] bekommen. | I haven't had an answer yet.
+
+# jobs | Ich habe Erfahrung ___. | Talking about experience.
+Ich habe [viel Erfahrung] im Verkauf. | I have a lot of experience in sales.
+Ich habe [zwei Jahre] in der Pflege gearbeitet. | I worked in care for two years.
+Ich kann [gut mit Menschen] umgehen. | I'm good with people.
+Ich habe [einen Abschluss] in Informatik. | I have a degree in computer science.
+
+# interview | Erzählen Sie ___. | Interview questions.
+Erzählen Sie [etwas über sich]. | Tell me something about yourself.
+Warum [möchten Sie] bei uns arbeiten? | Why would you like to work for us?
+Was sind [Ihre Stärken]? | What are your strengths?
+Wo sehen Sie sich [in fünf Jahren]? | Where do you see yourself in five years?
+
+# interview | Meine Stärke ist ___. | Answering about yourself.
+Meine Stärke ist, dass [ich zuverlässig bin]. | My strength is that I'm reliable.
+Ich [arbeite gern] im Team. | I like working in a team.
+Ich bin [flexibel und belastbar]. | I'm flexible and resilient.
+Manchmal bin ich [zu perfektionistisch]. | Sometimes I'm too much of a perfectionist.
+
+# interview | Ab wann ___? | Practical questions.
+Ab wann [könnten Sie] anfangen? | When could you start?
+Ich könnte [ab dem ersten Juni] anfangen. | I could start from the first of June.
+Wie sind [die Arbeitszeiten]? | What are the working hours?
+Wie hoch ist [das Gehalt]? | How high is the salary?
+
+# email | Sehr geehrte ___, | Formal emails.
+[Sehr geehrte Damen und Herren], | Dear Sir or Madam,
+[Sehr geehrter Herr Müller], | Dear Mr Müller,
+[Mit freundlichen Grüßen] | Kind regards
+[Vielen Dank im Voraus] für Ihre Antwort. | Thank you in advance for your reply.
+
+# email | Ich schreibe Ihnen, weil ___. | Starting an email.
+Ich schreibe Ihnen, weil [ich eine Frage habe]. | I'm writing to you because I have a question.
+Ich möchte mich [nach dem Termin] erkundigen. | I'd like to ask about the appointment.
+[Leider muss ich Ihnen mitteilen], dass ich nicht komme. | Unfortunately I have to tell you that I'm not coming.
+Ich beziehe mich [auf Ihre E-Mail] vom Montag. | I'm referring to your email of Monday.
+
+# email | Könnten Sie mir bitte ___? | Requests in emails.
+Könnten Sie mir bitte [die Unterlagen] schicken? | Could you please send me the documents?
+Ich bitte Sie [um einen Rückruf]. | Please call me back.
+Ich freue mich [auf Ihre Antwort]. | I look forward to your reply.
+[Für Rückfragen] stehe ich gern zur Verfügung. | I'm happy to answer any questions.
+
+# meeting | Heute geht es um ___. | Meetings.
+Heute geht es [um das neue Projekt]. | Today it's about the new project.
+Der erste Punkt ist [das Budget]. | The first point is the budget.
+Hat jemand [noch Fragen]? | Does anyone have any more questions?
+Wir sollten [eine Entscheidung] treffen. | We should make a decision.
+
+# meeting | Ich schlage vor, ___. | Proposals.
+Ich schlage vor, [dass wir eine Pause machen]. | I suggest we take a break.
+Mein Vorschlag wäre, [das Projekt zu verschieben]. | My suggestion would be to postpone the project.
+Wir könnten [das anders machen]. | We could do it differently.
+Was [spricht dagegen]? | What's against it?
+
+# meeting | Bis wann ___? | Deadlines and tasks.
+Bis wann [muss das fertig sein]? | By when does that have to be finished?
+Wer [übernimmt] diese Aufgabe? | Who's taking on this task?
+Ich [schaffe das] bis Mittwoch. | I'll manage that by Wednesday.
+Das [hat Priorität]. | That has priority.
+
+# customers | Wie kann ich ___? | Serving customers.
+Wie kann ich [Ihnen helfen]? | How can I help you?
+Einen Moment, [ich verbinde Sie]. | One moment, I'll put you through.
+Darf ich [Ihre Kundennummer] haben? | May I have your customer number?
+Ich kümmere mich [sofort darum]. | I'll see to it immediately.
+
+# customers | Es tut mir leid, dass ___. | Handling complaints.
+Es tut mir leid, dass [Sie warten mussten]. | I'm sorry you had to wait.
+Wir [entschuldigen uns] für den Fehler. | We apologise for the mistake.
+Wir schicken Ihnen [sofort einen Ersatz]. | We'll send you a replacement right away.
+Sie bekommen [Ihr Geld zurück]. | You'll get your money back.
+
+# work | Ich habe ___ gekündigt. | Leaving a job.
+Ich habe [meinen Job] gekündigt. | I've quit my job.
+Mir wurde [gekündigt]. | I've been dismissed.
+Ich [suche etwas Neues]. | I'm looking for something new.
+Mein letzter Arbeitstag ist [am Freitag]. | My last working day is on Friday.
+
+# work | Ich habe Anspruch auf ___. | Rights at work.
+Ich habe Anspruch [auf Urlaub]. | I'm entitled to holiday.
+Die Überstunden werden [nicht bezahlt]. | The overtime isn't paid.
+Ich möchte [mit dem Betriebsrat] sprechen. | I'd like to speak to the works council.
+Wie lange ist [die Probezeit]? | How long is the probation period?
+
+# work | Ich arbeite ___ Schicht. | Working hours.
+Ich arbeite [in drei Schichten]. | I work in three shifts.
+Ich arbeite [am Wochenende]. | I work at weekends.
+Meine Arbeitszeit ist [flexibel]. | My working hours are flexible.
+Ich arbeite [vierzig Stunden] pro Woche. | I work forty hours a week.
+
+# work | Ich möchte mich ___. | Career development.
+Ich möchte mich [weiterbilden]. | I'd like to do further training.
+Ich mache [eine Fortbildung] im Marketing. | I'm doing a training course in marketing.
+Ich möchte [mehr Verantwortung] übernehmen. | I'd like to take on more responsibility.
+Ich hoffe [auf eine Beförderung]. | I'm hoping for a promotion.
+
+# work | Mein Beruf ist ___. | Describing your job.
+In meinem Beruf muss man [genau arbeiten]. | In my job you have to work precisely.
+Ich arbeite [viel am Computer]. | I work a lot on the computer.
+Ich habe [viel Kontakt] mit Kunden. | I have a lot of contact with customers.
+Das Schönste an meinem Job ist [das Team]. | The best thing about my job is the team.
+
+# work | Mir gefällt an meiner Arbeit, dass ___. | Pros and cons of your job.
+Mir gefällt, dass [ich selbstständig arbeiten kann]. | I like that I can work independently.
+Mir gefällt nicht, dass [ich so früh aufstehen muss]. | I don't like having to get up so early.
+Der Stress ist [manchmal zu viel]. | The stress is sometimes too much.
+Die Kollegen [machen die Arbeit angenehm]. | The colleagues make the work pleasant.
+
+# work | Ich bin ___ selbstständig. | Self-employment.
+Ich bin [seit zwei Jahren] selbstständig. | I've been self-employed for two years.
+Ich habe [ein kleines Geschäft]. | I have a small business.
+Ich arbeite [als Freiberufler]. | I work as a freelancer.
+Ich muss [meine Steuern] selbst machen. | I have to do my own taxes.
+
+# work | Die Firma ___. | Talking about a company.
+Die Firma [hat hundert Mitarbeiter]. | The company has a hundred employees.
+Die Firma [stellt Autoteile her]. | The company makes car parts.
+Die Firma [sucht neue Leute]. | The company is looking for new people.
+Die Firma [wurde 1990 gegründet]. | The company was founded in 1990.
+
+# phone | Könnte ich bitte ___ sprechen? | Business calls.
+Könnte ich bitte [mit Frau Schmidt] sprechen? | Could I please speak to Ms Schmidt?
+Kann ich [eine Nachricht] hinterlassen? | Can I leave a message?
+Sie ist [gerade in einer Besprechung]. | She's in a meeting at the moment.
+[Worum geht es] bitte? | What is it about, please?
+
+# phone | Ich rufe an wegen ___. | Stating why you're calling.
+Ich rufe an [wegen der Rechnung]. | I'm calling about the bill.
+Ich rufe an, [weil ich einen Termin brauche]. | I'm calling because I need an appointment.
+Es geht [um meine Bestellung]. | It's about my order.
+Ich rufe [im Auftrag von] Herrn Weber an. | I'm calling on behalf of Mr Weber.

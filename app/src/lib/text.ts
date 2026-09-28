@@ -4,13 +4,14 @@ export function stripSlots(s: string): string {
   return s.replace(/[[\]]/g, '');
 }
 
+/** The slot text. A split item (Ich [stehe] … [auf]) gives both parts: "stehe auf". */
 export function slotOf(s: string): string {
-  return s.match(/\[([^\]]+)\]/)?.[1] ?? '';
+  return [...s.matchAll(/\[([^\]]+)\]/g)].map((m) => m[1]).join(' ');
 }
 
-/** "Ich hätte gern [die Rechnung]." → "Ich hätte gern ___." */
+/** "Ich hätte gern [die Rechnung]." → "Ich hätte gern ___." (every part of a split slot is blanked) */
 export function blankSlot(s: string): string {
-  return s.replace(/\[[^\]]+\]/, '___');
+  return s.replace(/\[[^\]]+\]/g, '___');
 }
 
 /** Split into word tokens, dropping sentence punctuation but keeping inner ' and - (geht's, U-Bahn). */

@@ -5,6 +5,7 @@ import { BandRoadmap, Button, RecoveryNotice, StartButton, StreakMeter } from '.
 
 export function Home(props: {
   plan: Plan;
+  skipped: number;
   persistent: boolean;
   sync: SyncStatus;
   onSignIn(): void;
@@ -54,7 +55,7 @@ export function Home(props: {
       {!props.persistent && <p className="notice">This browser window can't save your progress, so it will reset when you close it. Open the app in a normal (not private) window to keep it.</p>}
 
       <StreakMeter days={props.streak.days} freezes={props.streak.freezes} week={props.streak.week} />
-      <BandRoadmap sentences={props.sentences} />
+      <BandRoadmap sentences={props.sentences} skipped={props.skipped} />
     </main>
   );
 }

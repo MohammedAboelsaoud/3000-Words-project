@@ -31,6 +31,7 @@ jobs:
       - run: npm ci
       - run: npm run content:check
       - run: npm test
+      - run: npm test --prefix ../server
       - run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/

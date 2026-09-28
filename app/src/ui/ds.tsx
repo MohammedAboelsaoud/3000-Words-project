@@ -198,11 +198,13 @@ const BANDS = [
   { n: 4, name: 'Threshold', cefr: 'A2+ → B1', from: 2000, to: 3000 },
 ];
 const CHECKPOINTS = [100, 300, 600, 1000, 1500, 2000, 2500, 3000];
-export function BandRoadmap({ sentences }: { sentences: number }) {
+/** `sentences` = sentences started; `skipped` = sentences in bands skipped at placement (drawn as done, not counted). */
+export function BandRoadmap({ sentences: learned, skipped = 0 }: { sentences: number; skipped?: number }) {
+  const sentences = learned + skipped;
   const next = CHECKPOINTS.find((c) => c > sentences);
   return (
     <section className="sz-road" aria-label="Roadmap">
-      <p className="sz-road-head"><strong>{fmt(sentences)}</strong> of 3,000 sentences{next && <span className="sz-road-next"> · next checkpoint {fmt(next)}</span>}</p>
+      <p className="sz-road-head"><strong>{fmt(learned)}</strong> {learned === 1 ? 'sentence' : 'sentences'} learned{skipped > 0 && <span className="sz-road-next"> · {fmt(skipped)} skipped at placement</span>}{next && <span className="sz-road-next"> · next checkpoint {fmt(next)}</span>}</p>
       <div className="sz-road-track">
         {BANDS.map((b) => {
           const fill = Math.max(0, Math.min(1, (sentences - b.from) / (b.to - b.from)));

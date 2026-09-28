@@ -25,6 +25,19 @@ function setGuestChosen(on: boolean) {
   try { if (on) localStorage.setItem(GUEST_KEY, '1'); else localStorage.removeItem(GUEST_KEY); } catch { /* storage blocked */ }
 }
 
+/** Families the planner should not introduce: already started, or skipped by placement. */
+function plannedFamilies(progress: Progress, settings: Settings): Set<string> {
+  const out = new Set(progress.introduced);
+  for (const fam of content.families) if (fam.band < settings.startBand) out.add(fam.id);
+  return out;
+}
+
+/** Sentences in bands skipped at placement (and not practised anyway). */
+function skippedSentences(progress: Progress, settings: Settings): number {
+  const started = new Set(progress.introduced);
+  return content.families.filter((f) => f.band < settings.startBand && !started.has(f.id)).reduce((n, f) => n + f.sentences.length, 0);
+}
+
 function daysBetween(fromKey: string | null, to: Date): number | null {
   if (!fromKey) return null;
   const [y, m, d] = fromKey.split('-').map(Number);
@@ -97,7 +110,7 @@ export function App() {
       budgetMin: settings.budgetMin,
       traces: [...traces.current.values()],
       families: content.families,
-      introducedFamilies: new Set(progress.introduced),
+      introducedFamilies: plannedFamilies(progress, settings),
       secPerReview,
       newCredit: progress.newCredit,
       f,
@@ -277,7 +290,7 @@ export function App() {
     const tomorrow = new Date(startOfDay(addDays(now, 1)).getTime() + 9 * 3600_000);
     const tomorrowPlan = makePlan({
       now: tomorrow, budgetMin: settings.budgetMin, traces: [...traces.current.values()], families: content.families,
-      introducedFamilies: new Set(progress.introduced), secPerReview, newCredit: accrueCredit(progress.newCredit, settings.budgetMin), f,
+      introducedFamilies: plannedFamilies(progress, settings), secPerReview, newCredit: accrueCredit(progress.newCredit, settings.budgetMin), f,
     });
     return (
       <main className="screen close">
@@ -287,9 +300,9 @@ export function App() {
     );
   }
 
-  const introducedIds = new Set(progress.introduced);
+  const introducedIds = plannedFamilies(progress, settings);
   return (
-    <Home sync={sync} onSignIn={() => setScreen('auth')} persistent={storeRef.current?.persistent ?? true} plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
+    <Home skipped={skippedSentences(progress, settings)} sync={sync} onSignIn={() => setScreen('auth')} persistent={storeRef.current?.persistent ?? true} plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
       contentLeft={content.families.some((fam) => !introducedIds.has(fam.id))} onStart={start} onSettings={() => setScreen('settings')} />
   );
 }

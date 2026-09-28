@@ -13,6 +13,8 @@ export interface Settings {
   cue: string;
   speaking: boolean;
   onboarded: boolean;
+  /** Placement: families in earlier bands are skipped (reversible — lower it to bring them back). */
+  startBand: number;
 }
 
 export interface Progress {
@@ -28,7 +30,7 @@ export interface Progress {
   days: Record<string, DayRecord>;
 }
 
-export const DEFAULT_SETTINGS: Settings = { budgetMin: 30, retention: 0.9, cue: '', speaking: true, onboarded: false };
+export const DEFAULT_SETTINGS: Settings = { budgetMin: 30, retention: 0.9, cue: '', speaking: true, onboarded: false, startBand: 1 };
 export const DEFAULT_PROGRESS: Progress = { introduced: [], newCredit: 0, creditDay: null, recoveredDay: null, lastMode: 'normal', days: {} };
 
 function req<T>(r: IDBRequest<T>): Promise<T> {

@@ -22,12 +22,12 @@ for (const f of pack.families) {
   ids.add(f.id);
   const n = f.sentences.length;
   if (n < 3 || n > 5) errors.push(`${f.id}: family has ${n} sentences (want 3–5)`);
-  if (f.pair) for (const k of ['a', 'b']) if (slotCount(f.pair[k]) > 1) errors.push(`${f.id}: pair.${k} has more than one slot`);
+  if (f.pair) for (const k of ["a", "b"]) if (slotCount(f.pair[k]) > 2) errors.push(`${f.id}: pair.${k} has more than two highlighted parts`);
   if (f.rule && !f.frame) warnings.push(`${f.id}: rule without a frame`);
   for (const s of f.sentences) {
     if (ids.has(s.id)) errors.push(`${s.id}: duplicate sentence id`);
     ids.add(s.id);
-    if (slotCount(s.de) !== 1) errors.push(`${s.id}: needs exactly one [slot] — "${s.de}"`);
+    if (slotCount(s.de) < 1 || slotCount(s.de) > 2) errors.push(`${s.id}: needs one [slot], two parts at most — "${s.de}"`);
     const w = words(s.de).length;
     if (w > 12) errors.push(`${s.id}: ${w} words (max 12)`);
     if (!s.en) errors.push(`${s.id}: missing English gloss`);

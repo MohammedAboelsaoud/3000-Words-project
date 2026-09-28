@@ -5,6 +5,8 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   base: process.env.BASE_PATH ?? '/',
   plugins: [react()],
+  // The bundle carries all 3,000+ sentences (≈200 KB gzipped); that is expected.
+  build: { chunkSizeWarningLimit: 800 },
   // In development, API calls go to the local Satz server (npm start in server/).
   server: { fs: { allow: ['..'] }, proxy: { '/api': 'http://localhost:8080' } },
 });

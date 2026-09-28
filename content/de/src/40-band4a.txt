@@ -1,0 +1,165 @@
+// Band 4 · Threshold (A2+ → B1): verb-final clauses — weil, dass, wenn, ob, als, obwohl;
+// indirect questions.
+## band 4
+
+# clauses | …, weil ich ___ bin. | After weil the verb goes to the end.
+Ich bleibe zu Hause, weil ich [müde bin]. | I'm staying at home because I'm tired.
+Ich lerne Deutsch, weil ich [hier arbeite]. | I'm learning German because I work here.
+Er kommt nicht, weil er [krank ist]. | He isn't coming because he's ill.
+Ich nehme den Bus, weil es [regnet]. | I'm taking the bus because it's raining.
+= Ich bin müde, [denn] ich [habe] schlecht geschlafen. || Ich bin müde, [weil] ich schlecht geschlafen [habe]. || denn keeps normal order; weil sends the verb to the end.
+
+# clauses | Weil ___, … | A weil-clause first: then the main verb comes straight after the comma.
+Weil ich keine Zeit habe, [komme ich] später. | Because I have no time, I'll come later.
+Weil es kalt ist, [bleiben wir] drinnen. | Because it's cold, we're staying inside.
+Weil der Zug Verspätung hatte, [bin ich] zu spät. | Because the train was late, I'm late.
+Weil sie Geburtstag hat, [kaufe ich] Blumen. | Because it's her birthday, I'm buying flowers.
+
+# clauses | Warum? — Weil ___. | Answering warum with weil.
+Weil [ich in Berlin studieren will]. | (Why are you learning German?) Because I want to study in Berlin.
+Weil [ich den Bus verpasst habe]. | (Why are you so late?) Because I missed the bus.
+Weil [das so lustig ist]. | (Why are you laughing?) Because it's so funny.
+Weil [ich keinen Hunger habe]. | (Why aren't you eating?) Because I'm not hungry.
+
+# clauses | Ich glaube, dass ___. | dass = that; the verb goes to the end.
+Ich glaube, dass [er recht hat]. | I think that he's right.
+Ich weiß, dass [du viel arbeitest]. | I know that you work a lot.
+Ich hoffe, dass [es morgen schön ist]. | I hope that it's nice tomorrow.
+Ich finde, dass [das zu teuer ist]. | I think that it's too expensive.
+= Ich glaube, er [hat] recht. || Ich glaube, dass er recht [hat]. || Without dass: normal order. With dass: the verb goes to the end.
+
+# clauses | Es ist schön, dass ___. | Feelings about something: Es ist …, dass …
+Es ist schön, dass [du da bist]. | It's nice that you're here.
+Es ist schade, dass [du gehen musst]. | It's a pity that you have to go.
+Es ist wichtig, dass [du pünktlich bist]. | It's important that you're on time.
+Es ist gut, dass [wir darüber sprechen]. | It's good that we're talking about it.
+
+# clauses | Er sagt, dass ___. | Reporting what someone said.
+Er sagt, dass [er später kommt]. | He says that he's coming later.
+Sie hat gesagt, dass [sie krank ist]. | She said that she's ill.
+Der Arzt meint, dass [ich mehr schlafen soll]. | The doctor thinks I should sleep more.
+Mein Chef hat gesagt, dass [ich morgen frei habe]. | My boss said that I have tomorrow off.
+
+# clauses | Wenn ___, … | wenn = if, whenever; the verb goes to the end.
+Wenn [es regnet], bleibe ich zu Hause. | If it rains, I stay at home.
+Wenn [ich Zeit habe], rufe ich dich an. | If I have time, I'll call you.
+Wenn [du Hilfe brauchst], sag Bescheid. | If you need help, let me know.
+Wenn [ich müde bin], trinke ich Kaffee. | Whenever I'm tired, I drink coffee.
+
+# clauses | …, wenn ___. | wenn-clause second.
+Ich komme mit, wenn [du willst]. | I'll come along if you want.
+Ruf mich an, wenn [du angekommen bist]. | Call me when you've arrived.
+Ich freue mich, wenn [du kommst]. | I'll be happy if you come.
+Sag Bescheid, wenn [du fertig bist]. | Let me know when you're finished.
+
+# clauses | Als ich ___ war, … | als = when (one time in the past); wenn = whenever / in the future.
+Als ich [ein Kind war], hatte ich einen Hund. | When I was a child, I had a dog.
+Als ich [nach Deutschland kam], konnte ich kein Deutsch. | When I came to Germany, I couldn't speak German.
+Als [wir ankamen], war es schon dunkel. | When we arrived, it was already dark.
+Als [ich ihn sah], habe ich gelacht. | When I saw him, I laughed.
+= [Als] ich klein war, … || [Wenn] ich Zeit habe, … || als for one past moment; wenn for the present, future or repeated events.
+
+# clauses | Ich weiß nicht, ob ___. | ob = whether, if (yes/no).
+Ich weiß nicht, ob [er kommt]. | I don't know if he's coming.
+Kannst du fragen, ob [noch Platz ist]? | Can you ask if there's still room?
+Ich bin nicht sicher, ob [das stimmt]. | I'm not sure if that's true.
+Weißt du, ob [der Laden offen ist]? | Do you know if the shop is open?
+
+# clauses | Weißt du, wo ___? | Indirect questions: question word + verb at the end.
+Weißt du, wo [der Bahnhof ist]? | Do you know where the station is?
+Können Sie mir sagen, wann [der Zug fährt]? | Can you tell me when the train leaves?
+Ich weiß nicht, wie [das funktioniert]. | I don't know how that works.
+Weißt du, was [das bedeutet]? | Do you know what that means?
+= Wo [ist] der Bahnhof? || Weißt du, wo der Bahnhof [ist]? || Inside a bigger question, the verb moves to the end.
+
+# clauses | Ich frage mich, ___. | Wondering.
+Ich frage mich, warum [er nicht anruft]. | I wonder why he isn't calling.
+Ich frage mich, wie [sie das schafft]. | I wonder how she manages it.
+Ich frage mich, ob [das eine gute Idee ist]. | I wonder whether that's a good idea.
+Ich frage mich, wer [das gemacht hat]. | I wonder who did that.
+
+# clauses | Obwohl ___, … | obwohl = although; the verb goes to the end.
+Obwohl [es regnet], gehe ich spazieren. | Although it's raining, I'm going for a walk.
+Ich gehe zur Arbeit, obwohl [ich krank bin]. | I'm going to work although I'm ill.
+Obwohl [er reich ist], ist er nicht glücklich. | Although he's rich, he isn't happy.
+Sie hat bestanden, obwohl [sie wenig gelernt hat]. | She passed although she studied little.
+= Es regnet, [trotzdem] gehe ich spazieren. || [Obwohl] es regnet, gehe ich spazieren. || trotzdem keeps normal order; obwohl sends the verb to the end.
+
+# clauses | ___, deshalb … | deshalb = that's why (verb comes straight after).
+Ich bin krank, [deshalb] bleibe ich zu Hause. | I'm ill, so I'm staying at home.
+Es war spät, [deshalb] haben wir ein Taxi genommen. | It was late, so we took a taxi.
+Ich habe Hunger, [deshalb] koche ich jetzt. | I'm hungry, so I'm cooking now.
+Er war müde, [deswegen] ist er früh gegangen. | He was tired, so he left early.
+
+# clauses | ___, trotzdem … | trotzdem = nevertheless, still.
+Es ist kalt, [trotzdem] schwimmen wir. | It's cold, but we're swimming anyway.
+Ich war müde, [trotzdem] habe ich gelernt. | I was tired, but I still studied.
+Das Essen war teuer, [trotzdem] war es gut. | The food was expensive, but it was still good.
+Er hat keine Zeit, [trotzdem] hilft er mir. | He has no time, but he helps me anyway.
+
+# clauses | Bevor ___, … | bevor = before; nachdem = after.
+Bevor [ich schlafen gehe], lese ich. | Before I go to sleep, I read.
+Ruf mich an, bevor [du losfährst]. | Call me before you set off.
+Nachdem [ich gegessen hatte], bin ich spazieren gegangen. | After I had eaten, I went for a walk.
+Wasch dir die Hände, bevor [du isst]. | Wash your hands before you eat.
+
+# clauses | Während ___, … | während = while; seitdem = since.
+Während [ich koche], hört er Musik. | While I cook, he listens to music.
+Seitdem [ich hier wohne], fahre ich Rad. | Since I've lived here, I've been cycling.
+Während [des Films] hat er geschlafen. | He slept during the film.
+Seit [ich Sport mache], geht es mir besser. | Since I started doing sport, I feel better.
+
+# clauses | Bis ___, … | bis = until; sobald = as soon as.
+Ich warte, bis [du kommst]. | I'll wait until you come.
+Sobald [ich Zeit habe], melde ich mich. | As soon as I have time, I'll get in touch.
+Wir bleiben, bis [es aufhört zu regnen]. | We'll stay until it stops raining.
+Sobald [der Film anfängt], ist es still. | As soon as the film starts, it's quiet.
+
+# clauses | Damit ___ | damit = so that (a purpose for someone).
+Ich spreche langsam, damit [du mich verstehst]. | I speak slowly so that you understand me.
+Ich schreibe es auf, damit [ich es nicht vergesse]. | I'm writing it down so that I don't forget it.
+Er arbeitet viel, damit [seine Kinder studieren können]. | He works a lot so that his children can study.
+Mach das Licht an, damit [wir etwas sehen]. | Turn the light on so that we can see something.
+
+# clauses | Ich lerne Deutsch, um ___ zu … | um … zu = in order to (same person).
+Ich lerne Deutsch, [um] hier [zu] arbeiten. | I'm learning German in order to work here.
+Ich spare Geld, um [ein Auto zu kaufen]. | I'm saving money to buy a car.
+Er geht früh ins Bett, um [fit zu sein]. | He goes to bed early to be fit.
+Ich fahre in die Stadt, um [Freunde zu treffen]. | I'm going into town to meet friends.
+= Ich lerne, [damit] meine Kinder mich verstehen. || Ich lerne, [um] Arbeit [zu] finden. || Same person: um … zu. A different person: damit.
+
+# clauses | Ich habe keine Lust, ___ zu … | zu + verb after many expressions.
+Ich habe keine Lust, [heute zu kochen]. | I don't feel like cooking today.
+Ich habe vergessen, [dich anzurufen]. | I forgot to call you.
+Es ist schwer, [eine Wohnung zu finden]. | It's hard to find a flat.
+Ich versuche, [mehr Deutsch zu sprechen]. | I'm trying to speak more German.
+
+# clauses | Es ist wichtig, ___ zu … | Es ist + describing word + zu.
+Es ist wichtig, [genug zu schlafen]. | It's important to get enough sleep.
+Es ist nicht leicht, [Freunde zu finden]. | It's not easy to find friends.
+Es macht Spaß, [neue Leute kennenzulernen]. | It's fun to meet new people.
+Es ist verboten, [hier zu rauchen]. | It's forbidden to smoke here.
+
+# clauses | Ich habe vor, ___ zu … | vorhaben = to plan; beschließen = to decide.
+Ich habe vor, [nächstes Jahr umzuziehen]. | I'm planning to move next year.
+Wir haben beschlossen, [zu heiraten]. | We've decided to get married.
+Ich habe angefangen, [Spanisch zu lernen]. | I've started to learn Spanish.
+Hör auf, [so laut zu reden]! | Stop talking so loudly!
+
+# clauses | ohne ___ zu … | ohne … zu = without doing; statt … zu = instead of doing.
+Er ist gegangen, ohne [tschüss zu sagen]. | He left without saying goodbye.
+Sie hat bezahlt, ohne [zu fragen]. | She paid without asking.
+Statt [zu lernen], spielt er Computerspiele. | Instead of studying, he plays computer games.
+Ich kann nicht schlafen, ohne [etwas zu lesen]. | I can't sleep without reading something.
+
+# clauses | Je ___, desto … | je … desto = the more …, the more …
+Je [mehr] ich übe, desto besser spreche ich. | The more I practise, the better I speak.
+Je [früher], desto besser. | The earlier, the better.
+Je [länger] ich hier wohne, desto wohler fühle ich mich. | The longer I live here, the more at home I feel.
+Je [älter] er wird, desto ruhiger ist er. | The older he gets, the calmer he is.
+
+# clauses | entweder ___ oder … | Pairs: entweder … oder, sowohl … als auch, weder … noch.
+Wir fahren [entweder] mit dem Zug oder mit dem Auto. | We'll go either by train or by car.
+Ich spreche [sowohl] Englisch als auch Arabisch. | I speak both English and Arabic.
+Ich habe [weder] Zeit noch Geld. | I have neither time nor money.
+Er ist [nicht nur] nett, sondern auch klug. | He's not only nice but also clever.
