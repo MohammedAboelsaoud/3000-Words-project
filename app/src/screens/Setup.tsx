@@ -11,6 +11,7 @@ export function Setup(props: {
   settings: Settings;
   first: boolean;
   voices: SpeechSynthesisVoice[];
+  persistent: boolean;
   onSave(s: Settings): void;
   onCancel?(): void;
   onExport?(): void;
@@ -55,7 +56,9 @@ export function Setup(props: {
           Include speaking tasks
         </label>
         <p className="muted">
-          {recognitionAvailable()
+          {import.meta.env.VITE_ARTIFACT
+            ? 'Speaking tasks need the microphone, which this hosted version cannot use. Run the app from its own address to include them.'
+            : recognitionAvailable()
             ? 'Your browser turns your voice into text to check it. In Chrome this audio goes to Google; Satz keeps only the transcript.'
             : 'This browser cannot check speech, so speaking tasks are skipped. Chrome and Edge support them.'}
         </p>
@@ -77,7 +80,14 @@ export function Setup(props: {
         <p className="muted">{props.voices.length ? props.voices.map((v) => voiceName(v)).join(', ') : 'None found. Install a German voice in your system settings to hear sentences.'}</p>
       </div>
 
-      {!props.first && (
+      {!props.first && import.meta.env.VITE_ARTIFACT && (
+        <div className="field">
+          <span className="field-l">Where your progress lives</span>
+          <p className="muted">{props.persistent ? 'In this browser on this device. Opening the app on another device starts fresh.' : 'Nowhere yet: this window blocks storage, so progress resets when you close it.'}</p>
+        </div>
+      )}
+
+      {!props.first && !import.meta.env.VITE_ARTIFACT && (
         <div className="field">
           <span className="field-l">Backup</span>
           <p className="muted">Your progress is stored only in this browser. Save a backup file to keep it safe or move it to another device.</p>

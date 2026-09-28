@@ -6,7 +6,7 @@ import { nextCheckpoint, streak, trueRetention } from './lib/progress';
 import { makeScheduler, newTrace, PRODUCTION_UNLOCK_DAYS, review, State, traceId, type Format, type ReviewLog, type Trace } from './lib/scheduler';
 import { buildQueue, type Task } from './lib/session';
 import { voicesReady } from './lib/speech';
-import { Store, type Progress, type Settings } from './lib/store';
+import { openStore, type AppStore, type Progress, type Settings } from './lib/store';
 import { Home } from './screens/Home';
 import { Session } from './screens/Session';
 import { Setup } from './screens/Setup';
@@ -22,7 +22,7 @@ function daysBetween(fromKey: string | null, to: Date): number | null {
 }
 
 export function App() {
-  const storeRef = useRef<Store | null>(null);
+  const storeRef = useRef<AppStore | null>(null);
   const traces = useRef(new Map<string, Trace>());
   const [log, setLog] = useState<ReviewLog[]>([]);
   const [settings, setSettings] = useState<Settings | null>(null);
@@ -34,7 +34,7 @@ export function App() {
   const [error, setError] = useState<string | null>(null);
 
   const load = useCallback(async () => {
-    const store = storeRef.current ?? (storeRef.current = await Store.open());
+    const store = storeRef.current ?? (storeRef.current = await openStore());
     const data = await store.load();
     traces.current = new Map(data.traces.map((t) => [t.id, t]));
     setLog(data.log);
@@ -186,7 +186,7 @@ export function App() {
   };
 
   if (screen === 'setup' || screen === 'settings') {
-    return <Setup settings={settings} first={screen === 'setup'} voices={voices} onSave={saveSettings}
+    return <Setup settings={settings} first={screen === 'setup'} voices={voices} onSave={saveSettings} persistent={storeRef.current?.persistent ?? true}
       onCancel={() => setScreen('home')} onExport={exportBackup} onImport={importBackup} />;
   }
 
@@ -214,7 +214,7 @@ export function App() {
 
   const introducedIds = new Set(progress.introduced);
   return (
-    <Home plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
+    <Home persistent={storeRef.current?.persistent ?? true} plan={plan} sentences={sentencesStarted} streak={streak(progress.days, new Date())} cue={settings.cue}
       contentLeft={content.families.some((fam) => !introducedIds.has(fam.id))} onStart={start} onSettings={() => setScreen('settings')} />
   );
 }

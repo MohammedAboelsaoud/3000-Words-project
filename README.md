@@ -19,6 +19,8 @@ npm test             # unit tests + a 90-day workload simulation
 npm run content:check
 ```
 
+`npm run build:artifact` packs the app into one self-contained page (`app/dist-artifact/satz.html`) for hosting as a claude.ai artifact. That version skips speaking tasks (the hosted frame has no microphone) and backups.
+
 Speaking tasks need Chrome or Edge (browser speech recognition). Audio uses the German voices installed on the device.
 
 ## How a day works

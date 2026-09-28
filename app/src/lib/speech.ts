@@ -64,6 +64,8 @@ function RecognitionCtor(): (new () => Recognition) | null {
 }
 
 export function recognitionAvailable(): boolean {
+  // The hosted artifact frame refuses the microphone, so speaking tasks are skipped there.
+  if (import.meta.env.VITE_ARTIFACT) return false;
   return typeof window !== 'undefined' && RecognitionCtor() !== null;
 }
 

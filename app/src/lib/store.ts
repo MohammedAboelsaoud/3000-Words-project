@@ -46,7 +46,8 @@ function done(tx: IDBTransaction): Promise<void> {
   });
 }
 
-export class Store {
+export class Store implements AppStore {
+  readonly persistent = true;
   private constructor(private db: IDBDatabase) {}
 
   static async open(name = DB_NAME): Promise<Store> {
@@ -60,7 +61,7 @@ export class Store {
     return new Store(await req(open));
   }
 
-  async load(): Promise<{ settings: Settings; progress: Progress; traces: Trace[]; log: ReviewLog[] }> {
+  async load(): Promise<Snapshot> {
     const tx = this.db.transaction(['traces', 'log', 'kv'], 'readonly');
     const [traces, log, settings, progress] = await Promise.all([
       req(tx.objectStore('traces').getAll() as IDBRequest<Trace[]>),
@@ -103,7 +104,7 @@ export class Store {
   }
 
   /** Replace everything with a backup (dates arrive as strings from JSON). */
-  async importAll(raw: { settings: Settings; progress: Progress; traces: Trace[]; log: ReviewLog[] }): Promise<void> {
+  async importAll(raw: Snapshot): Promise<void> {
     const tx = this.db.transaction(['traces', 'log', 'kv'], 'readwrite');
     tx.objectStore('traces').clear();
     tx.objectStore('log').clear();
@@ -115,5 +116,54 @@ export class Store {
     tx.objectStore('kv').put(raw.settings, 'settings');
     tx.objectStore('kv').put(raw.progress, 'progress');
     await done(tx);
+  }
+}
+
+export type Snapshot = { settings: Settings; progress: Progress; traces: Trace[]; log: ReviewLog[] };
+
+/** What the app needs from storage; both stores below provide it. */
+export interface AppStore {
+  /** False when progress only lives until the page is closed. */
+  readonly persistent: boolean;
+  load(): Promise<Snapshot>;
+  commitReview(traces: Trace[], log: ReviewLog | null): Promise<void>;
+  saveSettings(s: Settings): Promise<void>;
+  saveProgress(p: Progress): Promise<void>;
+  exportAll(): Promise<object>;
+  importAll(raw: Snapshot): Promise<void>;
+}
+
+/** Fallback when the browser blocks IndexedDB (private windows, blocked site data). */
+export class MemoryStore implements AppStore {
+  readonly persistent = false;
+  private traces = new Map<string, Trace>();
+  private log: ReviewLog[] = [];
+  private settings: Settings = { ...DEFAULT_SETTINGS };
+  private progress: Progress = { ...DEFAULT_PROGRESS };
+
+  async load(): Promise<Snapshot> {
+    return { settings: this.settings, progress: this.progress, traces: [...this.traces.values()], log: this.log.slice() };
+  }
+  async commitReview(traces: Trace[], log: ReviewLog | null) {
+    for (const t of traces) this.traces.set(t.id, t);
+    if (log) this.log.push(log);
+  }
+  async saveSettings(s: Settings) { this.settings = s; }
+  async saveProgress(p: Progress) { this.progress = p; }
+  async exportAll() { return { app: 'satz', version: 1, exportedAt: new Date().toISOString(), ...(await this.load()) }; }
+  async importAll(raw: Snapshot) {
+    this.traces = new Map(raw.traces.map((t) => [t.id, { ...t, card: { ...t.card, due: new Date(t.card.due), last_review: t.card.last_review ? new Date(t.card.last_review) : undefined } }]));
+    this.log = raw.log.map((l) => ({ ...l, reviewedAt: new Date(l.reviewedAt) }));
+    this.settings = raw.settings;
+    this.progress = raw.progress;
+  }
+}
+
+/** IndexedDB when the browser allows it, otherwise an in-memory store. */
+export async function openStore(): Promise<AppStore> {
+  try {
+    return await Store.open();
+  } catch {
+    return new MemoryStore();
   }
 }

@@ -50,3 +50,5 @@ button, input, select { font: inherit; }
 .check input { width: 20px; height: 20px; accent-color: var(--tinte); }
 .row { display: flex; flex-wrap: wrap; gap: var(--space-2); }
 .close { padding-top: var(--space-12); }
+.notice { margin: 0; padding: var(--space-3) var(--space-4); border: 1px solid var(--line-strong); border-radius: var(--radius-md); background: var(--paper-raised); font-size: 14px; line-height: 20px; }
+[data-theme="dark"] { color-scheme: dark; }
