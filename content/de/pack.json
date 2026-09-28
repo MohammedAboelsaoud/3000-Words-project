@@ -1,0 +1,7131 @@
+{
+ "language": "de",
+ "glossLanguage": "en",
+ "version": 2,
+ "reviewStatus": "draft — needs native-speaker review",
+ "families": [
+  {
+   "id": "f-9e5ae47d9f",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "Guten ___!",
+   "rule": "Guten + time of day = a greeting.",
+   "sentences": [
+    {
+     "id": "de-a08b984741",
+     "de": "Guten [Morgen]!",
+     "en": "Good morning!"
+    },
+    {
+     "id": "de-a5b81f9cf4",
+     "de": "Guten [Tag]!",
+     "en": "Hello! (daytime, polite)"
+    },
+    {
+     "id": "de-62a21ce92e",
+     "de": "Guten [Abend]!",
+     "en": "Good evening!"
+    }
+   ],
+   "pair": {
+    "a": "Guten [Abend]!",
+    "b": "Gute [Nacht]!",
+    "note": "Nacht is a die-word: gute, not guten. And it means goodbye, not hello."
+   }
+  },
+  {
+   "id": "f-4ae054c35d",
+   "band": 1,
+   "theme": "courtesy",
+   "sentences": [
+    {
+     "id": "de-f02a27e2f1",
+     "de": "[Hallo]!",
+     "en": "Hi!"
+    },
+    {
+     "id": "de-06e6376b54",
+     "de": "[Tschüss]!",
+     "en": "Bye!",
+     "alt": [
+      "Tschüs!"
+     ]
+    },
+    {
+     "id": "de-43918bcdf4",
+     "de": "[Auf Wiedersehen]!",
+     "en": "Goodbye! (polite)"
+    },
+    {
+     "id": "de-575c84fda2",
+     "de": "[Schönen Tag noch]!",
+     "en": "Have a nice day!"
+    }
+   ]
+  },
+  {
+   "id": "f-e8aca00edd",
+   "band": 1,
+   "theme": "courtesy",
+   "sentences": [
+    {
+     "id": "de-f750a81a71",
+     "de": "[Danke]!",
+     "en": "Thanks!"
+    },
+    {
+     "id": "de-e0818d648e",
+     "de": "Danke [schön]!",
+     "en": "Thank you very much!"
+    },
+    {
+     "id": "de-f230174d4e",
+     "de": "[Vielen] Dank!",
+     "en": "Many thanks!"
+    },
+    {
+     "id": "de-cfd43fd57f",
+     "de": "[Bitte] schön.",
+     "en": "You're welcome."
+    },
+    {
+     "id": "de-a6f3aa585a",
+     "de": "[Gern geschehen].",
+     "en": "My pleasure."
+    }
+   ]
+  },
+  {
+   "id": "f-d19c74d0af",
+   "band": 1,
+   "theme": "courtesy",
+   "sentences": [
+    {
+     "id": "de-7403b7ae3b",
+     "de": "[Entschuldigung]!",
+     "en": "Excuse me! / Sorry!"
+    },
+    {
+     "id": "de-a6e73ce5bc",
+     "de": "[Es tut mir leid].",
+     "en": "I'm sorry."
+    },
+    {
+     "id": "de-ed33ad8b0a",
+     "de": "[Kein Problem].",
+     "en": "No problem."
+    },
+    {
+     "id": "de-500a2e048b",
+     "de": "[Macht nichts].",
+     "en": "Never mind."
+    }
+   ]
+  },
+  {
+   "id": "f-643b48854e",
+   "band": 1,
+   "theme": "repair",
+   "sentences": [
+    {
+     "id": "de-3f9c147b82",
+     "de": "[Wie bitte]?",
+     "en": "Sorry? (I didn't catch that)"
+    },
+    {
+     "id": "de-4e6b8d568d",
+     "de": "[Ich verstehe das nicht].",
+     "en": "I don't understand that."
+    },
+    {
+     "id": "de-a82ad4faca",
+     "de": "[Noch einmal], bitte.",
+     "en": "Once more, please.",
+     "alt": [
+      "Nochmal, bitte."
+     ]
+    },
+    {
+     "id": "de-1f092a9463",
+     "de": "[Langsamer], bitte.",
+     "en": "Slower, please."
+    }
+   ]
+  },
+  {
+   "id": "f-9c7bff0d22",
+   "band": 1,
+   "theme": "courtesy",
+   "sentences": [
+    {
+     "id": "de-b0d4847c49",
+     "de": "[Ja].",
+     "en": "Yes."
+    },
+    {
+     "id": "de-50c3135aa9",
+     "de": "[Nein].",
+     "en": "No."
+    },
+    {
+     "id": "de-18e7ae8d8e",
+     "de": "[Vielleicht].",
+     "en": "Maybe."
+    },
+    {
+     "id": "de-f2fcd25a11",
+     "de": "[Natürlich].",
+     "en": "Of course."
+    },
+    {
+     "id": "de-86dec607d2",
+     "de": "[Genau].",
+     "en": "Exactly."
+    }
+   ]
+  },
+  {
+   "id": "f-1056429da5",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "Wie geht's? — ___",
+   "rule": "Wie geht's? is the everyday “How are you?”",
+   "sentences": [
+    {
+     "id": "de-8930323705",
+     "de": "Wie [geht's]?",
+     "en": "How are you?",
+     "alt": [
+      "Wie geht es?"
+     ]
+    },
+    {
+     "id": "de-b00210d97e",
+     "de": "[Gut], danke.",
+     "en": "Good, thanks."
+    },
+    {
+     "id": "de-3c2fc4a380",
+     "de": "[Und dir]?",
+     "en": "And you?"
+    },
+    {
+     "id": "de-9a7be15eb3",
+     "de": "[Nicht so gut].",
+     "en": "Not so good."
+    },
+    {
+     "id": "de-4b4bef43a3",
+     "de": "[Es geht].",
+     "en": "So-so."
+    }
+   ]
+  },
+  {
+   "id": "f-ff4b75be1f",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich bin ___.",
+   "rule": "Ich bin ___ = I am ___. No “a” before a job: Ich bin Student.",
+   "sentences": [
+    {
+     "id": "de-cb45f25ca4",
+     "de": "Ich [bin] müde.",
+     "en": "I'm tired."
+    },
+    {
+     "id": "de-f3056c653e",
+     "de": "Ich bin [Student].",
+     "en": "I'm a student.",
+     "alt": [
+      "Ich bin Studentin."
+     ]
+    },
+    {
+     "id": "de-f6d068327a",
+     "de": "Ich bin [aus Ägypten].",
+     "en": "I'm from Egypt."
+    },
+    {
+     "id": "de-65858862bc",
+     "de": "Ich bin [hier].",
+     "en": "I'm here."
+    }
+   ],
+   "pair": {
+    "a": "Ich bin müde.",
+    "b": "[Bist du] müde?",
+    "note": "A yes/no question starts with the verb."
+   }
+  },
+  {
+   "id": "f-069a5d0e7d",
+   "band": 1,
+   "theme": "self",
+   "frame": "Wie ___ du/Sie?",
+   "rule": "heißen = to be called. du heißt, Sie heißen (polite).",
+   "sentences": [
+    {
+     "id": "de-950b700a99",
+     "de": "Ich [heiße] Lena.",
+     "en": "My name is Lena."
+    },
+    {
+     "id": "de-a3f0ca3f2b",
+     "de": "Wie heißt [du]?",
+     "en": "What's your name?"
+    },
+    {
+     "id": "de-20cc0b6866",
+     "de": "Wie heißen [Sie]?",
+     "en": "What's your name? (polite)"
+    },
+    {
+     "id": "de-a07e8a8b25",
+     "de": "[Freut mich].",
+     "en": "Nice to meet you."
+    }
+   ],
+   "pair": {
+    "a": "Wie heißt [du]?",
+    "b": "Wie heißen [Sie]?",
+    "note": "Sie is the polite “you”, and the verb ending changes with it."
+   }
+  },
+  {
+   "id": "f-a874510c59",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich komme aus ___.",
+   "rule": "aus + place = from. Woher = where from.",
+   "sentences": [
+    {
+     "id": "de-84072b16ba",
+     "de": "[Woher] kommst du?",
+     "en": "Where are you from?"
+    },
+    {
+     "id": "de-faaa160fe3",
+     "de": "Ich komme [aus Deutschland].",
+     "en": "I'm from Germany."
+    },
+    {
+     "id": "de-550a9ae6e0",
+     "de": "Ich komme aus [Kairo].",
+     "en": "I'm from Cairo."
+    },
+    {
+     "id": "de-abec54ddf8",
+     "de": "Woher kommen [Sie]?",
+     "en": "Where are you from? (polite)"
+    }
+   ],
+   "pair": {
+    "a": "Woher kommst [du]?",
+    "b": "Woher kommen [Sie]?",
+    "note": "du → kommst, Sie → kommen."
+   }
+  },
+  {
+   "id": "f-d22a98b2cd",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "Bis ___!",
+   "rule": "Bis + a time = see you then.",
+   "sentences": [
+    {
+     "id": "de-6f52f65f75",
+     "de": "Bis [morgen]!",
+     "en": "See you tomorrow!"
+    },
+    {
+     "id": "de-7e0efe19a6",
+     "de": "Bis [später]!",
+     "en": "See you later!"
+    },
+    {
+     "id": "de-9cb68f117c",
+     "de": "Bis [Montag]!",
+     "en": "See you on Monday!"
+    },
+    {
+     "id": "de-6530603933",
+     "de": "Bis [bald]!",
+     "en": "See you soon!"
+    }
+   ]
+  },
+  {
+   "id": "f-58b9459913",
+   "band": 1,
+   "theme": "opinion",
+   "frame": "Das ist ___.",
+   "rule": "Das ist + a describing word = That's ___.",
+   "sentences": [
+    {
+     "id": "de-ddb2d191ff",
+     "de": "Das ist [gut].",
+     "en": "That's good."
+    },
+    {
+     "id": "de-770998dd2f",
+     "de": "Das ist [richtig].",
+     "en": "That's right."
+    },
+    {
+     "id": "de-127a5e7e95",
+     "de": "Das ist [falsch].",
+     "en": "That's wrong."
+    },
+    {
+     "id": "de-58f0c0bbbe",
+     "de": "Das ist [lecker].",
+     "en": "That's delicious."
+    },
+    {
+     "id": "de-09aada476d",
+     "de": "Das ist [schön].",
+     "en": "That's nice."
+    }
+   ],
+   "pair": {
+    "a": "Das ist [gut].",
+    "b": "Das ist [nicht] gut.",
+    "note": "nicht goes before the describing word."
+   }
+  },
+  {
+   "id": "f-2f0b5cab2c",
+   "band": 1,
+   "theme": "repair",
+   "sentences": [
+    {
+     "id": "de-2ed3df60a7",
+     "de": "Ich weiß [nicht].",
+     "en": "I don't know.",
+     "alt": [
+      "Ich weiß es nicht."
+     ]
+    },
+    {
+     "id": "de-0bbc049a89",
+     "de": "[Keine Ahnung].",
+     "en": "No idea."
+    },
+    {
+     "id": "de-28fad2e02d",
+     "de": "[Moment], bitte.",
+     "en": "One moment, please."
+    },
+    {
+     "id": "de-03cbdc3724",
+     "de": "Ich weiß [es].",
+     "en": "I know."
+    }
+   ]
+  },
+  {
+   "id": "f-570e5d9f0a",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich spreche ___.",
+   "rule": "sprechen = to speak. Sprechen Sie ___? asks politely.",
+   "sentences": [
+    {
+     "id": "de-ceabdaacf4",
+     "de": "Ich spreche [ein bisschen] Deutsch.",
+     "en": "I speak a little German."
+    },
+    {
+     "id": "de-84771ddc3d",
+     "de": "Ich spreche [Englisch].",
+     "en": "I speak English."
+    },
+    {
+     "id": "de-69670b48b6",
+     "de": "Ich spreche [Arabisch].",
+     "en": "I speak Arabic."
+    },
+    {
+     "id": "de-8a4c1182c4",
+     "de": "[Sprechen Sie] Englisch?",
+     "en": "Do you speak English?"
+    }
+   ],
+   "pair": {
+    "a": "Ich spreche Englisch.",
+    "b": "[Sprechen Sie] Englisch?",
+    "note": "The question puts the verb first."
+   }
+  },
+  {
+   "id": "f-13f80e4c2b",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Ich hätte gern ___.",
+   "rule": "Ich hätte gern + a thing = the polite “I'd like”.",
+   "sentences": [
+    {
+     "id": "de-fff78a7cfe",
+     "de": "Ich hätte gern [einen Kaffee].",
+     "en": "I'd like a coffee.",
+     "alt": [
+      "Ich hätte gerne einen Kaffee."
+     ]
+    },
+    {
+     "id": "de-3a3a5b2b0d",
+     "de": "Ich hätte gern [ein Wasser].",
+     "en": "I'd like a water.",
+     "alt": [
+      "Ich hätte gerne ein Wasser."
+     ]
+    },
+    {
+     "id": "de-e57d1ecdd1",
+     "de": "Ich hätte gern [einen Tee].",
+     "en": "I'd like a tea.",
+     "alt": [
+      "Ich hätte gerne einen Tee."
+     ]
+    },
+    {
+     "id": "de-b9b50c8fbf",
+     "de": "Ich hätte gern [die Rechnung].",
+     "en": "I'd like the bill.",
+     "alt": [
+      "Ich hätte gerne die Rechnung."
+     ]
+    }
+   ],
+   "pair": {
+    "a": "Ich hätte gern [einen] Kaffee.",
+    "b": "Ich hätte gern [ein] Wasser.",
+    "note": "Kaffee is a der-word → einen. Wasser is a das-word → ein."
+   }
+  },
+  {
+   "id": "f-980b3c3282",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Ich möchte ___.",
+   "rule": "möchte = would like. A second verb goes to the very end.",
+   "sentences": [
+    {
+     "id": "de-8fc2678ea4",
+     "de": "Ich [möchte] bezahlen.",
+     "en": "I'd like to pay."
+    },
+    {
+     "id": "de-137dbcce94",
+     "de": "Ich möchte [ein Bier].",
+     "en": "I'd like a beer."
+    },
+    {
+     "id": "de-ec1e4cf855",
+     "de": "Ich möchte [bestellen].",
+     "en": "I'd like to order."
+    },
+    {
+     "id": "de-97529e6e8a",
+     "de": "Ich möchte einen Kaffee [trinken].",
+     "en": "I'd like to drink a coffee."
+    }
+   ],
+   "pair": {
+    "a": "Ich möchte einen Kaffee.",
+    "b": "Ich möchte einen Kaffee [trinken].",
+    "note": "Add a second verb and it goes to the end."
+   }
+  },
+  {
+   "id": "f-34a762fe31",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "___, bitte.",
+   "rule": "Thing + bitte is enough to order.",
+   "sentences": [
+    {
+     "id": "de-e4e23c066d",
+     "de": "[Zwei Kaffee], bitte.",
+     "en": "Two coffees, please."
+    },
+    {
+     "id": "de-8cab1f16b2",
+     "de": "[Mit Milch], bitte.",
+     "en": "With milk, please."
+    },
+    {
+     "id": "de-62fa170ec6",
+     "de": "[Ohne Zucker], bitte.",
+     "en": "Without sugar, please."
+    },
+    {
+     "id": "de-038401853a",
+     "de": "[Zum Mitnehmen], bitte.",
+     "en": "To go, please."
+    }
+   ]
+  },
+  {
+   "id": "f-ed9154f7e7",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Haben Sie ___?",
+   "rule": "Haben Sie ___? = Do you have ___? The verb comes first.",
+   "sentences": [
+    {
+     "id": "de-3c29583016",
+     "de": "[Haben Sie] Wasser?",
+     "en": "Do you have water?"
+    },
+    {
+     "id": "de-b1dae310f9",
+     "de": "Haben Sie [einen Tisch] frei?",
+     "en": "Do you have a free table?"
+    },
+    {
+     "id": "de-18c73f66fe",
+     "de": "Haben Sie [WLAN]?",
+     "en": "Do you have Wi-Fi?"
+    },
+    {
+     "id": "de-7dba85b168",
+     "de": "Haben Sie [Kuchen]?",
+     "en": "Do you have cake?"
+    }
+   ]
+  },
+  {
+   "id": "f-41b4a587ce",
+   "band": 1,
+   "theme": "prices",
+   "frame": "Das kostet ___ Euro.",
+   "rule": "kosten = to cost.",
+   "sentences": [
+    {
+     "id": "de-182f3268a6",
+     "de": "Das [kostet] zwei Euro.",
+     "en": "That costs two euros."
+    },
+    {
+     "id": "de-ab39c5addf",
+     "de": "Das kostet [drei] Euro.",
+     "en": "That costs three euros."
+    },
+    {
+     "id": "de-57d93c5c66",
+     "de": "Das kostet [fünf] Euro.",
+     "en": "That costs five euros."
+    },
+    {
+     "id": "de-547d0ded7c",
+     "de": "Das kostet [zehn] Euro.",
+     "en": "That costs ten euros."
+    }
+   ]
+  },
+  {
+   "id": "f-ce4d3f91b7",
+   "band": 1,
+   "theme": "prices",
+   "sentences": [
+    {
+     "id": "de-c21f6ead0c",
+     "de": "[Was kostet] das?",
+     "en": "How much is that?"
+    },
+    {
+     "id": "de-6f1e23a4f8",
+     "de": "[Wie viel] kostet der Kaffee?",
+     "en": "How much is the coffee?"
+    },
+    {
+     "id": "de-6a5f1bccc9",
+     "de": "Das ist [teuer].",
+     "en": "That's expensive."
+    },
+    {
+     "id": "de-d493956ff5",
+     "de": "Das ist [billig].",
+     "en": "That's cheap."
+    }
+   ]
+  },
+  {
+   "id": "f-7403205e67",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Kann ich ___?",
+   "rule": "Kann ich + … + verb at the end = Can I …?",
+   "sentences": [
+    {
+     "id": "de-aa0e5fbb12",
+     "de": "[Kann ich] mit Karte zahlen?",
+     "en": "Can I pay by card?"
+    },
+    {
+     "id": "de-83449e657a",
+     "de": "Kann ich [bar] zahlen?",
+     "en": "Can I pay cash?"
+    },
+    {
+     "id": "de-f6363edc2f",
+     "de": "Kann ich [hier sitzen]?",
+     "en": "Can I sit here?"
+    },
+    {
+     "id": "de-2fd038404e",
+     "de": "Kann ich [helfen]?",
+     "en": "Can I help?"
+    }
+   ],
+   "pair": {
+    "a": "Kann ich [mit Karte] zahlen?",
+    "b": "Kann ich [bar] zahlen?",
+    "note": "Only the way of paying changes; zahlen stays at the end."
+   }
+  },
+  {
+   "id": "f-dfaa023abb",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Wo ist ___?",
+   "rule": "Wo ist ___? Learn each noun with der, die or das.",
+   "sentences": [
+    {
+     "id": "de-090fb76397",
+     "de": "[Wo ist] der Bahnhof?",
+     "en": "Where is the train station?"
+    },
+    {
+     "id": "de-8e5799cff6",
+     "de": "Wo ist [die Toilette]?",
+     "en": "Where is the toilet?"
+    },
+    {
+     "id": "de-ccba3854f7",
+     "de": "Wo ist [das Hotel]?",
+     "en": "Where is the hotel?"
+    },
+    {
+     "id": "de-443b095905",
+     "de": "Wo ist [die Haltestelle]?",
+     "en": "Where is the stop?"
+    }
+   ]
+  },
+  {
+   "id": "f-b33cc2419b",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Ich suche ___.",
+   "rule": "After suche, der becomes den. die and das stay the same.",
+   "sentences": [
+    {
+     "id": "de-2e3f0618d5",
+     "de": "Ich [suche] den Bahnhof.",
+     "en": "I'm looking for the train station."
+    },
+    {
+     "id": "de-8cb33bd82e",
+     "de": "Ich suche [eine Apotheke].",
+     "en": "I'm looking for a pharmacy."
+    },
+    {
+     "id": "de-1ee4e1acf2",
+     "de": "Ich suche [ein Hotel].",
+     "en": "I'm looking for a hotel."
+    },
+    {
+     "id": "de-103db3d4d7",
+     "de": "Ich suche [die U-Bahn].",
+     "en": "I'm looking for the underground."
+    }
+   ],
+   "pair": {
+    "a": "Wo ist [der] Bahnhof?",
+    "b": "Ich suche [den] Bahnhof.",
+    "note": "der → den after suche. die and das don't change."
+   }
+  },
+  {
+   "id": "f-a0cdc668a5",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Gehen Sie ___.",
+   "rule": "Gehen Sie ___. = Go ___. (polite instruction)",
+   "sentences": [
+    {
+     "id": "de-b2891107bb",
+     "de": "Gehen Sie [geradeaus].",
+     "en": "Go straight ahead."
+    },
+    {
+     "id": "de-5cb9c56eb0",
+     "de": "Gehen Sie [nach links].",
+     "en": "Go left."
+    },
+    {
+     "id": "de-ed136a3281",
+     "de": "Gehen Sie [nach rechts].",
+     "en": "Go right."
+    }
+   ]
+  },
+  {
+   "id": "f-54f2e1a6b2",
+   "band": 1,
+   "theme": "directions",
+   "sentences": [
+    {
+     "id": "de-8df1914eeb",
+     "de": "Ist das [weit]?",
+     "en": "Is it far?"
+    },
+    {
+     "id": "de-ac3fba819d",
+     "de": "Das ist [nicht weit].",
+     "en": "It's not far."
+    },
+    {
+     "id": "de-b252b8ed47",
+     "de": "Das ist [ganz nah].",
+     "en": "It's very close."
+    },
+    {
+     "id": "de-a1eeddcc86",
+     "de": "Das ist [da drüben].",
+     "en": "It's over there."
+    }
+   ]
+  },
+  {
+   "id": "f-bc40b0a33b",
+   "band": 1,
+   "theme": "time",
+   "frame": "Es ist ___.",
+   "rule": "halb + next hour: halb vier = 3:30.",
+   "sentences": [
+    {
+     "id": "de-0e2cc8c076",
+     "de": "[Wie spät] ist es?",
+     "en": "What time is it?"
+    },
+    {
+     "id": "de-0ba2f48af8",
+     "de": "Es ist [drei Uhr].",
+     "en": "It's three o'clock."
+    },
+    {
+     "id": "de-7204c94fa4",
+     "de": "Es ist [halb vier].",
+     "en": "It's half past three."
+    },
+    {
+     "id": "de-824cbc4e7a",
+     "de": "Es ist [Viertel nach] zwei.",
+     "en": "It's quarter past two."
+    }
+   ],
+   "pair": {
+    "a": "Es ist [drei] Uhr.",
+    "b": "Es ist [halb vier].",
+    "note": "halb vier is half TO four: 3:30."
+   }
+  },
+  {
+   "id": "f-1e7da0ebe2",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich habe ___.",
+   "rule": "German “has” hunger and thirst: Ich habe Hunger = I'm hungry.",
+   "sentences": [
+    {
+     "id": "de-42f605b6ac",
+     "de": "Ich habe [Hunger].",
+     "en": "I'm hungry."
+    },
+    {
+     "id": "de-0d21ee3cb0",
+     "de": "Ich habe [Durst].",
+     "en": "I'm thirsty."
+    },
+    {
+     "id": "de-7c9adf3929",
+     "de": "Ich habe [keine Zeit].",
+     "en": "I don't have time."
+    },
+    {
+     "id": "de-7737cb6348",
+     "de": "Ich habe [eine Frage].",
+     "en": "I have a question."
+    }
+   ],
+   "pair": {
+    "a": "Ich [bin] müde.",
+    "b": "Ich [habe] Hunger.",
+    "note": "Tired uses bin; hungry and thirsty use habe."
+   }
+  },
+  {
+   "id": "f-99df9759af",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich wohne ___.",
+   "rule": "wohnen = to live (somewhere).",
+   "sentences": [
+    {
+     "id": "de-e337c6d148",
+     "de": "Ich [wohne] in Berlin.",
+     "en": "I live in Berlin."
+    },
+    {
+     "id": "de-1f212b77e4",
+     "de": "Wo [wohnst] du?",
+     "en": "Where do you live?"
+    },
+    {
+     "id": "de-b77b47a887",
+     "de": "Ich wohne [allein].",
+     "en": "I live alone."
+    }
+   ]
+  },
+  {
+   "id": "f-0938b5382d",
+   "band": 1,
+   "theme": "self",
+   "frame": "Das ist mein/meine ___.",
+   "rule": "mein for der- and das-words, meine for die-words.",
+   "sentences": [
+    {
+     "id": "de-ef7d40cb37",
+     "de": "Das ist [mein Bruder].",
+     "en": "This is my brother."
+    },
+    {
+     "id": "de-253e55a845",
+     "de": "Das ist [meine Schwester].",
+     "en": "This is my sister."
+    },
+    {
+     "id": "de-f8d2204f18",
+     "de": "Das ist [meine Mutter].",
+     "en": "This is my mother."
+    },
+    {
+     "id": "de-ec2d5b587c",
+     "de": "Das ist [mein Vater].",
+     "en": "This is my father."
+    }
+   ],
+   "pair": {
+    "a": "Das ist [mein] Bruder.",
+    "b": "Das ist [meine] Schwester.",
+    "note": "Schwester is a die-word → meine."
+   }
+  },
+  {
+   "id": "f-bf680c512c",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich bin ___ Jahre alt.",
+   "rule": "Age uses bin: Ich bin 20 Jahre alt.",
+   "sentences": [
+    {
+     "id": "de-17bb79c3fa",
+     "de": "Wie [alt] bist du?",
+     "en": "How old are you?"
+    },
+    {
+     "id": "de-bfe904ff69",
+     "de": "Ich bin [zwanzig] Jahre alt.",
+     "en": "I'm twenty years old."
+    },
+    {
+     "id": "de-16a01dd98f",
+     "de": "Ich bin [dreißig] Jahre alt.",
+     "en": "I'm thirty years old."
+    }
+   ]
+  },
+  {
+   "id": "f-56978a43a3",
+   "band": 1,
+   "theme": "food",
+   "frame": "Ich ___ gern.",
+   "rule": "verb + gern = I like doing it.",
+   "sentences": [
+    {
+     "id": "de-d731fb634a",
+     "de": "Ich trinke [gern] Tee.",
+     "en": "I like drinking tea.",
+     "alt": [
+      "Ich trinke gerne Tee."
+     ]
+    },
+    {
+     "id": "de-e18aaf05fa",
+     "de": "Ich esse gern [Pizza].",
+     "en": "I like eating pizza.",
+     "alt": [
+      "Ich esse gerne Pizza."
+     ]
+    },
+    {
+     "id": "de-2f2f453f8b",
+     "de": "Ich [lese] gern.",
+     "en": "I like reading.",
+     "alt": [
+      "Ich lese gerne."
+     ]
+    },
+    {
+     "id": "de-c16cb46730",
+     "de": "Ich [koche] gern.",
+     "en": "I like cooking.",
+     "alt": [
+      "Ich koche gerne."
+     ]
+    }
+   ],
+   "pair": {
+    "a": "Ich trinke Tee.",
+    "b": "Ich trinke [gern] Tee.",
+    "note": "gern turns “I drink” into “I like drinking”."
+   }
+  },
+  {
+   "id": "f-c4b53be9e0",
+   "band": 1,
+   "theme": "food",
+   "frame": "Ich mag ___.",
+   "rule": "mögen = to like (a thing). kein/keinen = not any.",
+   "sentences": [
+    {
+     "id": "de-4a9937574e",
+     "de": "Ich [mag] Kaffee.",
+     "en": "I like coffee."
+    },
+    {
+     "id": "de-4d3a730cb2",
+     "de": "Ich mag [Musik].",
+     "en": "I like music."
+    },
+    {
+     "id": "de-e190756855",
+     "de": "Ich mag [keinen] Fisch.",
+     "en": "I don't like fish."
+    },
+    {
+     "id": "de-0bc9d8c326",
+     "de": "[Magst du] Schokolade?",
+     "en": "Do you like chocolate?"
+    }
+   ],
+   "pair": {
+    "a": "Ich mag Fisch.",
+    "b": "Ich mag [keinen] Fisch.",
+    "note": "keinen, not nicht, before a noun."
+   }
+  },
+  {
+   "id": "f-08190cc762",
+   "band": 1,
+   "theme": "weather",
+   "frame": "Es ist ___.",
+   "rule": "Weather uses es: Es ist kalt. Es regnet.",
+   "sentences": [
+    {
+     "id": "de-21045bb86b",
+     "de": "Es ist [kalt].",
+     "en": "It's cold."
+    },
+    {
+     "id": "de-e858c028e9",
+     "de": "Es ist [warm].",
+     "en": "It's warm."
+    },
+    {
+     "id": "de-3ea8f55f5f",
+     "de": "Es [regnet].",
+     "en": "It's raining."
+    },
+    {
+     "id": "de-fe1ed8c12b",
+     "de": "Es ist [sonnig].",
+     "en": "It's sunny."
+    }
+   ]
+  },
+  {
+   "id": "f-bad129ed7e",
+   "band": 1,
+   "theme": "transport",
+   "frame": "Wann fährt ___?",
+   "rule": "Wann fährt ___? = When does ___ leave?",
+   "sentences": [
+    {
+     "id": "de-7f73e797cc",
+     "de": "[Wann fährt] der Zug?",
+     "en": "When does the train leave?"
+    },
+    {
+     "id": "de-ea30fc0a1a",
+     "de": "Wann fährt [der nächste Bus]?",
+     "en": "When does the next bus leave?"
+    },
+    {
+     "id": "de-5c7434b88d",
+     "de": "Wann [kommt] der Zug?",
+     "en": "When does the train arrive?"
+    },
+    {
+     "id": "de-2b78efa59c",
+     "de": "Welches [Gleis]?",
+     "en": "Which platform?"
+    }
+   ]
+  },
+  {
+   "id": "f-60fc109ac7",
+   "band": 1,
+   "theme": "transport",
+   "frame": "Eine Fahrkarte ___, bitte.",
+   "rule": "nach + city = to (a place).",
+   "sentences": [
+    {
+     "id": "de-63f0e56fcc",
+     "de": "[Eine Fahrkarte] nach München, bitte.",
+     "en": "A ticket to Munich, please."
+    },
+    {
+     "id": "de-837bc9e736",
+     "de": "Eine Fahrkarte [nach Hamburg], bitte.",
+     "en": "A ticket to Hamburg, please."
+    },
+    {
+     "id": "de-37d26b6441",
+     "de": "[Hin und zurück], bitte.",
+     "en": "Return, please."
+    },
+    {
+     "id": "de-1c0e29ef44",
+     "de": "[Einfach], bitte.",
+     "en": "One way, please."
+    }
+   ]
+  },
+  {
+   "id": "f-8b0c2c24da",
+   "band": 1,
+   "theme": "shopping",
+   "sentences": [
+    {
+     "id": "de-d94779640a",
+     "de": "Ich [nehme] das.",
+     "en": "I'll take this."
+    },
+    {
+     "id": "de-1284cc6fc7",
+     "de": "Ich nehme [zwei].",
+     "en": "I'll take two."
+    },
+    {
+     "id": "de-9218f76e80",
+     "de": "Ich [schaue mich nur um].",
+     "en": "I'm just looking."
+    },
+    {
+     "id": "de-8c7d7e2249",
+     "de": "[Das ist alles].",
+     "en": "That's all."
+    }
+   ]
+  },
+  {
+   "id": "f-8ee251007b",
+   "band": 1,
+   "theme": "health",
+   "frame": "Ich brauche ___.",
+   "rule": "brauchen = to need. der-words take einen: einen Arzt.",
+   "sentences": [
+    {
+     "id": "de-ecbeef4727",
+     "de": "Ich [brauche] einen Arzt.",
+     "en": "I need a doctor."
+    },
+    {
+     "id": "de-d05d310d11",
+     "de": "Ich brauche [Hilfe].",
+     "en": "I need help."
+    },
+    {
+     "id": "de-fb3ba2982f",
+     "de": "Ich brauche [ein Taxi].",
+     "en": "I need a taxi."
+    },
+    {
+     "id": "de-373fda586a",
+     "de": "Ich brauche [mehr Zeit].",
+     "en": "I need more time."
+    }
+   ]
+  },
+  {
+   "id": "f-799fc11ec2",
+   "band": 1,
+   "theme": "health",
+   "frame": "Ich habe ___.",
+   "rule": "Pain and fever use habe: Ich habe Fieber.",
+   "sentences": [
+    {
+     "id": "de-0b8585afce",
+     "de": "Ich habe [Kopfschmerzen].",
+     "en": "I have a headache."
+    },
+    {
+     "id": "de-68efe26ae6",
+     "de": "Ich habe [Bauchschmerzen].",
+     "en": "I have a stomach ache."
+    },
+    {
+     "id": "de-61a7f7caad",
+     "de": "Ich habe [Fieber].",
+     "en": "I have a fever."
+    },
+    {
+     "id": "de-237ab29036",
+     "de": "Ich bin [krank].",
+     "en": "I'm ill."
+    }
+   ]
+  },
+  {
+   "id": "f-5b1311b74a",
+   "band": 1,
+   "theme": "repair",
+   "frame": "___ ist das?",
+   "rule": "Question words come first: was, wer, wann, warum.",
+   "sentences": [
+    {
+     "id": "de-d15af94d94",
+     "de": "[Was] ist das?",
+     "en": "What's that?"
+    },
+    {
+     "id": "de-da60ecdd02",
+     "de": "[Wer] ist das?",
+     "en": "Who's that?"
+    },
+    {
+     "id": "de-395a8cd6a7",
+     "de": "[Wann] beginnt der Film?",
+     "en": "When does the film start?"
+    },
+    {
+     "id": "de-b538991b0f",
+     "de": "[Warum] nicht?",
+     "en": "Why not?"
+    }
+   ]
+  },
+  {
+   "id": "f-97c97ff6f8",
+   "band": 1,
+   "theme": "plans",
+   "frame": "Hast du ___ Zeit?",
+   "rule": "Hast du Zeit? = Are you free?",
+   "sentences": [
+    {
+     "id": "de-7667d8fd36",
+     "de": "Hast du [heute] Zeit?",
+     "en": "Are you free today?"
+    },
+    {
+     "id": "de-5ed0719a46",
+     "de": "Hast du [morgen] Zeit?",
+     "en": "Are you free tomorrow?"
+    },
+    {
+     "id": "de-c3f30bc3b8",
+     "de": "Hast du [heute Abend] Zeit?",
+     "en": "Are you free tonight?"
+    },
+    {
+     "id": "de-4834baba7d",
+     "de": "Ich habe [am Wochenende] Zeit.",
+     "en": "I'm free at the weekend."
+    }
+   ]
+  },
+  {
+   "id": "f-b8e0c94f1e",
+   "band": 1,
+   "theme": "plans",
+   "frame": "Ich gehe ___.",
+   "rule": "gehen = to go (on foot, or in general).",
+   "sentences": [
+    {
+     "id": "de-277acbaa10",
+     "de": "Ich gehe [nach Hause].",
+     "en": "I'm going home."
+    },
+    {
+     "id": "de-8630a12a1b",
+     "de": "Ich gehe [ins Kino].",
+     "en": "I'm going to the cinema."
+    },
+    {
+     "id": "de-db37f1088d",
+     "de": "Ich gehe [einkaufen].",
+     "en": "I'm going shopping."
+    },
+    {
+     "id": "de-1462ba0d7e",
+     "de": "Ich gehe [zur Arbeit].",
+     "en": "I'm going to work."
+    }
+   ]
+  },
+  {
+   "id": "f-fdf8e1a0b7",
+   "band": 1,
+   "theme": "work",
+   "frame": "Ich arbeite ___.",
+   "rule": "arbeiten = to work. als + job = as a …",
+   "sentences": [
+    {
+     "id": "de-6a28e6d49b",
+     "de": "Ich arbeite [als Ingenieur].",
+     "en": "I work as an engineer.",
+     "alt": [
+      "Ich arbeite als Ingenieurin."
+     ]
+    },
+    {
+     "id": "de-4729616f60",
+     "de": "Ich arbeite [viel].",
+     "en": "I work a lot."
+    },
+    {
+     "id": "de-4abeb6659e",
+     "de": "Ich arbeite [von zu Hause].",
+     "en": "I work from home."
+    },
+    {
+     "id": "de-e3d28a3324",
+     "de": "Was machst du [beruflich]?",
+     "en": "What do you do for a living?"
+    }
+   ]
+  },
+  {
+   "id": "f-6237311a05",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "Es gibt ___.",
+   "rule": "Es gibt = there is / there are.",
+   "sentences": [
+    {
+     "id": "de-8da90b28b4",
+     "de": "Es gibt [ein Problem].",
+     "en": "There's a problem."
+    },
+    {
+     "id": "de-9874a94ed9",
+     "de": "Gibt es [hier] ein Café?",
+     "en": "Is there a café here?"
+    },
+    {
+     "id": "de-94dffdbbd6",
+     "de": "Es gibt [keinen Zucker].",
+     "en": "There's no sugar."
+    }
+   ]
+  },
+  {
+   "id": "f-aacc3c449c",
+   "band": 1,
+   "theme": "repair",
+   "frame": "Wie sagt man ___ auf Deutsch?",
+   "rule": "Wie sagt man … auf Deutsch? = How do you say … in German?",
+   "sentences": [
+    {
+     "id": "de-8cd94f1b5d",
+     "de": "[Wie sagt man] „bill“ auf Deutsch?",
+     "en": "How do you say “bill” in German?"
+    },
+    {
+     "id": "de-989004c4f0",
+     "de": "Was [bedeutet] das?",
+     "en": "What does that mean?"
+    },
+    {
+     "id": "de-1a6f0c6eb5",
+     "de": "Wie [schreibt man] das?",
+     "en": "How do you spell that?"
+    },
+    {
+     "id": "de-63d1ff8404",
+     "de": "Können Sie das [aufschreiben]?",
+     "en": "Can you write that down?"
+    }
+   ]
+  },
+  {
+   "id": "f-02f5a5166b",
+   "band": 1,
+   "theme": "repair",
+   "frame": "Ich ___ Deutsch.",
+   "rule": "Say how well you speak: Ich lerne / spreche / verstehe …",
+   "sentences": [
+    {
+     "id": "de-0714d6c722",
+     "de": "Ich [lerne] Deutsch.",
+     "en": "I'm learning German."
+    },
+    {
+     "id": "de-8be95c1f3c",
+     "de": "Mein Deutsch ist [nicht so gut].",
+     "en": "My German isn't very good."
+    },
+    {
+     "id": "de-7abcd75d6e",
+     "de": "Ich verstehe [ein bisschen].",
+     "en": "I understand a little."
+    },
+    {
+     "id": "de-ca4016f9fa",
+     "de": "[Sprechen Sie bitte langsam].",
+     "en": "Please speak slowly."
+    }
+   ]
+  },
+  {
+   "id": "f-66e2661f90",
+   "band": 1,
+   "theme": "numbers",
+   "sentences": [
+    {
+     "id": "de-3121fc2976",
+     "de": "[Eins, zwei, drei].",
+     "en": "One, two, three."
+    },
+    {
+     "id": "de-21c41cc768",
+     "de": "[Vier, fünf, sechs].",
+     "en": "Four, five, six."
+    },
+    {
+     "id": "de-42c2048131",
+     "de": "[Sieben, acht, neun, zehn].",
+     "en": "Seven, eight, nine, ten."
+    },
+    {
+     "id": "de-eaa8782bb4",
+     "de": "[Elf, zwölf].",
+     "en": "Eleven, twelve."
+    }
+   ]
+  },
+  {
+   "id": "f-96ed623d4b",
+   "band": 1,
+   "theme": "numbers",
+   "frame": "Das macht ___ Euro.",
+   "rule": "Das macht … = That comes to … (the total).",
+   "sentences": [
+    {
+     "id": "de-fde4895c3a",
+     "de": "Das macht [zwölf] Euro.",
+     "en": "That comes to twelve euros."
+    },
+    {
+     "id": "de-018a8ab69b",
+     "de": "Das macht [zwanzig] Euro.",
+     "en": "That comes to twenty euros."
+    },
+    {
+     "id": "de-38e96d2752",
+     "de": "Das macht [fünfzehn] Euro.",
+     "en": "That comes to fifteen euros."
+    },
+    {
+     "id": "de-d499acd1fb",
+     "de": "Das macht [hundert] Euro.",
+     "en": "That comes to a hundred euros."
+    }
+   ],
+   "pair": {
+    "a": "Das macht [zwanzig] Euro.",
+    "b": "Das macht [zweiundzwanzig] Euro.",
+    "note": "German says the ones first: zwei-und-zwanzig, “two and twenty”."
+   }
+  },
+  {
+   "id": "f-c6af961ead",
+   "band": 1,
+   "theme": "numbers",
+   "frame": "Meine Nummer ist ___.",
+   "rule": "Phone numbers are read digit by digit or in pairs.",
+   "sentences": [
+    {
+     "id": "de-c7dc54e190",
+     "de": "Wie ist [Ihre Telefonnummer]?",
+     "en": "What's your phone number?"
+    },
+    {
+     "id": "de-dac39d6354",
+     "de": "Meine Nummer ist [null eins sieben drei].",
+     "en": "My number is zero one seven three."
+    },
+    {
+     "id": "de-66f1696b9b",
+     "de": "Wie ist [deine Handynummer]?",
+     "en": "What's your mobile number?"
+    },
+    {
+     "id": "de-b7e8ce982d",
+     "de": "Ich [rufe Sie an].",
+     "en": "I'll call you."
+    }
+   ]
+  },
+  {
+   "id": "f-88f13bb2af",
+   "band": 1,
+   "theme": "time",
+   "frame": "Heute ist ___.",
+   "rule": "Days are der-words: der Montag, am Montag = on Monday.",
+   "sentences": [
+    {
+     "id": "de-9afd6568f8",
+     "de": "Heute ist [Montag].",
+     "en": "Today is Monday."
+    },
+    {
+     "id": "de-ae33e2f755",
+     "de": "Morgen ist [Dienstag].",
+     "en": "Tomorrow is Tuesday."
+    },
+    {
+     "id": "de-d6a2579d53",
+     "de": "[Welcher Tag] ist heute?",
+     "en": "What day is it today?"
+    },
+    {
+     "id": "de-6c8eb83ef6",
+     "de": "Heute ist [Freitag].",
+     "en": "Today is Friday."
+    }
+   ]
+  },
+  {
+   "id": "f-559af5eb81",
+   "band": 1,
+   "theme": "time",
+   "frame": "Am ___ habe ich Zeit.",
+   "rule": "am + day = on (that day).",
+   "sentences": [
+    {
+     "id": "de-0d1af67f68",
+     "de": "[Am Mittwoch] habe ich Zeit.",
+     "en": "I'm free on Wednesday."
+    },
+    {
+     "id": "de-c9cfdeda06",
+     "de": "Am [Donnerstag] habe ich Zeit.",
+     "en": "I'm free on Thursday."
+    },
+    {
+     "id": "de-2efc3b4182",
+     "de": "Am [Samstag] habe ich Zeit.",
+     "en": "I'm free on Saturday."
+    },
+    {
+     "id": "de-8b8f206a29",
+     "de": "Am [Sonntag] habe ich Zeit.",
+     "en": "I'm free on Sunday."
+    }
+   ]
+  },
+  {
+   "id": "f-808ccdb4ca",
+   "band": 1,
+   "theme": "time",
+   "frame": "Wann? — ___",
+   "rule": "Words for when.",
+   "sentences": [
+    {
+     "id": "de-1e2e3fec73",
+     "de": "Ich komme [jetzt].",
+     "en": "I'm coming now."
+    },
+    {
+     "id": "de-d9bb828f65",
+     "de": "Ich komme [gleich].",
+     "en": "I'll be right there."
+    },
+    {
+     "id": "de-f1fe74c990",
+     "de": "Ich komme [später].",
+     "en": "I'm coming later."
+    },
+    {
+     "id": "de-54c0520fe3",
+     "de": "Ich komme [heute nicht].",
+     "en": "I'm not coming today."
+    }
+   ]
+  },
+  {
+   "id": "f-7cd34a3ece",
+   "band": 1,
+   "theme": "food",
+   "frame": "Ich esse ___.",
+   "rule": "essen = to eat.",
+   "sentences": [
+    {
+     "id": "de-b6fed8a4cb",
+     "de": "Ich [esse] Brot.",
+     "en": "I'm eating bread."
+    },
+    {
+     "id": "de-a443fcaffc",
+     "de": "Ich esse [Reis].",
+     "en": "I'm eating rice."
+    },
+    {
+     "id": "de-03a995f15b",
+     "de": "Ich esse [kein Fleisch].",
+     "en": "I don't eat meat."
+    },
+    {
+     "id": "de-7bf04c7ecb",
+     "de": "Ich esse [vegetarisch].",
+     "en": "I'm vegetarian."
+    }
+   ]
+  },
+  {
+   "id": "f-e0e12d2be2",
+   "band": 1,
+   "theme": "food",
+   "frame": "Ich trinke ___.",
+   "rule": "trinken = to drink.",
+   "sentences": [
+    {
+     "id": "de-833b286094",
+     "de": "Ich [trinke] Wasser.",
+     "en": "I'm drinking water."
+    },
+    {
+     "id": "de-7536ded4c4",
+     "de": "Ich trinke [keinen Alkohol].",
+     "en": "I don't drink alcohol."
+    },
+    {
+     "id": "de-fcc15bea28",
+     "de": "Ich trinke [Orangensaft].",
+     "en": "I'm drinking orange juice."
+    },
+    {
+     "id": "de-23d6a829ce",
+     "de": "Ich trinke [Tee mit Zitrone].",
+     "en": "I'm drinking tea with lemon."
+    }
+   ]
+  },
+  {
+   "id": "f-d73d37f083",
+   "band": 1,
+   "theme": "shopping",
+   "frame": "Ich hätte gern ___.",
+   "rule": "Buying food: a quantity + the thing.",
+   "sentences": [
+    {
+     "id": "de-723a983394",
+     "de": "Ich hätte gern [ein Brot].",
+     "en": "I'd like a loaf of bread.",
+     "alt": [
+      "Ich hätte gerne ein Brot."
+     ]
+    },
+    {
+     "id": "de-36ca5e3768",
+     "de": "Ich hätte gern [vier Brötchen].",
+     "en": "I'd like four bread rolls.",
+     "alt": [
+      "Ich hätte gerne vier Brötchen."
+     ]
+    },
+    {
+     "id": "de-8f6f3648a8",
+     "de": "Ich hätte gern [ein Kilo Äpfel].",
+     "en": "I'd like a kilo of apples.",
+     "alt": [
+      "Ich hätte gerne ein Kilo Äpfel."
+     ]
+    },
+    {
+     "id": "de-70d9016729",
+     "de": "Ich hätte gern [zweihundert Gramm Käse].",
+     "en": "I'd like two hundred grams of cheese.",
+     "alt": [
+      "Ich hätte gerne zweihundert Gramm Käse."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f-02cd2c41ed",
+   "band": 1,
+   "theme": "shopping",
+   "frame": "Noch ___?",
+   "rule": "At the counter.",
+   "sentences": [
+    {
+     "id": "de-2a61b7a95e",
+     "de": "[Noch etwas]?",
+     "en": "Anything else?"
+    },
+    {
+     "id": "de-239f47f8e1",
+     "de": "[Nein, danke], das ist alles.",
+     "en": "No, thanks, that's all."
+    },
+    {
+     "id": "de-0859faff2b",
+     "de": "Ja, [noch zwei Brötchen].",
+     "en": "Yes, two more rolls."
+    },
+    {
+     "id": "de-e24b252bb7",
+     "de": "Brauchen Sie [eine Tüte]?",
+     "en": "Do you need a bag?"
+    }
+   ]
+  },
+  {
+   "id": "f-c17a567ef1",
+   "band": 1,
+   "theme": "shopping",
+   "frame": "Wo finde ich ___?",
+   "rule": "Wo finde ich …? = Where can I find …?",
+   "sentences": [
+    {
+     "id": "de-ad60da231e",
+     "de": "[Wo finde ich] Milch?",
+     "en": "Where can I find milk?"
+    },
+    {
+     "id": "de-60ebd05092",
+     "de": "Wo finde ich [Brot]?",
+     "en": "Where can I find bread?"
+    },
+    {
+     "id": "de-3cb6392c80",
+     "de": "Wo finde ich [die Kasse]?",
+     "en": "Where is the checkout?"
+    },
+    {
+     "id": "de-8bd3cbfe0a",
+     "de": "Wo finde ich [Obst und Gemüse]?",
+     "en": "Where are the fruit and vegetables?"
+    }
+   ]
+  },
+  {
+   "id": "f-8ea29e5b1d",
+   "band": 1,
+   "theme": "shopping",
+   "frame": "Das ist zu ___.",
+   "rule": "zu + describing word = too …",
+   "sentences": [
+    {
+     "id": "de-712def855e",
+     "de": "Das ist [zu teuer].",
+     "en": "That's too expensive."
+    },
+    {
+     "id": "de-44b70eda22",
+     "de": "Das ist zu [groß].",
+     "en": "That's too big."
+    },
+    {
+     "id": "de-7eef705af1",
+     "de": "Das ist zu [klein].",
+     "en": "That's too small."
+    },
+    {
+     "id": "de-041cb3ec9a",
+     "de": "Haben Sie das [kleiner]?",
+     "en": "Do you have it in a smaller size?"
+    }
+   ]
+  },
+  {
+   "id": "f-3cbfe376bd",
+   "band": 1,
+   "theme": "shopping",
+   "frame": "Das ___ ist schön.",
+   "rule": "Colours come after ist without an ending.",
+   "sentences": [
+    {
+     "id": "de-b11f1ee4fb",
+     "de": "Das Hemd ist [blau].",
+     "en": "The shirt is blue."
+    },
+    {
+     "id": "de-7c52b09309",
+     "de": "Die Tasche ist [schwarz].",
+     "en": "The bag is black."
+    },
+    {
+     "id": "de-cd8b2aa3e3",
+     "de": "Das Auto ist [rot].",
+     "en": "The car is red."
+    },
+    {
+     "id": "de-aea9c14fb8",
+     "de": "Der Pullover ist [grün].",
+     "en": "The jumper is green."
+    },
+    {
+     "id": "de-7869195a3d",
+     "de": "Die Wand ist [weiß].",
+     "en": "The wall is white."
+    }
+   ]
+  },
+  {
+   "id": "f-79c39b73e4",
+   "band": 1,
+   "theme": "hotel",
+   "frame": "Ich habe ___.",
+   "rule": "At the hotel desk.",
+   "sentences": [
+    {
+     "id": "de-c2ee113b53",
+     "de": "Ich habe [eine Reservierung].",
+     "en": "I have a reservation."
+    },
+    {
+     "id": "de-817a2086ae",
+     "de": "Ich habe [ein Zimmer] reserviert.",
+     "en": "I've booked a room."
+    },
+    {
+     "id": "de-a82d11baca",
+     "de": "Haben Sie [ein Zimmer frei]?",
+     "en": "Do you have a room available?"
+    },
+    {
+     "id": "de-f1d173d03c",
+     "de": "Für [zwei Nächte], bitte.",
+     "en": "For two nights, please."
+    }
+   ]
+  },
+  {
+   "id": "f-b75c785ab4",
+   "band": 1,
+   "theme": "hotel",
+   "frame": "Wann gibt es ___?",
+   "rule": "Wann gibt es …? = When is … served?",
+   "sentences": [
+    {
+     "id": "de-3cf31f8e6e",
+     "de": "Wann gibt es [Frühstück]?",
+     "en": "When is breakfast?"
+    },
+    {
+     "id": "de-eb3160864d",
+     "de": "[Wo ist] der Aufzug?",
+     "en": "Where is the lift?"
+    },
+    {
+     "id": "de-14701199d3",
+     "de": "Wie ist [das WLAN-Passwort]?",
+     "en": "What's the Wi-Fi password?"
+    },
+    {
+     "id": "de-0a818dad83",
+     "de": "Der Schlüssel [funktioniert nicht].",
+     "en": "The key doesn't work."
+    }
+   ]
+  },
+  {
+   "id": "f-28b0e4804e",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Die ___, bitte.",
+   "rule": "Asking for things at the table.",
+   "sentences": [
+    {
+     "id": "de-8dd72f5893",
+     "de": "[Die Speisekarte], bitte.",
+     "en": "The menu, please."
+    },
+    {
+     "id": "de-f35acebc2e",
+     "de": "Die Rechnung, [bitte].",
+     "en": "The bill, please."
+    },
+    {
+     "id": "de-8d7b2680b5",
+     "de": "[Zusammen oder getrennt]?",
+     "en": "Together or separately?"
+    },
+    {
+     "id": "de-bae6ed7175",
+     "de": "[Getrennt], bitte.",
+     "en": "Separately, please."
+    },
+    {
+     "id": "de-8390ec6310",
+     "de": "[Stimmt so].",
+     "en": "Keep the change."
+    }
+   ]
+  },
+  {
+   "id": "f-e75c0a0715",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Was ___ Sie?",
+   "rule": "The waiter asks.",
+   "sentences": [
+    {
+     "id": "de-d55c4f83f4",
+     "de": "[Was möchten Sie]?",
+     "en": "What would you like?"
+    },
+    {
+     "id": "de-cb3c0182c1",
+     "de": "Was [trinken] Sie?",
+     "en": "What are you drinking?"
+    },
+    {
+     "id": "de-0cd069d993",
+     "de": "Was [empfehlen] Sie?",
+     "en": "What do you recommend?"
+    },
+    {
+     "id": "de-9828938949",
+     "de": "[Hat es geschmeckt]?",
+     "en": "Did you enjoy it?"
+    }
+   ]
+  },
+  {
+   "id": "f-842b204d1a",
+   "band": 1,
+   "theme": "cafe",
+   "frame": "Es ist ___.",
+   "rule": "Saying how the food is.",
+   "sentences": [
+    {
+     "id": "de-4b2264b580",
+     "de": "Es ist [sehr lecker].",
+     "en": "It's very tasty."
+    },
+    {
+     "id": "de-90ccac15c3",
+     "de": "Es ist [zu salzig].",
+     "en": "It's too salty."
+    },
+    {
+     "id": "de-c502f98496",
+     "de": "Die Suppe ist [kalt].",
+     "en": "The soup is cold."
+    },
+    {
+     "id": "de-cdd7b0e5de",
+     "de": "Es ist [zu scharf].",
+     "en": "It's too spicy."
+    }
+   ]
+  },
+  {
+   "id": "f-15033173c4",
+   "band": 1,
+   "theme": "health",
+   "sentences": [
+    {
+     "id": "de-f27c451a94",
+     "de": "[Hilfe]!",
+     "en": "Help!"
+    },
+    {
+     "id": "de-e7315494eb",
+     "de": "[Rufen Sie einen Krankenwagen]!",
+     "en": "Call an ambulance!"
+    },
+    {
+     "id": "de-2345f1d616",
+     "de": "[Rufen Sie die Polizei]!",
+     "en": "Call the police!"
+    },
+    {
+     "id": "de-0be7f8fdc9",
+     "de": "[Vorsicht]!",
+     "en": "Watch out!"
+    },
+    {
+     "id": "de-996473cad2",
+     "de": "Es ist [ein Notfall].",
+     "en": "It's an emergency."
+    }
+   ]
+  },
+  {
+   "id": "f-882df5dd8c",
+   "band": 1,
+   "theme": "health",
+   "frame": "Mir ist ___.",
+   "rule": "Mir ist … = I feel … (a set phrase).",
+   "sentences": [
+    {
+     "id": "de-1fce20c193",
+     "de": "Mir ist [schlecht].",
+     "en": "I feel sick."
+    },
+    {
+     "id": "de-08374f98aa",
+     "de": "Mir ist [kalt].",
+     "en": "I'm cold."
+    },
+    {
+     "id": "de-837405e575",
+     "de": "Mir ist [warm].",
+     "en": "I'm warm."
+    },
+    {
+     "id": "de-23272688f3",
+     "de": "Mir ist [schwindelig].",
+     "en": "I feel dizzy."
+    }
+   ],
+   "pair": {
+    "a": "Ich [bin] müde.",
+    "b": "[Mir ist] kalt.",
+    "note": "Feeling cold or sick uses mir ist, not ich bin."
+   }
+  },
+  {
+   "id": "f-0f919e6c42",
+   "band": 1,
+   "theme": "health",
+   "frame": "Wo ist ___?",
+   "rule": "Places you might need fast.",
+   "sentences": [
+    {
+     "id": "de-7875865cf4",
+     "de": "Wo ist [das Krankenhaus]?",
+     "en": "Where is the hospital?"
+    },
+    {
+     "id": "de-f63c4c22ec",
+     "de": "Wo ist [die nächste Apotheke]?",
+     "en": "Where is the nearest pharmacy?"
+    },
+    {
+     "id": "de-09c1b2a1d0",
+     "de": "Wo ist [ein Arzt]?",
+     "en": "Where is there a doctor?"
+    },
+    {
+     "id": "de-1a9a11eb52",
+     "de": "Wo ist [die Polizei]?",
+     "en": "Where is the police station?"
+    }
+   ]
+  },
+  {
+   "id": "f-a99c7ed968",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich habe ___ verloren.",
+   "rule": "verloren = lost.",
+   "sentences": [
+    {
+     "id": "de-dddb0a018c",
+     "de": "Ich habe [meinen Pass] verloren.",
+     "en": "I've lost my passport."
+    },
+    {
+     "id": "de-003ccbdc0e",
+     "de": "Ich habe [mein Handy] verloren.",
+     "en": "I've lost my phone."
+    },
+    {
+     "id": "de-da299f8b67",
+     "de": "Ich habe [meine Tasche] verloren.",
+     "en": "I've lost my bag."
+    },
+    {
+     "id": "de-d0a22cc3e1",
+     "de": "Ich habe [meinen Schlüssel] verloren.",
+     "en": "I've lost my key."
+    }
+   ]
+  },
+  {
+   "id": "f-7cb4547043",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Wo ist hier ___?",
+   "rule": "Wo ist hier …? = Where is there a … around here?",
+   "sentences": [
+    {
+     "id": "de-a71abc3a88",
+     "de": "Wo ist hier [ein Supermarkt]?",
+     "en": "Is there a supermarket around here?"
+    },
+    {
+     "id": "de-3883527ba7",
+     "de": "Wo ist hier [eine Bank]?",
+     "en": "Is there a bank around here?"
+    },
+    {
+     "id": "de-cc4b5f9bb3",
+     "de": "Wo ist hier [ein Geldautomat]?",
+     "en": "Is there a cash machine around here?"
+    },
+    {
+     "id": "de-5334e9c3dc",
+     "de": "Wo ist hier [ein Restaurant]?",
+     "en": "Is there a restaurant around here?"
+    }
+   ]
+  },
+  {
+   "id": "f-2d8f6fb3b4",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Wie komme ich ___?",
+   "rule": "Wie komme ich zum/zur …? = How do I get to …?",
+   "sentences": [
+    {
+     "id": "de-4245862d3a",
+     "de": "[Wie komme ich] zum Bahnhof?",
+     "en": "How do I get to the station?"
+    },
+    {
+     "id": "de-de138a770b",
+     "de": "Wie komme ich [zur Post]?",
+     "en": "How do I get to the post office?"
+    },
+    {
+     "id": "de-9a39e670aa",
+     "de": "Wie komme ich [zum Flughafen]?",
+     "en": "How do I get to the airport?"
+    },
+    {
+     "id": "de-cb387f3f37",
+     "de": "Wie komme ich [zum Zentrum]?",
+     "en": "How do I get to the centre?"
+    }
+   ],
+   "pair": {
+    "a": "Wie komme ich [zum] Bahnhof?",
+    "b": "Wie komme ich [zur] Post?",
+    "note": "zum for der- and das-words, zur for die-words."
+   }
+  },
+  {
+   "id": "f-52f2ff3fd6",
+   "band": 1,
+   "theme": "directions",
+   "frame": "Die ___ Straße ___.",
+   "rule": "Directions on the street.",
+   "sentences": [
+    {
+     "id": "de-07b4bb5d0a",
+     "de": "Die [erste Straße] links.",
+     "en": "The first street on the left."
+    },
+    {
+     "id": "de-399a4082d4",
+     "de": "Die [zweite Straße] rechts.",
+     "en": "The second street on the right."
+    },
+    {
+     "id": "de-72cf63debb",
+     "de": "[An der Ampel] links.",
+     "en": "Left at the traffic lights."
+    },
+    {
+     "id": "de-4eaab3e0c3",
+     "de": "Immer [geradeaus].",
+     "en": "Keep going straight ahead."
+    }
+   ]
+  },
+  {
+   "id": "f-70a4fd8ec7",
+   "band": 1,
+   "theme": "transport",
+   "frame": "Ich nehme ___.",
+   "rule": "nehmen = to take (a bus, a taxi).",
+   "sentences": [
+    {
+     "id": "de-429009ea9c",
+     "de": "Ich nehme [den Bus].",
+     "en": "I'm taking the bus."
+    },
+    {
+     "id": "de-4eb69534f7",
+     "de": "Ich nehme [ein Taxi].",
+     "en": "I'm taking a taxi."
+    },
+    {
+     "id": "de-219414bea8",
+     "de": "Ich nehme [die U-Bahn].",
+     "en": "I'm taking the underground."
+    },
+    {
+     "id": "de-483a3f544c",
+     "de": "Ich [gehe zu Fuß].",
+     "en": "I'm walking."
+    }
+   ]
+  },
+  {
+   "id": "f-bcb1fb8add",
+   "band": 1,
+   "theme": "transport",
+   "frame": "Wo ___ ich ___?",
+   "rule": "Asking where to do something.",
+   "sentences": [
+    {
+     "id": "de-b5bc10948e",
+     "de": "Wo [kaufe ich] eine Fahrkarte?",
+     "en": "Where do I buy a ticket?"
+    },
+    {
+     "id": "de-3001d7e545",
+     "de": "Wo [muss ich] aussteigen?",
+     "en": "Where do I have to get off?"
+    },
+    {
+     "id": "de-1389a8521a",
+     "de": "Wo [ist der Ausgang]?",
+     "en": "Where is the exit?"
+    },
+    {
+     "id": "de-d255af7f37",
+     "de": "Wo [ist der Eingang]?",
+     "en": "Where is the entrance?"
+    }
+   ]
+  },
+  {
+   "id": "f-f451acb707",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "___, bitte.",
+   "rule": "Short polite requests.",
+   "sentences": [
+    {
+     "id": "de-1833e79583",
+     "de": "[Einen Moment], bitte.",
+     "en": "One moment, please."
+    },
+    {
+     "id": "de-0797d679ea",
+     "de": "[Hier], bitte.",
+     "en": "Here you are."
+    },
+    {
+     "id": "de-38db599d61",
+     "de": "[Nach Ihnen], bitte.",
+     "en": "After you."
+    },
+    {
+     "id": "de-cd90f84129",
+     "de": "[Setzen Sie sich], bitte.",
+     "en": "Please sit down."
+    }
+   ]
+  },
+  {
+   "id": "f-c44dae69e7",
+   "band": 1,
+   "theme": "courtesy",
+   "frame": "Das ist ___.",
+   "rule": "Reacting to news.",
+   "sentences": [
+    {
+     "id": "de-654ac3aded",
+     "de": "Das ist [toll]!",
+     "en": "That's great!"
+    },
+    {
+     "id": "de-aec30f4c92",
+     "de": "Das ist [schade].",
+     "en": "That's a pity."
+    },
+    {
+     "id": "de-31d4d8642b",
+     "de": "Das ist [interessant].",
+     "en": "That's interesting."
+    },
+    {
+     "id": "de-1f857bbb88",
+     "de": "Das ist [kein Problem].",
+     "en": "That's no problem."
+    }
+   ]
+  },
+  {
+   "id": "f-7e1dbb99d7",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich bin ___.",
+   "rule": "How you feel.",
+   "sentences": [
+    {
+     "id": "de-501812ff3c",
+     "de": "Ich bin [glücklich].",
+     "en": "I'm happy."
+    },
+    {
+     "id": "de-0ca1a1c626",
+     "de": "Ich bin [traurig].",
+     "en": "I'm sad."
+    },
+    {
+     "id": "de-533f89c5fb",
+     "de": "Ich bin [nervös].",
+     "en": "I'm nervous."
+    },
+    {
+     "id": "de-50f332a51d",
+     "de": "Ich bin [zufrieden].",
+     "en": "I'm satisfied."
+    }
+   ]
+  },
+  {
+   "id": "f-046d88d540",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich bin ___ Jahre alt.",
+   "rule": "Numbers 20–90 end in -zig (dreißig ends in -ßig).",
+   "sentences": [
+    {
+     "id": "de-fa7b769f6d",
+     "de": "Ich bin [vierzig] Jahre alt.",
+     "en": "I'm forty years old."
+    },
+    {
+     "id": "de-e44c0688ef",
+     "de": "Ich bin [fünfundzwanzig] Jahre alt.",
+     "en": "I'm twenty-five years old."
+    },
+    {
+     "id": "de-5aa7d3a33f",
+     "de": "Ich bin [achtzehn] Jahre alt.",
+     "en": "I'm eighteen years old."
+    },
+    {
+     "id": "de-b4943c52b1",
+     "de": "Mein Vater ist [sechzig].",
+     "en": "My father is sixty."
+    }
+   ]
+  },
+  {
+   "id": "f-911cc8851b",
+   "band": 1,
+   "theme": "self",
+   "frame": "Ich habe ___.",
+   "rule": "Talking about family: Ich habe + einen/eine/ein.",
+   "sentences": [
+    {
+     "id": "de-f22224b12e",
+     "de": "Ich habe [einen Bruder].",
+     "en": "I have a brother."
+    },
+    {
+     "id": "de-0bed3caa1c",
+     "de": "Ich habe [zwei Schwestern].",
+     "en": "I have two sisters."
+    },
+    {
+     "id": "de-365d637ba9",
+     "de": "Ich habe [keine Kinder].",
+     "en": "I don't have children."
+    },
+    {
+     "id": "de-6b33eb8078",
+     "de": "Ich bin [verheiratet].",
+     "en": "I'm married."
+    }
+   ]
+  },
+  {
+   "id": "f-332c36a347",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Du ___?",
+   "rule": "du-forms end in -st: du wohnst, du arbeitest.",
+   "sentences": [
+    {
+     "id": "de-385771530d",
+     "de": "Was [kochst] du heute?",
+     "en": "What are you cooking today?"
+    },
+    {
+     "id": "de-8e7864e1df",
+     "de": "Was [machst] du?",
+     "en": "What are you doing?"
+    },
+    {
+     "id": "de-63b3cf37d9",
+     "de": "[Arbeitest] du heute?",
+     "en": "Are you working today?"
+    },
+    {
+     "id": "de-8d3bfe1a53",
+     "de": "[Lernst] du Deutsch?",
+     "en": "Are you learning German?"
+    }
+   ],
+   "pair": {
+    "a": "Ich [wohne] hier.",
+    "b": "Du [wohnst] hier.",
+    "note": "ich → -e, du → -st."
+   }
+  },
+  {
+   "id": "f-48979f4c7f",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Er/Sie ___.",
+   "rule": "er, sie and es forms end in -t: er wohnt, sie arbeitet.",
+   "sentences": [
+    {
+     "id": "de-533103c1e0",
+     "de": "Er [wohnt] in Hamburg.",
+     "en": "He lives in Hamburg."
+    },
+    {
+     "id": "de-3f5f144bdb",
+     "de": "Sie [arbeitet] im Büro.",
+     "en": "She works in an office."
+    },
+    {
+     "id": "de-fe93a30916",
+     "de": "Er [spielt] Fußball.",
+     "en": "He plays football."
+    },
+    {
+     "id": "de-db69959c27",
+     "de": "Sie [kocht] sehr gut.",
+     "en": "She cooks very well."
+    }
+   ]
+  },
+  {
+   "id": "f-6a4dd5d255",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Wir ___.",
+   "rule": "wir and Sie use the dictionary form: wir wohnen, Sie wohnen.",
+   "sentences": [
+    {
+     "id": "de-c6ece2aa6b",
+     "de": "Wir [wohnen] zusammen.",
+     "en": "We live together."
+    },
+    {
+     "id": "de-f0d8af1502",
+     "de": "Wir [lernen] zusammen Deutsch.",
+     "en": "We're learning German together."
+    },
+    {
+     "id": "de-1291dd10a5",
+     "de": "Wir [kommen] aus Syrien.",
+     "en": "We're from Syria."
+    },
+    {
+     "id": "de-2323a68c03",
+     "de": "Wir [spielen] heute Karten.",
+     "en": "We're playing cards today."
+    }
+   ]
+  },
+  {
+   "id": "f-d33393efe8",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ihr ___.",
+   "rule": "ihr = you (several people you know well); ends in -t.",
+   "sentences": [
+    {
+     "id": "de-824f33307b",
+     "de": "Wo [wohnt ihr]?",
+     "en": "Where do you all live?"
+    },
+    {
+     "id": "de-536d7ccf9b",
+     "de": "[Kommt ihr] mit?",
+     "en": "Are you coming along?"
+    },
+    {
+     "id": "de-d2383e633e",
+     "de": "Was [macht ihr] heute?",
+     "en": "What are you doing today?"
+    },
+    {
+     "id": "de-efa63a13d5",
+     "de": "[Habt ihr] Hunger?",
+     "en": "Are you hungry?"
+    }
+   ]
+  },
+  {
+   "id": "f-a389843203",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "sein: bin, bist, ist …",
+   "rule": "sein (to be) is irregular: ich bin, du bist, er ist, wir sind, ihr seid, sie sind.",
+   "sentences": [
+    {
+     "id": "de-02a8ebe77e",
+     "de": "[Bist du] zu Hause?",
+     "en": "Are you at home?"
+    },
+    {
+     "id": "de-cab5a7a1e3",
+     "de": "Er [ist] Lehrer.",
+     "en": "He's a teacher."
+    },
+    {
+     "id": "de-54688b56ba",
+     "de": "Wir [sind] Freunde.",
+     "en": "We're friends."
+    },
+    {
+     "id": "de-106ca57f8a",
+     "de": "[Seid ihr] fertig?",
+     "en": "Are you all ready?"
+    },
+    {
+     "id": "de-719a8fb23f",
+     "de": "Sie [sind] sehr nett.",
+     "en": "They're very nice."
+    }
+   ]
+  },
+  {
+   "id": "f-f9fd9de50f",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "haben: habe, hast, hat …",
+   "rule": "haben (to have): ich habe, du hast, er hat, wir haben.",
+   "sentences": [
+    {
+     "id": "de-8964c5415a",
+     "de": "[Hast du] ein Auto?",
+     "en": "Do you have a car?"
+    },
+    {
+     "id": "de-f348af40cf",
+     "de": "Sie [hat] zwei Kinder.",
+     "en": "She has two children."
+    },
+    {
+     "id": "de-b903bf6afc",
+     "de": "Wir [haben] eine Katze.",
+     "en": "We have a cat."
+    },
+    {
+     "id": "de-904687faf5",
+     "de": "Er [hat] heute Geburtstag.",
+     "en": "It's his birthday today."
+    }
+   ]
+  },
+  {
+   "id": "f-c28a947bdc",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Heute ___ ich …",
+   "rule": "The verb is always second: a time word first, then the verb, then ich.",
+   "sentences": [
+    {
+     "id": "de-80ddf656af",
+     "de": "Heute [gehe ich] ins Kino.",
+     "en": "Today I'm going to the cinema."
+    },
+    {
+     "id": "de-5b139e43f6",
+     "de": "Morgen [arbeite ich] nicht.",
+     "en": "Tomorrow I'm not working."
+    },
+    {
+     "id": "de-daeb60ea7c",
+     "de": "Am Abend [koche ich].",
+     "en": "In the evening I cook."
+    },
+    {
+     "id": "de-c1b9a9da47",
+     "de": "Jetzt [habe ich] Zeit.",
+     "en": "Now I have time."
+    }
+   ],
+   "pair": {
+    "a": "[Ich gehe] heute ins Kino.",
+    "b": "Heute [gehe ich] ins Kino.",
+    "note": "Start with the time, and the verb still comes second: ich moves behind it."
+   }
+  },
+  {
+   "id": "f-f5e4cc9a1a",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Am Wochenende ___ wir …",
+   "rule": "Verb second again, with wir.",
+   "sentences": [
+    {
+     "id": "de-4ce0acdd53",
+     "de": "Am Wochenende [fahren wir] ans Meer.",
+     "en": "At the weekend we're going to the sea."
+    },
+    {
+     "id": "de-ad3c236ed3",
+     "de": "Im Sommer [reisen wir] viel.",
+     "en": "In summer we travel a lot."
+    },
+    {
+     "id": "de-11860b1398",
+     "de": "Nach dem Essen [trinken wir] Kaffee.",
+     "en": "After the meal we drink coffee."
+    },
+    {
+     "id": "de-5e6a9c562e",
+     "de": "Danach [gehen wir] spazieren.",
+     "en": "After that we go for a walk."
+    }
+   ]
+  },
+  {
+   "id": "f-8a0eba2a1b",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Wann ___?",
+   "rule": "Wann = when.",
+   "sentences": [
+    {
+     "id": "de-5d3c7e83f4",
+     "de": "Wann [kommst du]?",
+     "en": "When are you coming?"
+    },
+    {
+     "id": "de-71821c5803",
+     "de": "Wann [beginnt] der Kurs?",
+     "en": "When does the course start?"
+    },
+    {
+     "id": "de-9933dca132",
+     "de": "Wann [hast du] Zeit?",
+     "en": "When are you free?"
+    },
+    {
+     "id": "de-e5a8e0ba3a",
+     "de": "Wann [bist du] zu Hause?",
+     "en": "When are you at home?"
+    }
+   ]
+  },
+  {
+   "id": "f-7b48beee05",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Wohin ___?",
+   "rule": "wohin = where to; wo = where (no movement).",
+   "sentences": [
+    {
+     "id": "de-75baa9c4fc",
+     "de": "[Wohin] gehst du?",
+     "en": "Where are you going?"
+    },
+    {
+     "id": "de-0b1f2dcb3c",
+     "de": "Wohin [fährst du] im Urlaub?",
+     "en": "Where are you going on holiday?"
+    },
+    {
+     "id": "de-c285c887fa",
+     "de": "Wohin [fliegt ihr]?",
+     "en": "Where are you flying to?"
+    }
+   ],
+   "pair": {
+    "a": "[Wo] bist du?",
+    "b": "[Wohin] gehst du?",
+    "note": "wo for where something is, wohin for where it is going."
+   }
+  },
+  {
+   "id": "f-9fd0ef595a",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Wie viel ___?",
+   "rule": "Wie viel for amounts, wie viele for things you count.",
+   "sentences": [
+    {
+     "id": "de-ee29120278",
+     "de": "Wie viel [Zeit] hast du?",
+     "en": "How much time do you have?"
+    },
+    {
+     "id": "de-11363e9604",
+     "de": "[Wie viele] Kinder hast du?",
+     "en": "How many children do you have?"
+    },
+    {
+     "id": "de-c831352fb5",
+     "de": "Wie viele [Leute] kommen?",
+     "en": "How many people are coming?"
+    },
+    {
+     "id": "de-d5035f17d5",
+     "de": "Wie viel [Geld] brauchst du?",
+     "en": "How much money do you need?"
+    }
+   ]
+  },
+  {
+   "id": "f-769121a241",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Wie lange ___?",
+   "rule": "Wie lange = how long.",
+   "sentences": [
+    {
+     "id": "de-e398a9da68",
+     "de": "[Wie lange] dauert das?",
+     "en": "How long does that take?"
+    },
+    {
+     "id": "de-e00b5e168b",
+     "de": "Wie lange [bleibst du]?",
+     "en": "How long are you staying?"
+    },
+    {
+     "id": "de-5771f48863",
+     "de": "Wie lange [lernst du] schon Deutsch?",
+     "en": "How long have you been learning German?"
+    },
+    {
+     "id": "de-d31aab3b03",
+     "de": "Wie lange [ist] die Pause?",
+     "en": "How long is the break?"
+    }
+   ]
+  },
+  {
+   "id": "f-06783ad118",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Wie ___?",
+   "rule": "Wie + describing word asks for a quality.",
+   "sentences": [
+    {
+     "id": "de-01c79f5379",
+     "de": "Wie [groß] bist du?",
+     "en": "How tall are you?"
+    },
+    {
+     "id": "de-462e6bf2c4",
+     "de": "Wie [alt] ist dein Sohn?",
+     "en": "How old is your son?"
+    },
+    {
+     "id": "de-0914a4fe87",
+     "de": "Wie [weit] ist es zum Bahnhof?",
+     "en": "How far is it to the station?"
+    },
+    {
+     "id": "de-6378f6bc0e",
+     "de": "Wie [teuer] ist das Ticket?",
+     "en": "How expensive is the ticket?"
+    }
+   ]
+  },
+  {
+   "id": "f-189da68206",
+   "band": 2,
+   "theme": "questions",
+   "frame": "Welche ___?",
+   "rule": "welcher/welche/welches = which.",
+   "sentences": [
+    {
+     "id": "de-c859ef9e5f",
+     "de": "[Welche] Farbe magst du?",
+     "en": "Which colour do you like?"
+    },
+    {
+     "id": "de-2ed5cf3621",
+     "de": "Welche [Sprachen] sprichst du?",
+     "en": "Which languages do you speak?"
+    },
+    {
+     "id": "de-96424ef735",
+     "de": "[Welcher] Bus fährt zum Zentrum?",
+     "en": "Which bus goes to the centre?"
+    },
+    {
+     "id": "de-076e6f8e0b",
+     "de": "[Welches] Buch liest du?",
+     "en": "Which book are you reading?"
+    }
+   ]
+  },
+  {
+   "id": "f-5561b865b5",
+   "band": 2,
+   "theme": "questions",
+   "frame": "___ du …?",
+   "rule": "Yes/no questions start with the verb.",
+   "sentences": [
+    {
+     "id": "de-f779944d92",
+     "de": "[Kennst] du Maria?",
+     "en": "Do you know Maria?"
+    },
+    {
+     "id": "de-00d3c1c3be",
+     "de": "[Magst] du Katzen?",
+     "en": "Do you like cats?"
+    },
+    {
+     "id": "de-25e0e6fb73",
+     "de": "[Brauchst] du Hilfe?",
+     "en": "Do you need help?"
+    },
+    {
+     "id": "de-fadb598d7f",
+     "de": "[Verstehst] du mich?",
+     "en": "Do you understand me?"
+    }
+   ]
+  },
+  {
+   "id": "f-3094e01004",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich kann ___.",
+   "rule": "können = can. The second verb goes to the end.",
+   "sentences": [
+    {
+     "id": "de-ffdc63be5a",
+     "de": "Ich [kann] gut schwimmen.",
+     "en": "I can swim well."
+    },
+    {
+     "id": "de-6175ac0cad",
+     "de": "Ich kann [nicht kommen].",
+     "en": "I can't come."
+    },
+    {
+     "id": "de-3f1f81588f",
+     "de": "[Kannst du] mir helfen?",
+     "en": "Can you help me?"
+    },
+    {
+     "id": "de-97024495f5",
+     "de": "Er kann [sehr gut] kochen.",
+     "en": "He can cook very well."
+    }
+   ],
+   "pair": {
+    "a": "Ich [schwimme].",
+    "b": "Ich [kann] [schwimmen].",
+    "note": "With können, the other verb moves to the end in its dictionary form."
+   }
+  },
+  {
+   "id": "f-6c0e393f5d",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich muss ___.",
+   "rule": "müssen = must, have to.",
+   "sentences": [
+    {
+     "id": "de-8eba4bff9c",
+     "de": "Ich [muss] arbeiten.",
+     "en": "I have to work."
+    },
+    {
+     "id": "de-02daa2a177",
+     "de": "Ich muss [jetzt gehen].",
+     "en": "I have to go now."
+    },
+    {
+     "id": "de-56a5d8547e",
+     "de": "[Musst du] morgen arbeiten?",
+     "en": "Do you have to work tomorrow?"
+    },
+    {
+     "id": "de-61bf1ab091",
+     "de": "Wir müssen [früh aufstehen].",
+     "en": "We have to get up early."
+    }
+   ]
+  },
+  {
+   "id": "f-24d02aded3",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich will ___.",
+   "rule": "wollen = want to. ich will, du willst, er will.",
+   "sentences": [
+    {
+     "id": "de-14e1522780",
+     "de": "Ich [will] Deutsch lernen.",
+     "en": "I want to learn German."
+    },
+    {
+     "id": "de-a4e30a2a3d",
+     "de": "[Willst du] mitkommen?",
+     "en": "Do you want to come along?"
+    },
+    {
+     "id": "de-993b7d0a6e",
+     "de": "Er will [ein Auto kaufen].",
+     "en": "He wants to buy a car."
+    },
+    {
+     "id": "de-c8ae9ca0b7",
+     "de": "Wir wollen [nach Berlin fahren].",
+     "en": "We want to go to Berlin."
+    }
+   ]
+  },
+  {
+   "id": "f-f6611072db",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Darf ich ___?",
+   "rule": "dürfen = may, be allowed to.",
+   "sentences": [
+    {
+     "id": "de-e04f9b89e8",
+     "de": "[Darf ich] hier rauchen?",
+     "en": "May I smoke here?"
+    },
+    {
+     "id": "de-d29b84de20",
+     "de": "Darf ich [das Fenster öffnen]?",
+     "en": "May I open the window?"
+    },
+    {
+     "id": "de-7b171a648c",
+     "de": "Hier [darf man] nicht parken.",
+     "en": "You're not allowed to park here."
+    },
+    {
+     "id": "de-46b8c2f6a8",
+     "de": "Darf ich [kurz stören]?",
+     "en": "May I interrupt for a moment?"
+    }
+   ]
+  },
+  {
+   "id": "f-bb8c0c0798",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Soll ich ___?",
+   "rule": "sollen = should, be supposed to.",
+   "sentences": [
+    {
+     "id": "de-08a2961345",
+     "de": "[Soll ich] das Fenster zumachen?",
+     "en": "Shall I close the window?"
+    },
+    {
+     "id": "de-5d52d47fd4",
+     "de": "Was [soll ich] machen?",
+     "en": "What should I do?"
+    },
+    {
+     "id": "de-d49c5d8fe9",
+     "de": "Soll ich [dich abholen]?",
+     "en": "Shall I pick you up?"
+    },
+    {
+     "id": "de-ce47a18fe0",
+     "de": "Du [sollst] den Arzt anrufen.",
+     "en": "You're supposed to call the doctor."
+    }
+   ]
+  },
+  {
+   "id": "f-0d28340076",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich möchte ___.",
+   "rule": "möchte + verb at the end = would like to.",
+   "sentences": [
+    {
+     "id": "de-632f858386",
+     "de": "Ich möchte [ein Zimmer buchen].",
+     "en": "I'd like to book a room."
+    },
+    {
+     "id": "de-a1a3c29fc6",
+     "de": "Ich möchte [einen Termin machen].",
+     "en": "I'd like to make an appointment."
+    },
+    {
+     "id": "de-18330b5c19",
+     "de": "Ich möchte [etwas fragen].",
+     "en": "I'd like to ask something."
+    },
+    {
+     "id": "de-c2b2bb8607",
+     "de": "Ich möchte [nach Hause gehen].",
+     "en": "I'd like to go home."
+    }
+   ]
+  },
+  {
+   "id": "f-2f1cb4f02d",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich habe ___.",
+   "rule": "der-words take den/einen after most verbs (accusative).",
+   "sentences": [
+    {
+     "id": "de-40016718fa",
+     "de": "Ich habe [einen] Hund.",
+     "en": "I have a dog."
+    },
+    {
+     "id": "de-41ebca4203",
+     "de": "Ich kaufe [den] Tisch.",
+     "en": "I'm buying the table."
+    },
+    {
+     "id": "de-4e8339a94b",
+     "de": "Ich sehe [den] Mann.",
+     "en": "I see the man."
+    },
+    {
+     "id": "de-f327bade5f",
+     "de": "Ich brauche [einen] Stift.",
+     "en": "I need a pen."
+    }
+   ],
+   "pair": {
+    "a": "[Der] Tisch ist neu.",
+    "b": "Ich kaufe [den] Tisch.",
+    "note": "As the thing you buy or see, der becomes den."
+   }
+  },
+  {
+   "id": "f-cd8919326a",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich habe kein ___.",
+   "rule": "kein/keine/keinen = no, not any (before a noun).",
+   "sentences": [
+    {
+     "id": "de-c6abe0ffae",
+     "de": "Ich habe [kein] Auto.",
+     "en": "I don't have a car."
+    },
+    {
+     "id": "de-63a2d78a58",
+     "de": "Sie hat [keine] Geschwister.",
+     "en": "She has no brothers or sisters."
+    },
+    {
+     "id": "de-4e0af360f3",
+     "de": "Ich habe [keinen] Hunger.",
+     "en": "I'm not hungry."
+    },
+    {
+     "id": "de-c54953e200",
+     "de": "Wir haben [keine] Milch mehr.",
+     "en": "We have no milk left."
+    }
+   ]
+  },
+  {
+   "id": "f-88bb26a590",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich ___ nicht.",
+   "rule": "nicht negates a verb, describing word or whole idea.",
+   "sentences": [
+    {
+     "id": "de-a30f32af76",
+     "de": "Ich [komme nicht].",
+     "en": "I'm not coming."
+    },
+    {
+     "id": "de-67d53bbe30",
+     "de": "Das ist [nicht] richtig.",
+     "en": "That's not right."
+    },
+    {
+     "id": "de-618d114b43",
+     "de": "Ich [weiß es nicht].",
+     "en": "I don't know it."
+    },
+    {
+     "id": "de-769feb1651",
+     "de": "Er ist [nicht] zu Hause.",
+     "en": "He isn't at home."
+    }
+   ],
+   "pair": {
+    "a": "Ich habe [kein] Auto.",
+    "b": "Ich fahre [nicht] Auto.",
+    "note": "kein before a noun on its own, nicht for everything else."
+   }
+  },
+  {
+   "id": "f-4f8ab1d9a3",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich stehe um ___ auf.",
+   "rule": "aufstehen splits: Ich stehe … auf.",
+   "sentences": [
+    {
+     "id": "de-820860fe74",
+     "de": "Ich [stehe] um sieben Uhr [auf].",
+     "en": "I get up at seven o'clock."
+    },
+    {
+     "id": "de-8ab50836ca",
+     "de": "[Wann stehst du auf]?",
+     "en": "When do you get up?"
+    },
+    {
+     "id": "de-f5dabc9e2c",
+     "de": "Am Sonntag stehe ich [spät] auf.",
+     "en": "On Sunday I get up late."
+    },
+    {
+     "id": "de-82e4e9088f",
+     "de": "Er steht [immer früh] auf.",
+     "en": "He always gets up early."
+    }
+   ]
+  },
+  {
+   "id": "f-f173e945b1",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich rufe ___ an.",
+   "rule": "anrufen splits: Ich rufe dich an.",
+   "sentences": [
+    {
+     "id": "de-f3ca9f6379",
+     "de": "Ich [rufe] dich [an].",
+     "en": "I'll call you."
+    },
+    {
+     "id": "de-d004c1190b",
+     "de": "Ich rufe [meine Mutter] an.",
+     "en": "I'm calling my mother."
+    },
+    {
+     "id": "de-839a9e55b2",
+     "de": "[Rufst du] mich morgen an?",
+     "en": "Will you call me tomorrow?"
+    },
+    {
+     "id": "de-66da166d28",
+     "de": "Ich rufe [später] an.",
+     "en": "I'll call later."
+    }
+   ]
+  },
+  {
+   "id": "f-295019bba3",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich kaufe ___ ein.",
+   "rule": "einkaufen = to do the shopping.",
+   "sentences": [
+    {
+     "id": "de-cf1b34fed3",
+     "de": "Ich [kaufe] heute [ein].",
+     "en": "I'm doing the shopping today."
+    },
+    {
+     "id": "de-331bc39e36",
+     "de": "Wo [kaufst du ein]?",
+     "en": "Where do you do your shopping?"
+    },
+    {
+     "id": "de-afa335e39e",
+     "de": "Wir kaufen [am Samstag] ein.",
+     "en": "We do the shopping on Saturday."
+    },
+    {
+     "id": "de-611f0d4ce6",
+     "de": "Ich muss noch [einkaufen].",
+     "en": "I still have to do the shopping."
+    }
+   ],
+   "pair": {
+    "a": "Ich [kaufe] heute [ein].",
+    "b": "Ich muss heute [einkaufen].",
+    "note": "After muss, the split verb joins up again at the end."
+   }
+  },
+  {
+   "id": "f-e9b9c8427d",
+   "band": 2,
+   "theme": "routine",
+   "frame": "___ mit?",
+   "rule": "mitkommen / mitnehmen: mit goes to the end.",
+   "sentences": [
+    {
+     "id": "de-bc6966e391",
+     "de": "[Kommst du mit]?",
+     "en": "Are you coming along?"
+    },
+    {
+     "id": "de-19abec8b6b",
+     "de": "Ich komme [gern] mit.",
+     "en": "I'd love to come along."
+    },
+    {
+     "id": "de-05923d6b94",
+     "de": "Ich nehme [einen Regenschirm] mit.",
+     "en": "I'm taking an umbrella."
+    },
+    {
+     "id": "de-09bba4c446",
+     "de": "[Nimmst du] das mit?",
+     "en": "Are you taking that with you?"
+    }
+   ]
+  },
+  {
+   "id": "f-50cfe2f235",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Der Kurs fängt ___ an.",
+   "rule": "anfangen = to begin; aufhören = to stop.",
+   "sentences": [
+    {
+     "id": "de-931b8476d1",
+     "de": "Der Kurs [fängt] um neun [an].",
+     "en": "The course starts at nine."
+    },
+    {
+     "id": "de-716a006ced",
+     "de": "Wann [fängt] der Film [an]?",
+     "en": "When does the film start?"
+    },
+    {
+     "id": "de-98c3a881dd",
+     "de": "Die Schule [hört] um drei [auf].",
+     "en": "School finishes at three."
+    },
+    {
+     "id": "de-45b8a20441",
+     "de": "Ich [höre] jetzt [auf].",
+     "en": "I'm stopping now."
+    }
+   ]
+  },
+  {
+   "id": "f-e9d8aea778",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich sehe ___ fern.",
+   "rule": "fernsehen = to watch TV.",
+   "sentences": [
+    {
+     "id": "de-4be4ee72bd",
+     "de": "Ich [sehe] abends [fern].",
+     "en": "I watch TV in the evening."
+    },
+    {
+     "id": "de-2dafbfc2ed",
+     "de": "[Siehst du] gern fern?",
+     "en": "Do you like watching TV?"
+    },
+    {
+     "id": "de-4edc88a0dd",
+     "de": "Wir sehen [nicht viel] fern.",
+     "en": "We don't watch much TV."
+    },
+    {
+     "id": "de-eb4bd65644",
+     "de": "Die Kinder sehen [zu viel] fern.",
+     "en": "The children watch too much TV."
+    }
+   ]
+  },
+  {
+   "id": "f-899edc1ab4",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Der Zug kommt ___ an.",
+   "rule": "ankommen = to arrive; abfahren = to leave.",
+   "sentences": [
+    {
+     "id": "de-4904e4f0a6",
+     "de": "Der Zug [kommt] um acht [an].",
+     "en": "The train arrives at eight."
+    },
+    {
+     "id": "de-4086c055f1",
+     "de": "Wann [kommst du an]?",
+     "en": "When do you arrive?"
+    },
+    {
+     "id": "de-15a9a2bccc",
+     "de": "Der Bus [fährt] gleich [ab].",
+     "en": "The bus is leaving soon."
+    },
+    {
+     "id": "de-9cc55caaef",
+     "de": "Wann [fährt] der Zug [ab]?",
+     "en": "When does the train leave?"
+    }
+   ]
+  },
+  {
+   "id": "f-113a9e75da",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich hole ___ ab.",
+   "rule": "abholen = to pick up.",
+   "sentences": [
+    {
+     "id": "de-46e6822047",
+     "de": "Ich [hole] dich [ab].",
+     "en": "I'll pick you up."
+    },
+    {
+     "id": "de-829b06dbdb",
+     "de": "Ich hole [die Kinder] ab.",
+     "en": "I'm picking up the children."
+    },
+    {
+     "id": "de-d36ec9eed5",
+     "de": "[Holst du] mich vom Bahnhof ab?",
+     "en": "Will you pick me up from the station?"
+    },
+    {
+     "id": "de-084cd254a3",
+     "de": "Wer holt [das Paket] ab?",
+     "en": "Who's collecting the parcel?"
+    }
+   ]
+  },
+  {
+   "id": "f-0418218ffe",
+   "band": 2,
+   "theme": "routine",
+   "sentences": [
+    {
+     "id": "de-426ffa68c8",
+     "de": "Ich [dusche] morgens.",
+     "en": "I shower in the morning."
+    },
+    {
+     "id": "de-b0555cefd2",
+     "de": "Ich [ziehe mich an].",
+     "en": "I'm getting dressed."
+    },
+    {
+     "id": "de-59611feb20",
+     "de": "Ich [putze] mir die Zähne.",
+     "en": "I'm brushing my teeth."
+    },
+    {
+     "id": "de-214e79c760",
+     "de": "Ich [frühstücke] um acht.",
+     "en": "I have breakfast at eight."
+    }
+   ]
+  },
+  {
+   "id": "f-5e4b5a0063",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Um ___ Uhr …",
+   "rule": "um + time = at (a clock time).",
+   "sentences": [
+    {
+     "id": "de-e9bc2ca750",
+     "de": "[Um acht Uhr] fahre ich zur Arbeit.",
+     "en": "At eight o'clock I go to work."
+    },
+    {
+     "id": "de-aacabebd18",
+     "de": "Um [zwölf] esse ich zu Mittag.",
+     "en": "At twelve I have lunch."
+    },
+    {
+     "id": "de-7754805ce8",
+     "de": "Um [halb sechs] komme ich nach Hause.",
+     "en": "At half past five I come home."
+    },
+    {
+     "id": "de-89f1a70d4e",
+     "de": "Um [elf] gehe ich ins Bett.",
+     "en": "At eleven I go to bed."
+    }
+   ]
+  },
+  {
+   "id": "f-4a14bd98dd",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Am ___ …",
+   "rule": "am + part of the day.",
+   "sentences": [
+    {
+     "id": "de-bd44038eca",
+     "de": "[Am Morgen] trinke ich Kaffee.",
+     "en": "In the morning I drink coffee."
+    },
+    {
+     "id": "de-53e9daa2d9",
+     "de": "Am [Nachmittag] arbeite ich.",
+     "en": "In the afternoon I work."
+    },
+    {
+     "id": "de-cca192f562",
+     "de": "Am [Abend] lese ich.",
+     "en": "In the evening I read."
+    },
+    {
+     "id": "de-a8e6f6aeb2",
+     "de": "In der [Nacht] schlafe ich.",
+     "en": "At night I sleep."
+    }
+   ]
+  },
+  {
+   "id": "f-60b13ddb99",
+   "band": 2,
+   "theme": "routine",
+   "frame": "Ich ___ immer …",
+   "rule": "How often: immer, oft, manchmal, selten, nie.",
+   "sentences": [
+    {
+     "id": "de-0c74c98d4f",
+     "de": "Ich trinke [immer] Kaffee.",
+     "en": "I always drink coffee."
+    },
+    {
+     "id": "de-fb407bec1f",
+     "de": "Ich koche [oft].",
+     "en": "I often cook."
+    },
+    {
+     "id": "de-eb49262c0e",
+     "de": "Ich gehe [manchmal] ins Kino.",
+     "en": "I sometimes go to the cinema."
+    },
+    {
+     "id": "de-c7a781fa9c",
+     "de": "Ich esse [selten] Fleisch.",
+     "en": "I rarely eat meat."
+    },
+    {
+     "id": "de-274703d7f8",
+     "de": "Ich rauche [nie].",
+     "en": "I never smoke."
+    }
+   ]
+  },
+  {
+   "id": "f-e933f6f1aa",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich fahre, du fährst",
+   "rule": "Some verbs change their vowel with du and er: fahren → du fährst, er fährt.",
+   "sentences": [
+    {
+     "id": "de-852d77f6bf",
+     "de": "Ich [fahre] mit dem Rad.",
+     "en": "I go by bike."
+    },
+    {
+     "id": "de-a642f841d6",
+     "de": "Du [fährst] zu schnell.",
+     "en": "You're driving too fast."
+    },
+    {
+     "id": "de-2ba1c4feea",
+     "de": "Er [fährt] nach Köln.",
+     "en": "He's going to Cologne."
+    },
+    {
+     "id": "de-fec92743fc",
+     "de": "[Fährst du] morgen?",
+     "en": "Are you leaving tomorrow?"
+    }
+   ]
+  },
+  {
+   "id": "f-d0175e50b6",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich esse, du isst",
+   "rule": "essen → du isst, er isst.",
+   "sentences": [
+    {
+     "id": "de-7eb4a6f4e8",
+     "de": "Was [isst du] gern?",
+     "en": "What do you like eating?"
+    },
+    {
+     "id": "de-bc21f92e83",
+     "de": "Er [isst] kein Schweinefleisch.",
+     "en": "He doesn't eat pork."
+    },
+    {
+     "id": "de-693c171cd4",
+     "de": "Sie [isst] gerade.",
+     "en": "She's eating right now."
+    },
+    {
+     "id": "de-9ebf99a5f2",
+     "de": "Wir [essen] um sieben.",
+     "en": "We eat at seven."
+    }
+   ]
+  },
+  {
+   "id": "f-f4dcfec19c",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich lese, du liest",
+   "rule": "lesen → du liest, er liest.",
+   "sentences": [
+    {
+     "id": "de-759448d95b",
+     "de": "Was [liest du]?",
+     "en": "What are you reading?"
+    },
+    {
+     "id": "de-be7d7d4075",
+     "de": "Sie [liest] jeden Tag Zeitung.",
+     "en": "She reads the paper every day."
+    },
+    {
+     "id": "de-2925c070b5",
+     "de": "Ich [lese] gern Krimis.",
+     "en": "I like reading crime novels."
+    },
+    {
+     "id": "de-b698774bea",
+     "de": "Er [liest] den Kindern vor.",
+     "en": "He reads to the children."
+    }
+   ]
+  },
+  {
+   "id": "f-d7b3bd74d6",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich sehe, du siehst",
+   "rule": "sehen → du siehst, er sieht.",
+   "sentences": [
+    {
+     "id": "de-f4ff6f3ae7",
+     "de": "[Siehst du] das Schild?",
+     "en": "Do you see the sign?"
+    },
+    {
+     "id": "de-72c62f0b41",
+     "de": "Er [sieht] sehr müde aus.",
+     "en": "He looks very tired."
+    },
+    {
+     "id": "de-01ed1497d0",
+     "de": "Ich [sehe] nichts.",
+     "en": "I can't see anything."
+    },
+    {
+     "id": "de-e3879b6e13",
+     "de": "Wir [sehen] uns morgen.",
+     "en": "See you tomorrow."
+    }
+   ]
+  },
+  {
+   "id": "f-ed7832f2a2",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich nehme, du nimmst",
+   "rule": "nehmen → du nimmst, er nimmt.",
+   "sentences": [
+    {
+     "id": "de-d9683162b3",
+     "de": "Was [nimmst du]?",
+     "en": "What are you having?"
+    },
+    {
+     "id": "de-707c9ba593",
+     "de": "Er [nimmt] den Zug.",
+     "en": "He's taking the train."
+    },
+    {
+     "id": "de-fd065c6e9e",
+     "de": "Ich [nehme] die Suppe.",
+     "en": "I'll have the soup."
+    },
+    {
+     "id": "de-6a5498a991",
+     "de": "Sie [nimmt] Zucker in den Tee.",
+     "en": "She takes sugar in her tea."
+    }
+   ]
+  },
+  {
+   "id": "f-fb1fd0b1ae",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich spreche, du sprichst",
+   "rule": "sprechen → du sprichst, er spricht.",
+   "sentences": [
+    {
+     "id": "de-a5bb38a0ee",
+     "de": "[Sprichst du] Englisch?",
+     "en": "Do you speak English?"
+    },
+    {
+     "id": "de-a4310b7320",
+     "de": "Er [spricht] drei Sprachen.",
+     "en": "He speaks three languages."
+    },
+    {
+     "id": "de-8e5c443ca5",
+     "de": "Sie [spricht] zu schnell.",
+     "en": "She speaks too fast."
+    },
+    {
+     "id": "de-9f83a2f72a",
+     "de": "Wir [sprechen] später darüber.",
+     "en": "We'll talk about it later."
+    }
+   ]
+  },
+  {
+   "id": "f-4fae55a457",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich schlafe, du schläfst",
+   "rule": "schlafen → du schläfst, er schläft.",
+   "sentences": [
+    {
+     "id": "de-2d49e962f1",
+     "de": "[Schläfst du] schon?",
+     "en": "Are you asleep already?"
+    },
+    {
+     "id": "de-e1313ad51b",
+     "de": "Das Baby [schläft].",
+     "en": "The baby is sleeping."
+    },
+    {
+     "id": "de-1c000d408c",
+     "de": "Ich [schlafe] schlecht.",
+     "en": "I'm sleeping badly."
+    },
+    {
+     "id": "de-34bf55f5b2",
+     "de": "Er [schläft] bis zehn.",
+     "en": "He sleeps until ten."
+    }
+   ]
+  },
+  {
+   "id": "f-0a29d9ae2a",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich weiß, du weißt",
+   "rule": "wissen = to know (a fact): ich weiß, du weißt, er weiß.",
+   "sentences": [
+    {
+     "id": "de-9b243ac3e4",
+     "de": "[Weißt du] das?",
+     "en": "Do you know that?"
+    },
+    {
+     "id": "de-cff28ea600",
+     "de": "Er [weiß] es nicht.",
+     "en": "He doesn't know."
+    },
+    {
+     "id": "de-2ddaeb281d",
+     "de": "[Wer weiß]?",
+     "en": "Who knows?"
+    },
+    {
+     "id": "de-e333c4c6fc",
+     "de": "Das [weiß ich] schon.",
+     "en": "I know that already."
+    }
+   ],
+   "pair": {
+    "a": "Ich [kenne] Maria.",
+    "b": "Ich [weiß] ihre Adresse.",
+    "note": "kennen for people and places, wissen for facts."
+   }
+  },
+  {
+   "id": "f-37635a2663",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich gebe, du gibst",
+   "rule": "geben → du gibst, er gibt.",
+   "sentences": [
+    {
+     "id": "de-a119821955",
+     "de": "[Gibst du] mir das Salz?",
+     "en": "Will you pass me the salt?"
+    },
+    {
+     "id": "de-bf766fc5fa",
+     "de": "Er [gibt] mir das Geld.",
+     "en": "He's giving me the money."
+    },
+    {
+     "id": "de-446f6847db",
+     "de": "Ich [gebe] dir meine Nummer.",
+     "en": "I'll give you my number."
+    },
+    {
+     "id": "de-3cdad9d2ad",
+     "de": "Was [gibt es] zum Essen?",
+     "en": "What's for dinner?"
+    }
+   ]
+  },
+  {
+   "id": "f-1bf3718fd8",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich helfe, du hilfst",
+   "rule": "helfen → du hilfst, er hilft.",
+   "sentences": [
+    {
+     "id": "de-02ca89556b",
+     "de": "Ich [helfe] dir.",
+     "en": "I'll help you."
+    },
+    {
+     "id": "de-5d22df361c",
+     "de": "[Hilfst du] mir?",
+     "en": "Will you help me?"
+    },
+    {
+     "id": "de-3a8e0a799a",
+     "de": "Er [hilft] seiner Mutter.",
+     "en": "He's helping his mother."
+    },
+    {
+     "id": "de-f11239d646",
+     "de": "[Kann ich] Ihnen helfen?",
+     "en": "Can I help you?"
+    }
+   ]
+  },
+  {
+   "id": "f-2dc19f67db",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich ___ gern.",
+   "rule": "Hobbies with gern.",
+   "sentences": [
+    {
+     "id": "de-72b3ab346f",
+     "de": "Ich [spiele] gern Gitarre.",
+     "en": "I like playing the guitar."
+    },
+    {
+     "id": "de-95be2fc458",
+     "de": "Ich [tanze] gern.",
+     "en": "I like dancing."
+    },
+    {
+     "id": "de-754908f386",
+     "de": "Ich [schwimme] gern.",
+     "en": "I like swimming."
+    },
+    {
+     "id": "de-d25f87eab7",
+     "de": "Ich [male] gern.",
+     "en": "I like painting."
+    },
+    {
+     "id": "de-97284c1cc2",
+     "de": "Ich [wandere] gern.",
+     "en": "I like hiking."
+    }
+   ]
+  },
+  {
+   "id": "f-fe94ef9205",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich ___ lieber …",
+   "rule": "lieber = rather, prefer; am liebsten = most of all.",
+   "sentences": [
+    {
+     "id": "de-8dfcb401fc",
+     "de": "Ich trinke [lieber] Tee.",
+     "en": "I prefer tea."
+    },
+    {
+     "id": "de-fdf873748c",
+     "de": "Ich bleibe [lieber] zu Hause.",
+     "en": "I'd rather stay at home."
+    },
+    {
+     "id": "de-28524bbafc",
+     "de": "[Am liebsten] esse ich Pasta.",
+     "en": "Most of all I like eating pasta."
+    },
+    {
+     "id": "de-9b463b3627",
+     "de": "Was machst du [am liebsten]?",
+     "en": "What do you like doing most?"
+    }
+   ],
+   "pair": {
+    "a": "Ich trinke [gern] Kaffee.",
+    "b": "Ich trinke [lieber] Tee.",
+    "note": "gern → lieber → am liebsten: like → prefer → like most."
+   }
+  },
+  {
+   "id": "f-1e69508ea5",
+   "band": 2,
+   "theme": "hobbies",
+   "frame": "Mein Hobby ist ___.",
+   "rule": "Talking about free time.",
+   "sentences": [
+    {
+     "id": "de-e468ada0d4",
+     "de": "Mein Hobby ist [Lesen].",
+     "en": "My hobby is reading."
+    },
+    {
+     "id": "de-d06eab3591",
+     "de": "Meine Hobbys sind [Sport und Musik].",
+     "en": "My hobbies are sport and music."
+    },
+    {
+     "id": "de-f9e321ae4f",
+     "de": "In meiner Freizeit [fotografiere] ich.",
+     "en": "In my free time I take photos."
+    },
+    {
+     "id": "de-ca0b250e17",
+     "de": "Was machst du [in deiner Freizeit]?",
+     "en": "What do you do in your free time?"
+    }
+   ]
+  },
+  {
+   "id": "f-cda6dc62f2",
+   "band": 2,
+   "theme": "hobbies",
+   "frame": "Ich spiele ___.",
+   "rule": "spielen + a game or instrument.",
+   "sentences": [
+    {
+     "id": "de-d5bebed156",
+     "de": "Ich spiele [Klavier].",
+     "en": "I play the piano."
+    },
+    {
+     "id": "de-a4e44b2ede",
+     "de": "Ich spiele [Tennis].",
+     "en": "I play tennis."
+    },
+    {
+     "id": "de-9c011270a0",
+     "de": "Ich spiele [Schach].",
+     "en": "I play chess."
+    },
+    {
+     "id": "de-042c3b6baa",
+     "de": "Wir spielen [Computerspiele].",
+     "en": "We play computer games."
+    }
+   ]
+  },
+  {
+   "id": "f-edfff7d7a5",
+   "band": 2,
+   "theme": "hobbies",
+   "frame": "Ich gehe ___.",
+   "rule": "Going to activities.",
+   "sentences": [
+    {
+     "id": "de-2c28491739",
+     "de": "Ich gehe [ins Fitnessstudio].",
+     "en": "I'm going to the gym."
+    },
+    {
+     "id": "de-82eb919e8f",
+     "de": "Ich gehe [joggen].",
+     "en": "I'm going jogging."
+    },
+    {
+     "id": "de-f92caed2b1",
+     "de": "Ich gehe [schwimmen].",
+     "en": "I'm going swimming."
+    },
+    {
+     "id": "de-38687b504d",
+     "de": "Ich gehe [ins Konzert].",
+     "en": "I'm going to a concert."
+    }
+   ]
+  },
+  {
+   "id": "f-b049ff1ed7",
+   "band": 2,
+   "theme": "home",
+   "frame": "Ich wohne in ___.",
+   "rule": "in einer Wohnung (die), in einem Haus (das).",
+   "sentences": [
+    {
+     "id": "de-65d6b91ece",
+     "de": "Ich wohne in [einer Wohnung].",
+     "en": "I live in a flat."
+    },
+    {
+     "id": "de-cbef4499de",
+     "de": "Ich wohne in [einem Haus].",
+     "en": "I live in a house."
+    },
+    {
+     "id": "de-35d500a120",
+     "de": "Ich wohne [im dritten Stock].",
+     "en": "I live on the third floor."
+    },
+    {
+     "id": "de-8609f2f8bb",
+     "de": "Ich wohne [in der Stadt].",
+     "en": "I live in the city."
+    },
+    {
+     "id": "de-726eef0197",
+     "de": "Wir wohnen [auf dem Land].",
+     "en": "We live in the countryside."
+    }
+   ]
+  },
+  {
+   "id": "f-7e1f91cedf",
+   "band": 2,
+   "theme": "home",
+   "frame": "Die Wohnung hat ___.",
+   "rule": "Describing a flat.",
+   "sentences": [
+    {
+     "id": "de-79a0c9be8e",
+     "de": "Die Wohnung hat [drei Zimmer].",
+     "en": "The flat has three rooms."
+    },
+    {
+     "id": "de-f2a1e7d93d",
+     "de": "Die Wohnung hat [einen Balkon].",
+     "en": "The flat has a balcony."
+    },
+    {
+     "id": "de-4d981ec89b",
+     "de": "Die Wohnung hat [eine große Küche].",
+     "en": "The flat has a big kitchen."
+    },
+    {
+     "id": "de-1f6f3d5291",
+     "de": "Die Wohnung hat [kein Bad].",
+     "en": "The flat has no bathroom."
+    }
+   ]
+  },
+  {
+   "id": "f-a2ec3961a4",
+   "band": 2,
+   "theme": "home",
+   "frame": "Das ist ___.",
+   "rule": "Rooms of a home.",
+   "sentences": [
+    {
+     "id": "de-acec7117d9",
+     "de": "Das ist [das Wohnzimmer].",
+     "en": "This is the living room."
+    },
+    {
+     "id": "de-4720d695a3",
+     "de": "Das ist [das Schlafzimmer].",
+     "en": "This is the bedroom."
+    },
+    {
+     "id": "de-c7aad46b9d",
+     "de": "Das ist [die Küche].",
+     "en": "This is the kitchen."
+    },
+    {
+     "id": "de-951808fa68",
+     "de": "Das ist [das Badezimmer].",
+     "en": "This is the bathroom."
+    },
+    {
+     "id": "de-d2fab18276",
+     "de": "Das ist [mein Zimmer].",
+     "en": "This is my room."
+    }
+   ]
+  },
+  {
+   "id": "f-de256cf32e",
+   "band": 2,
+   "theme": "home",
+   "frame": "Die Wohnung ist ___.",
+   "rule": "Describing with ist + describing word.",
+   "sentences": [
+    {
+     "id": "de-683d397678",
+     "de": "Die Wohnung ist [hell].",
+     "en": "The flat is bright."
+    },
+    {
+     "id": "de-03d105c7ac",
+     "de": "Die Wohnung ist [dunkel].",
+     "en": "The flat is dark."
+    },
+    {
+     "id": "de-b6ab21946e",
+     "de": "Die Wohnung ist [ruhig].",
+     "en": "The flat is quiet."
+    },
+    {
+     "id": "de-e333f9158b",
+     "de": "Die Wohnung ist [laut].",
+     "en": "The flat is noisy."
+    },
+    {
+     "id": "de-aec3f86d8b",
+     "de": "Die Miete ist [hoch].",
+     "en": "The rent is high."
+    }
+   ]
+  },
+  {
+   "id": "f-bd0c2d4f22",
+   "band": 2,
+   "theme": "home",
+   "frame": "Wir brauchen ___.",
+   "rule": "Furniture: der Tisch, die Lampe, das Sofa.",
+   "sentences": [
+    {
+     "id": "de-69a5b1c886",
+     "de": "Wir brauchen [einen Tisch].",
+     "en": "We need a table."
+    },
+    {
+     "id": "de-04f41ada8f",
+     "de": "Wir brauchen [eine Lampe].",
+     "en": "We need a lamp."
+    },
+    {
+     "id": "de-8dd38de6ca",
+     "de": "Wir brauchen [ein Sofa].",
+     "en": "We need a sofa."
+    },
+    {
+     "id": "de-9c0942b26e",
+     "de": "Wir brauchen [neue Stühle].",
+     "en": "We need new chairs."
+    }
+   ]
+  },
+  {
+   "id": "f-26c4579b5c",
+   "band": 2,
+   "theme": "home",
+   "frame": "Wo ist ___?",
+   "rule": "Things at home.",
+   "sentences": [
+    {
+     "id": "de-1afd12d807",
+     "de": "Wo ist [die Fernbedienung]?",
+     "en": "Where is the remote control?"
+    },
+    {
+     "id": "de-2fb53238e3",
+     "de": "Wo ist [mein Handy]?",
+     "en": "Where is my phone?"
+    },
+    {
+     "id": "de-966dea7590",
+     "de": "Wo sind [meine Schlüssel]?",
+     "en": "Where are my keys?"
+    },
+    {
+     "id": "de-dda57d3109",
+     "de": "Wo ist [das Ladegerät]?",
+     "en": "Where is the charger?"
+    }
+   ]
+  },
+  {
+   "id": "f-7efddaa38c",
+   "band": 2,
+   "theme": "home",
+   "frame": "Kannst du bitte ___?",
+   "rule": "Chores and requests at home.",
+   "sentences": [
+    {
+     "id": "de-734e44bfca",
+     "de": "Kannst du bitte [den Müll rausbringen]?",
+     "en": "Can you take out the rubbish, please?"
+    },
+    {
+     "id": "de-f070cda4fc",
+     "de": "Kannst du bitte [das Licht ausmachen]?",
+     "en": "Can you turn off the light, please?"
+    },
+    {
+     "id": "de-826a574f8f",
+     "de": "Kannst du bitte [die Tür zumachen]?",
+     "en": "Can you close the door, please?"
+    },
+    {
+     "id": "de-8a6da25885",
+     "de": "Kannst du bitte [abwaschen]?",
+     "en": "Can you do the washing-up, please?"
+    }
+   ]
+  },
+  {
+   "id": "f-6961afa6cd",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Das ist mein ___.",
+   "rule": "mein (der/das), meine (die and plural).",
+   "sentences": [
+    {
+     "id": "de-8a655a8f71",
+     "de": "Das ist [mein] Freund.",
+     "en": "This is my friend."
+    },
+    {
+     "id": "de-1344089538",
+     "de": "Das ist [meine] Freundin.",
+     "en": "This is my girlfriend."
+    },
+    {
+     "id": "de-9e6dc5c090",
+     "de": "Das sind [meine] Eltern.",
+     "en": "These are my parents."
+    },
+    {
+     "id": "de-8a2e65672e",
+     "de": "Das ist [mein] Kind.",
+     "en": "This is my child."
+    }
+   ]
+  },
+  {
+   "id": "f-5cc2ebd93b",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Das ist dein ___?",
+   "rule": "dein/deine = your (to someone you say du to).",
+   "sentences": [
+    {
+     "id": "de-6334717a47",
+     "de": "Ist das [dein] Buch?",
+     "en": "Is that your book?"
+    },
+    {
+     "id": "de-a5a515bdf4",
+     "de": "Ist das [deine] Jacke?",
+     "en": "Is that your jacket?"
+    },
+    {
+     "id": "de-2f183c4a69",
+     "de": "Wie heißt [deine] Mutter?",
+     "en": "What's your mother's name?"
+    },
+    {
+     "id": "de-3b79d4aa64",
+     "de": "Wo arbeitet [dein] Vater?",
+     "en": "Where does your father work?"
+    }
+   ]
+  },
+  {
+   "id": "f-ebe4d948f2",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Sein ___ / ihr ___.",
+   "rule": "sein = his, ihr = her.",
+   "sentences": [
+    {
+     "id": "de-33427e0243",
+     "de": "[Sein] Name ist Paul.",
+     "en": "His name is Paul."
+    },
+    {
+     "id": "de-18eddfa6e9",
+     "de": "[Ihr] Name ist Anna.",
+     "en": "Her name is Anna."
+    },
+    {
+     "id": "de-b6c37d36ab",
+     "de": "[Seine] Frau ist Ärztin.",
+     "en": "His wife is a doctor."
+    },
+    {
+     "id": "de-11f3005119",
+     "de": "[Ihr] Mann ist Koch.",
+     "en": "Her husband is a cook."
+    }
+   ],
+   "pair": {
+    "a": "[Sein] Auto ist neu.",
+    "b": "[Ihr] Auto ist neu.",
+    "note": "The word depends on the owner: his car = sein Auto, her car = ihr Auto."
+   }
+  },
+  {
+   "id": "f-8db836dfdf",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Unser ___ / euer ___.",
+   "rule": "unser = our, euer = your (several people), Ihr = your (polite).",
+   "sentences": [
+    {
+     "id": "de-8d8c301cf7",
+     "de": "[Unser] Haus ist klein.",
+     "en": "Our house is small."
+    },
+    {
+     "id": "de-5d2a3f0586",
+     "de": "[Unsere] Kinder gehen zur Schule.",
+     "en": "Our children go to school."
+    },
+    {
+     "id": "de-c539468101",
+     "de": "Ist das [euer] Auto?",
+     "en": "Is that your car?"
+    },
+    {
+     "id": "de-ab44924281",
+     "de": "Ist das [Ihr] Koffer?",
+     "en": "Is that your suitcase?"
+    }
+   ]
+  },
+  {
+   "id": "f-5f9360a54c",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich habe zwei ___.",
+   "rule": "Plurals have many endings; learn each with die.",
+   "sentences": [
+    {
+     "id": "de-3ead99cd1f",
+     "de": "Ich habe zwei [Kinder].",
+     "en": "I have two children."
+    },
+    {
+     "id": "de-5e9325c1e0",
+     "de": "Wir haben drei [Katzen].",
+     "en": "We have three cats."
+    },
+    {
+     "id": "de-39b6340957",
+     "de": "Ich brauche zwei [Tassen].",
+     "en": "I need two cups."
+    },
+    {
+     "id": "de-d9a7118a27",
+     "de": "Ich kaufe fünf [Äpfel].",
+     "en": "I'm buying five apples."
+    },
+    {
+     "id": "de-44bc693494",
+     "de": "Es gibt vier [Zimmer].",
+     "en": "There are four rooms."
+    }
+   ]
+  },
+  {
+   "id": "f-61af7b3fd1",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Die ___ sind …",
+   "rule": "In the plural, der, die and das all become die.",
+   "sentences": [
+    {
+     "id": "de-721ce85f29",
+     "de": "[Die Kinder] sind müde.",
+     "en": "The children are tired."
+    },
+    {
+     "id": "de-eddf8c2f33",
+     "de": "Die [Bücher] sind neu.",
+     "en": "The books are new."
+    },
+    {
+     "id": "de-3a4594c98c",
+     "de": "Die [Tomaten] sind frisch.",
+     "en": "The tomatoes are fresh."
+    },
+    {
+     "id": "de-c79aab121c",
+     "de": "Die [Leute] sind nett.",
+     "en": "The people are nice."
+    }
+   ]
+  },
+  {
+   "id": "f-3844a80991",
+   "band": 2,
+   "theme": "people",
+   "frame": "Er ist ___.",
+   "rule": "Describing people.",
+   "sentences": [
+    {
+     "id": "de-7121cc8f76",
+     "de": "Er ist [groß].",
+     "en": "He's tall."
+    },
+    {
+     "id": "de-040e7f0455",
+     "de": "Sie ist [klein].",
+     "en": "She's short."
+    },
+    {
+     "id": "de-bd75898452",
+     "de": "Er ist [jung].",
+     "en": "He's young."
+    },
+    {
+     "id": "de-e57aa31f99",
+     "de": "Sie ist [sehr freundlich].",
+     "en": "She's very friendly."
+    },
+    {
+     "id": "de-285f76f199",
+     "de": "Er ist [lustig].",
+     "en": "He's funny."
+    }
+   ]
+  },
+  {
+   "id": "f-1fe87882a9",
+   "band": 2,
+   "theme": "people",
+   "frame": "Sie hat ___ Haare.",
+   "rule": "Hair and eyes: Sie hat … Haare, … Augen.",
+   "sentences": [
+    {
+     "id": "de-5ab05a26c0",
+     "de": "Sie hat [lange] Haare.",
+     "en": "She has long hair."
+    },
+    {
+     "id": "de-658e320aeb",
+     "de": "Er hat [kurze] Haare.",
+     "en": "He has short hair."
+    },
+    {
+     "id": "de-0c6b256c10",
+     "de": "Sie hat [blaue] Augen.",
+     "en": "She has blue eyes."
+    },
+    {
+     "id": "de-ae645fa217",
+     "de": "Er hat [einen Bart].",
+     "en": "He has a beard."
+    }
+   ]
+  },
+  {
+   "id": "f-ac44b95e87",
+   "band": 2,
+   "theme": "people",
+   "frame": "Er trägt ___.",
+   "rule": "tragen = to wear; du trägst, er trägt.",
+   "sentences": [
+    {
+     "id": "de-7ab5daa9cc",
+     "de": "Er trägt [eine Brille].",
+     "en": "He wears glasses."
+    },
+    {
+     "id": "de-64b29ddb2d",
+     "de": "Sie trägt [ein Kleid].",
+     "en": "She's wearing a dress."
+    },
+    {
+     "id": "de-61c608730f",
+     "de": "Er trägt [einen Anzug].",
+     "en": "He's wearing a suit."
+    },
+    {
+     "id": "de-5d30a2a60c",
+     "de": "Sie trägt [heute Jeans].",
+     "en": "She's wearing jeans today."
+    }
+   ]
+  },
+  {
+   "id": "f-4686595c7a",
+   "band": 2,
+   "theme": "family",
+   "frame": "Das ist ___.",
+   "rule": "Family members.",
+   "sentences": [
+    {
+     "id": "de-eff26eba09",
+     "de": "Das ist [mein Opa].",
+     "en": "This is my grandad."
+    },
+    {
+     "id": "de-d7241e7a47",
+     "de": "Das ist [meine Oma].",
+     "en": "This is my grandma."
+    },
+    {
+     "id": "de-51f7cb459d",
+     "de": "Das ist [mein Onkel].",
+     "en": "This is my uncle."
+    },
+    {
+     "id": "de-c0a4f2bc1a",
+     "de": "Das ist [meine Tante].",
+     "en": "This is my aunt."
+    },
+    {
+     "id": "de-0df5f0925f",
+     "de": "Das ist [mein Cousin].",
+     "en": "This is my cousin."
+    }
+   ]
+  },
+  {
+   "id": "f-849ef1952b",
+   "band": 2,
+   "theme": "family",
+   "frame": "Ich bin ___.",
+   "rule": "Family status.",
+   "sentences": [
+    {
+     "id": "de-e798c9e6ab",
+     "de": "Ich bin [ledig].",
+     "en": "I'm single."
+    },
+    {
+     "id": "de-be2382d3cc",
+     "de": "Ich bin [geschieden].",
+     "en": "I'm divorced."
+    },
+    {
+     "id": "de-ae20248b92",
+     "de": "Ich habe [eine Freundin].",
+     "en": "I have a girlfriend."
+    },
+    {
+     "id": "de-d6772138fe",
+     "de": "Wir sind [seit fünf Jahren] zusammen.",
+     "en": "We've been together for five years."
+    }
+   ]
+  },
+  {
+   "id": "f-e517da52fb",
+   "band": 2,
+   "theme": "family",
+   "frame": "Mein Sohn ___.",
+   "rule": "Talking about children.",
+   "sentences": [
+    {
+     "id": "de-036c2ee05e",
+     "de": "Mein Sohn ist [sechs].",
+     "en": "My son is six."
+    },
+    {
+     "id": "de-6a7ef073c4",
+     "de": "Meine Tochter geht [in den Kindergarten].",
+     "en": "My daughter goes to nursery."
+    },
+    {
+     "id": "de-96c254811a",
+     "de": "Meine Kinder gehen [zur Schule].",
+     "en": "My children go to school."
+    },
+    {
+     "id": "de-586ec54a30",
+     "de": "Mein Baby ist [drei Monate alt].",
+     "en": "My baby is three months old."
+    }
+   ]
+  },
+  {
+   "id": "f-7d3e6a4df4",
+   "band": 2,
+   "theme": "clothes",
+   "frame": "Ich suche ___.",
+   "rule": "Shopping for clothes.",
+   "sentences": [
+    {
+     "id": "de-c2c4d510e5",
+     "de": "Ich suche [eine Hose].",
+     "en": "I'm looking for trousers."
+    },
+    {
+     "id": "de-686df0969d",
+     "de": "Ich suche [ein T-Shirt].",
+     "en": "I'm looking for a T-shirt."
+    },
+    {
+     "id": "de-8b789459dd",
+     "de": "Ich suche [einen Mantel].",
+     "en": "I'm looking for a coat."
+    },
+    {
+     "id": "de-43fb8bea42",
+     "de": "Ich suche [Schuhe].",
+     "en": "I'm looking for shoes."
+    }
+   ]
+  },
+  {
+   "id": "f-65d3e19cb5",
+   "band": 2,
+   "theme": "clothes",
+   "frame": "Kann ich ___ anprobieren?",
+   "rule": "anprobieren = to try on.",
+   "sentences": [
+    {
+     "id": "de-63cc2d4567",
+     "de": "Kann ich [das] anprobieren?",
+     "en": "Can I try this on?"
+    },
+    {
+     "id": "de-d528e9c32b",
+     "de": "[Wo ist] die Umkleidekabine?",
+     "en": "Where is the changing room?"
+    },
+    {
+     "id": "de-56a036c57e",
+     "de": "Haben Sie das [in Größe M]?",
+     "en": "Do you have this in size M?"
+    },
+    {
+     "id": "de-f2a1ee0809",
+     "de": "Haben Sie das [in Schwarz]?",
+     "en": "Do you have this in black?"
+    }
+   ]
+  },
+  {
+   "id": "f-92c97934ae",
+   "band": 2,
+   "theme": "clothes",
+   "frame": "Die ___ passt.",
+   "rule": "passen = to fit.",
+   "sentences": [
+    {
+     "id": "de-d7e1278331",
+     "de": "Die Hose [passt].",
+     "en": "The trousers fit."
+    },
+    {
+     "id": "de-717d21f010",
+     "de": "Die Jacke passt [nicht].",
+     "en": "The jacket doesn't fit."
+    },
+    {
+     "id": "de-b6014d081d",
+     "de": "Die Schuhe sind [zu eng].",
+     "en": "The shoes are too tight."
+    },
+    {
+     "id": "de-eb1a03a43b",
+     "de": "Das Kleid ist [zu lang].",
+     "en": "The dress is too long."
+    }
+   ]
+  },
+  {
+   "id": "f-b0a0e42ec2",
+   "band": 2,
+   "theme": "body",
+   "frame": "Mein ___ tut weh.",
+   "rule": "… tut weh = … hurts (plural: tun weh).",
+   "sentences": [
+    {
+     "id": "de-6e8d220f1b",
+     "de": "Mein [Kopf] tut weh.",
+     "en": "My head hurts."
+    },
+    {
+     "id": "de-fb660a0adb",
+     "de": "Mein [Bauch] tut weh.",
+     "en": "My stomach hurts."
+    },
+    {
+     "id": "de-3cff45fe10",
+     "de": "Mein [Rücken] tut weh.",
+     "en": "My back hurts."
+    },
+    {
+     "id": "de-0a06bcd96b",
+     "de": "Meine [Füße] tun weh.",
+     "en": "My feet hurt."
+    }
+   ],
+   "pair": {
+    "a": "Mein Kopf [tut] weh.",
+    "b": "Meine Füße [tun] weh.",
+    "note": "One thing tut weh, several things tun weh."
+   }
+  },
+  {
+   "id": "f-d5c8fad170",
+   "band": 2,
+   "theme": "body",
+   "frame": "Ich habe ___.",
+   "rule": "Common symptoms.",
+   "sentences": [
+    {
+     "id": "de-734bb94b77",
+     "de": "Ich habe [Husten].",
+     "en": "I have a cough."
+    },
+    {
+     "id": "de-205af57e42",
+     "de": "Ich habe [Schnupfen].",
+     "en": "I have a cold."
+    },
+    {
+     "id": "de-a21a2478af",
+     "de": "Ich habe [Halsschmerzen].",
+     "en": "I have a sore throat."
+    },
+    {
+     "id": "de-f2a7eeccfb",
+     "de": "Ich habe [eine Erkältung].",
+     "en": "I've got a cold."
+    }
+   ]
+  },
+  {
+   "id": "f-4c76e0c210",
+   "band": 2,
+   "theme": "health",
+   "frame": "Ich brauche einen ___.",
+   "rule": "At the doctor's.",
+   "sentences": [
+    {
+     "id": "de-80c90d88b2",
+     "de": "Ich brauche [einen Termin].",
+     "en": "I need an appointment."
+    },
+    {
+     "id": "de-3a470f4af0",
+     "de": "Ich brauche [ein Rezept].",
+     "en": "I need a prescription."
+    },
+    {
+     "id": "de-749b8d26d8",
+     "de": "Ich brauche [eine Krankmeldung].",
+     "en": "I need a sick note."
+    },
+    {
+     "id": "de-085ea13aa4",
+     "de": "Ich brauche [Tabletten gegen Kopfschmerzen].",
+     "en": "I need tablets for a headache."
+    }
+   ]
+  },
+  {
+   "id": "f-042ad6667b",
+   "band": 2,
+   "theme": "health",
+   "frame": "Seit ___",
+   "rule": "seit + time = for (and still going on).",
+   "sentences": [
+    {
+     "id": "de-510e81f16e",
+     "de": "[Seit gestern] habe ich Fieber.",
+     "en": "I've had a fever since yesterday."
+    },
+    {
+     "id": "de-fc38e53d4c",
+     "de": "Seit [drei Tagen] bin ich krank.",
+     "en": "I've been ill for three days."
+    },
+    {
+     "id": "de-7d4fb59c6e",
+     "de": "Seit [einer Woche] habe ich Husten.",
+     "en": "I've had a cough for a week."
+    },
+    {
+     "id": "de-472141ffe9",
+     "de": "Seit [heute Morgen] tut mein Bauch weh.",
+     "en": "My stomach has hurt since this morning."
+    }
+   ]
+  },
+  {
+   "id": "f-fc24d0b266",
+   "band": 2,
+   "theme": "meals",
+   "frame": "Zum Frühstück ___.",
+   "rule": "Meals: das Frühstück, das Mittagessen, das Abendessen.",
+   "sentences": [
+    {
+     "id": "de-92a3381292",
+     "de": "Zum Frühstück esse ich [Müsli].",
+     "en": "For breakfast I have muesli."
+    },
+    {
+     "id": "de-691d4a72da",
+     "de": "Zum Frühstück trinke ich [Kaffee].",
+     "en": "For breakfast I drink coffee."
+    },
+    {
+     "id": "de-75f8bba482",
+     "de": "Zum Mittagessen gibt es [Suppe].",
+     "en": "There's soup for lunch."
+    },
+    {
+     "id": "de-4a899f6bfe",
+     "de": "Zum Abendessen essen wir [Brot mit Käse].",
+     "en": "For dinner we eat bread and cheese."
+    }
+   ]
+  },
+  {
+   "id": "f-cb88de67cb",
+   "band": 2,
+   "theme": "meals",
+   "frame": "Ich koche ___.",
+   "rule": "Cooking at home.",
+   "sentences": [
+    {
+     "id": "de-f7a64f8617",
+     "de": "Ich koche [Nudeln].",
+     "en": "I'm cooking pasta."
+    },
+    {
+     "id": "de-37a09e30d5",
+     "de": "Ich koche [Kartoffeln].",
+     "en": "I'm cooking potatoes."
+    },
+    {
+     "id": "de-d06d1e73a8",
+     "de": "Ich mache [einen Salat].",
+     "en": "I'm making a salad."
+    },
+    {
+     "id": "de-6b076c1d47",
+     "de": "Ich backe [einen Kuchen].",
+     "en": "I'm baking a cake."
+    }
+   ]
+  },
+  {
+   "id": "f-35eab4cbf7",
+   "band": 2,
+   "theme": "meals",
+   "frame": "Möchtest du ___?",
+   "rule": "Offering food and drink.",
+   "sentences": [
+    {
+     "id": "de-584e318f85",
+     "de": "Möchtest du [noch etwas]?",
+     "en": "Would you like something else?"
+    },
+    {
+     "id": "de-3a64c43de1",
+     "de": "Möchtest du [einen Tee]?",
+     "en": "Would you like a tea?"
+    },
+    {
+     "id": "de-e4240a7143",
+     "de": "Möchtest du [probieren]?",
+     "en": "Would you like to try it?"
+    },
+    {
+     "id": "de-7fe4ec546c",
+     "de": "[Nimm doch] noch ein Stück!",
+     "en": "Do have another piece!"
+    }
+   ]
+  },
+  {
+   "id": "f-841c152c60",
+   "band": 2,
+   "theme": "meals",
+   "frame": "Das schmeckt ___.",
+   "rule": "schmecken = to taste.",
+   "sentences": [
+    {
+     "id": "de-35976785f4",
+     "de": "Das schmeckt [gut].",
+     "en": "That tastes good."
+    },
+    {
+     "id": "de-df9e83f245",
+     "de": "Das schmeckt [super].",
+     "en": "That tastes great."
+    },
+    {
+     "id": "de-abb757f139",
+     "de": "Das schmeckt [komisch].",
+     "en": "That tastes strange."
+    },
+    {
+     "id": "de-7afe7607c7",
+     "de": "Das schmeckt [nach Zimt].",
+     "en": "That tastes of cinnamon."
+    }
+   ]
+  },
+  {
+   "id": "f-e144bf2585",
+   "band": 2,
+   "theme": "shopping",
+   "frame": "Ich brauche ___.",
+   "rule": "Food shopping list.",
+   "sentences": [
+    {
+     "id": "de-aaf703e400",
+     "de": "Ich brauche [Eier].",
+     "en": "I need eggs."
+    },
+    {
+     "id": "de-331fa9389e",
+     "de": "Ich brauche [Butter].",
+     "en": "I need butter."
+    },
+    {
+     "id": "de-4458674921",
+     "de": "Ich brauche [Zwiebeln].",
+     "en": "I need onions."
+    },
+    {
+     "id": "de-c668ed318d",
+     "de": "Ich brauche [Mehl und Zucker].",
+     "en": "I need flour and sugar."
+    }
+   ]
+  },
+  {
+   "id": "f-78fc3f6438",
+   "band": 2,
+   "theme": "shopping",
+   "frame": "Was kosten ___?",
+   "rule": "kostet for one thing, kosten for several.",
+   "sentences": [
+    {
+     "id": "de-556a7ccd6b",
+     "de": "Was kosten [die Tomaten]?",
+     "en": "How much are the tomatoes?"
+    },
+    {
+     "id": "de-47b2b3fcde",
+     "de": "Was kostet [ein Kilo]?",
+     "en": "How much is a kilo?"
+    },
+    {
+     "id": "de-42a3847758",
+     "de": "Was kostet [die Flasche]?",
+     "en": "How much is the bottle?"
+    },
+    {
+     "id": "de-5e4ebcc6ec",
+     "de": "Was kosten [die Bananen]?",
+     "en": "How much are the bananas?"
+    }
+   ]
+  },
+  {
+   "id": "f-aa1a295d49",
+   "band": 2,
+   "theme": "shopping",
+   "frame": "Ich zahle ___.",
+   "rule": "Paying.",
+   "sentences": [
+    {
+     "id": "de-04cbee3a8a",
+     "de": "Ich zahle [mit Karte].",
+     "en": "I'm paying by card."
+    },
+    {
+     "id": "de-697478c8b3",
+     "de": "Ich zahle [bar].",
+     "en": "I'm paying cash."
+    },
+    {
+     "id": "de-35a3a9be50",
+     "de": "Kann ich [mit dem Handy] zahlen?",
+     "en": "Can I pay with my phone?"
+    },
+    {
+     "id": "de-4e480ec3e3",
+     "de": "Ich brauche [den Kassenbon].",
+     "en": "I need the receipt."
+    }
+   ]
+  },
+  {
+   "id": "f-eeb35f2960",
+   "band": 2,
+   "theme": "weather",
+   "frame": "Es ist ___.",
+   "rule": "More weather.",
+   "sentences": [
+    {
+     "id": "de-f7434fa200",
+     "de": "Es ist [windig].",
+     "en": "It's windy."
+    },
+    {
+     "id": "de-659f3abfc4",
+     "de": "Es ist [bewölkt].",
+     "en": "It's cloudy."
+    },
+    {
+     "id": "de-806c3298ef",
+     "de": "Es ist [heiß].",
+     "en": "It's hot."
+    },
+    {
+     "id": "de-f0713b374c",
+     "de": "Es ist [nass].",
+     "en": "It's wet."
+    }
+   ]
+  },
+  {
+   "id": "f-09772a292e",
+   "band": 2,
+   "theme": "weather",
+   "frame": "Es ___.",
+   "rule": "Weather verbs with es.",
+   "sentences": [
+    {
+     "id": "de-84303b8f28",
+     "de": "Es [schneit].",
+     "en": "It's snowing."
+    },
+    {
+     "id": "de-3715d6d8f6",
+     "de": "Es [donnert].",
+     "en": "It's thundering."
+    },
+    {
+     "id": "de-118b7cac81",
+     "de": "Die Sonne [scheint].",
+     "en": "The sun is shining."
+    },
+    {
+     "id": "de-efebba9fc8",
+     "de": "Es [ist neblig].",
+     "en": "It's foggy."
+    }
+   ]
+  },
+  {
+   "id": "f-d94785cdf6",
+   "band": 2,
+   "theme": "weather",
+   "frame": "Im ___ …",
+   "rule": "im + season or month = in.",
+   "sentences": [
+    {
+     "id": "de-854944a31d",
+     "de": "[Im Sommer] ist es warm.",
+     "en": "In summer it's warm."
+    },
+    {
+     "id": "de-2029e3cec0",
+     "de": "Im [Winter] ist es kalt.",
+     "en": "In winter it's cold."
+    },
+    {
+     "id": "de-8aa9918508",
+     "de": "Im [Frühling] blühen die Blumen.",
+     "en": "In spring the flowers bloom."
+    },
+    {
+     "id": "de-3b6d9ddf50",
+     "de": "Im [Herbst] regnet es oft.",
+     "en": "In autumn it often rains."
+    }
+   ]
+  },
+  {
+   "id": "f-6e45279718",
+   "band": 2,
+   "theme": "time",
+   "frame": "Im ___ habe ich Urlaub.",
+   "rule": "Months: im Januar, im August …",
+   "sentences": [
+    {
+     "id": "de-6091e0efba",
+     "de": "Im [Januar] habe ich Urlaub.",
+     "en": "I'm on holiday in January."
+    },
+    {
+     "id": "de-019e2cd9af",
+     "de": "Im [Juli] fahren wir weg.",
+     "en": "In July we're going away."
+    },
+    {
+     "id": "de-8ff8a12234",
+     "de": "Mein Geburtstag ist [im Mai].",
+     "en": "My birthday is in May."
+    },
+    {
+     "id": "de-a6b1fe36f4",
+     "de": "Im [Dezember] ist Weihnachten.",
+     "en": "Christmas is in December."
+    }
+   ]
+  },
+  {
+   "id": "f-cda3445ce8",
+   "band": 2,
+   "theme": "time",
+   "frame": "Heute ist der ___.",
+   "rule": "Dates: der erste, der zweite, der dritte …",
+   "sentences": [
+    {
+     "id": "de-d5903b8b27",
+     "de": "Heute ist [der erste] März.",
+     "en": "Today is the first of March."
+    },
+    {
+     "id": "de-404e2788ef",
+     "de": "Heute ist der [zwölfte] Juni.",
+     "en": "Today is the twelfth of June."
+    },
+    {
+     "id": "de-e0c59cf2ba",
+     "de": "Mein Geburtstag ist [am dritten] Oktober.",
+     "en": "My birthday is on the third of October."
+    },
+    {
+     "id": "de-61acb46298",
+     "de": "[Der Wievielte] ist heute?",
+     "en": "What's the date today?"
+    }
+   ]
+  },
+  {
+   "id": "f-19fb97d697",
+   "band": 2,
+   "theme": "time",
+   "frame": "___ Woche",
+   "rule": "Time words: diese Woche, nächste Woche.",
+   "sentences": [
+    {
+     "id": "de-bfdae829b8",
+     "de": "[Diese Woche] arbeite ich viel.",
+     "en": "This week I'm working a lot."
+    },
+    {
+     "id": "de-f69b5d24b1",
+     "de": "[Nächste Woche] habe ich Urlaub.",
+     "en": "Next week I'm on holiday."
+    },
+    {
+     "id": "de-d8e8c7146b",
+     "de": "[Jeden Tag] lerne ich Deutsch.",
+     "en": "Every day I learn German."
+    },
+    {
+     "id": "de-07a83472cd",
+     "de": "[Einmal pro Woche] gehe ich schwimmen.",
+     "en": "I go swimming once a week."
+    }
+   ]
+  },
+  {
+   "id": "f-3829699780",
+   "band": 2,
+   "theme": "time",
+   "frame": "Es ist ___.",
+   "rule": "More clock times.",
+   "sentences": [
+    {
+     "id": "de-83e48e5b1f",
+     "de": "Es ist [Viertel vor] acht.",
+     "en": "It's quarter to eight."
+    },
+    {
+     "id": "de-de9fbb070d",
+     "de": "Es ist [fünf nach] drei.",
+     "en": "It's five past three."
+    },
+    {
+     "id": "de-2e16d54b6d",
+     "de": "Es ist [zehn vor] zwölf.",
+     "en": "It's ten to twelve."
+    },
+    {
+     "id": "de-cec3a87f68",
+     "de": "Es ist [genau] neun Uhr.",
+     "en": "It's exactly nine o'clock."
+    }
+   ]
+  },
+  {
+   "id": "f-fc350dac9e",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "___ Sie bitte!",
+   "rule": "Polite commands: verb first, then Sie.",
+   "sentences": [
+    {
+     "id": "de-be0fb418be",
+     "de": "[Kommen Sie] bitte herein!",
+     "en": "Please come in!"
+    },
+    {
+     "id": "de-52d4fa23ba",
+     "de": "[Warten Sie] bitte hier!",
+     "en": "Please wait here!"
+    },
+    {
+     "id": "de-4ec74db897",
+     "de": "[Nehmen Sie] Platz!",
+     "en": "Take a seat!"
+    },
+    {
+     "id": "de-6558aa7e56",
+     "de": "[Unterschreiben Sie] bitte hier!",
+     "en": "Please sign here!"
+    },
+    {
+     "id": "de-d2952ac79c",
+     "de": "[Füllen Sie] bitte das Formular aus!",
+     "en": "Please fill in the form!"
+    }
+   ]
+  },
+  {
+   "id": "f-082b6568c6",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Kennst du ___?",
+   "rule": "Accusative pronouns: mich, dich, ihn, sie, es, uns, euch.",
+   "sentences": [
+    {
+     "id": "de-12e9c250bd",
+     "de": "Kennst du [ihn]?",
+     "en": "Do you know him?"
+    },
+    {
+     "id": "de-ceec3058c9",
+     "de": "Ich kenne [sie] nicht.",
+     "en": "I don't know her."
+    },
+    {
+     "id": "de-8e77cbab49",
+     "de": "Ich liebe [dich].",
+     "en": "I love you."
+    },
+    {
+     "id": "de-c2f98548ab",
+     "de": "Besuchst du [uns]?",
+     "en": "Will you visit us?"
+    }
+   ],
+   "pair": {
+    "a": "[Er] ist nett.",
+    "b": "Ich mag [ihn].",
+    "note": "er becomes ihn when he is the one you like or see."
+   }
+  },
+  {
+   "id": "f-d64b3193d2",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Das ist für ___.",
+   "rule": "für + accusative: für mich, für dich, für ihn.",
+   "sentences": [
+    {
+     "id": "de-6be6afaf6e",
+     "de": "Das ist [für dich].",
+     "en": "This is for you."
+    },
+    {
+     "id": "de-5f68b3fdf1",
+     "de": "Ist das [für mich]?",
+     "en": "Is this for me?"
+    },
+    {
+     "id": "de-7d80d5138c",
+     "de": "Ich kaufe das [für meinen Vater].",
+     "en": "I'm buying this for my father."
+    },
+    {
+     "id": "de-e182ae11d6",
+     "de": "Wir haben [ein Geschenk] für dich.",
+     "en": "We have a present for you."
+    }
+   ]
+  },
+  {
+   "id": "f-7daa5774ea",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "___ ohne ___.",
+   "rule": "ohne = without (+ accusative).",
+   "sentences": [
+    {
+     "id": "de-099d520b28",
+     "de": "Ich trinke Kaffee [ohne Milch].",
+     "en": "I drink coffee without milk."
+    },
+    {
+     "id": "de-f80a6eb564",
+     "de": "Ich gehe [nicht ohne dich].",
+     "en": "I'm not going without you."
+    },
+    {
+     "id": "de-c471627231",
+     "de": "[Ohne Brille] sehe ich nichts.",
+     "en": "Without glasses I can't see anything."
+    },
+    {
+     "id": "de-20cf6556ef",
+     "de": "Ein Zimmer [ohne Frühstück], bitte.",
+     "en": "A room without breakfast, please."
+    }
+   ]
+  },
+  {
+   "id": "f-b0d7886643",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Es gibt ___.",
+   "rule": "Es gibt + accusative: es gibt einen Park.",
+   "sentences": [
+    {
+     "id": "de-f338e64be0",
+     "de": "Hier gibt es [einen Park].",
+     "en": "There's a park here."
+    },
+    {
+     "id": "de-248aecb13b",
+     "de": "Es gibt [viele Restaurants].",
+     "en": "There are lots of restaurants."
+    },
+    {
+     "id": "de-8567d263f3",
+     "de": "Gibt es [hier eine Toilette]?",
+     "en": "Is there a toilet here?"
+    },
+    {
+     "id": "de-7879af93dd",
+     "de": "Es gibt [keinen Bus] mehr.",
+     "en": "There are no more buses."
+    }
+   ]
+  },
+  {
+   "id": "f-68b4771252",
+   "band": 2,
+   "theme": "work",
+   "frame": "Ich bin ___.",
+   "rule": "Jobs: no “a” in German. Female forms often end in -in.",
+   "sentences": [
+    {
+     "id": "de-4d378ddd0d",
+     "de": "Ich bin [Krankenpfleger].",
+     "en": "I'm a nurse.",
+     "alt": [
+      "Ich bin Krankenpflegerin."
+     ]
+    },
+    {
+     "id": "de-a555e030b3",
+     "de": "Ich bin [Verkäuferin].",
+     "en": "I'm a shop assistant.",
+     "alt": [
+      "Ich bin Verkäufer."
+     ]
+    },
+    {
+     "id": "de-f15f336d1f",
+     "de": "Er ist [Arzt].",
+     "en": "He's a doctor."
+    },
+    {
+     "id": "de-a6609e906f",
+     "de": "Sie ist [Lehrerin].",
+     "en": "She's a teacher."
+    },
+    {
+     "id": "de-83296cc07c",
+     "de": "Ich bin [arbeitslos].",
+     "en": "I'm unemployed."
+    }
+   ]
+  },
+  {
+   "id": "f-132c4525f3",
+   "band": 2,
+   "theme": "work",
+   "frame": "Ich arbeite ___.",
+   "rule": "Where and how you work.",
+   "sentences": [
+    {
+     "id": "de-a196927e41",
+     "de": "Ich arbeite [bei Siemens].",
+     "en": "I work at Siemens."
+    },
+    {
+     "id": "de-39ad3eeb5e",
+     "de": "Ich arbeite [in einem Restaurant].",
+     "en": "I work in a restaurant."
+    },
+    {
+     "id": "de-af7a411e43",
+     "de": "Ich arbeite [Teilzeit].",
+     "en": "I work part-time."
+    },
+    {
+     "id": "de-ec068577f2",
+     "de": "Ich arbeite [von neun bis fünf].",
+     "en": "I work from nine to five."
+    }
+   ]
+  },
+  {
+   "id": "f-b227e57254",
+   "band": 2,
+   "theme": "work",
+   "frame": "Ich habe heute ___.",
+   "rule": "Work days.",
+   "sentences": [
+    {
+     "id": "de-b400c901d6",
+     "de": "Ich habe heute [frei].",
+     "en": "I have the day off today."
+    },
+    {
+     "id": "de-4d525cefeb",
+     "de": "Ich habe heute [viel zu tun].",
+     "en": "I have a lot to do today."
+    },
+    {
+     "id": "de-21879b5630",
+     "de": "Ich habe heute [eine Besprechung].",
+     "en": "I have a meeting today."
+    },
+    {
+     "id": "de-0791a66355",
+     "de": "Ich habe heute [Spätschicht].",
+     "en": "I'm on the late shift today."
+    }
+   ]
+  },
+  {
+   "id": "f-1db599910d",
+   "band": 2,
+   "theme": "school",
+   "frame": "Ich gehe ___.",
+   "rule": "Education.",
+   "sentences": [
+    {
+     "id": "de-e7895c9d2a",
+     "de": "Ich gehe [zur Schule].",
+     "en": "I go to school."
+    },
+    {
+     "id": "de-e5a1780cdf",
+     "de": "Ich studiere [Informatik].",
+     "en": "I study computer science."
+    },
+    {
+     "id": "de-c8e3c7cf16",
+     "de": "Ich mache [einen Deutschkurs].",
+     "en": "I'm doing a German course."
+    },
+    {
+     "id": "de-2430c251e3",
+     "de": "Ich gehe [zur Uni].",
+     "en": "I go to university."
+    }
+   ]
+  },
+  {
+   "id": "f-095d9e0c21",
+   "band": 2,
+   "theme": "school",
+   "frame": "Wie ___ man …?",
+   "rule": "Classroom language.",
+   "sentences": [
+    {
+     "id": "de-729f987ae8",
+     "de": "Wie [spricht man] das aus?",
+     "en": "How do you pronounce that?"
+    },
+    {
+     "id": "de-2c645021ee",
+     "de": "Was ist [das Gegenteil] von „groß“?",
+     "en": "What's the opposite of “big”?"
+    },
+    {
+     "id": "de-0e4933b71d",
+     "de": "Können Sie das [bitte wiederholen]?",
+     "en": "Could you repeat that, please?"
+    },
+    {
+     "id": "de-9616cc1751",
+     "de": "Ich habe [eine Frage] zu Seite zehn.",
+     "en": "I have a question about page ten."
+    }
+   ]
+  },
+  {
+   "id": "f-8e21b95b3a",
+   "band": 2,
+   "theme": "school",
+   "sentences": [
+    {
+     "id": "de-4a574a44e8",
+     "de": "Ich mache [meine Hausaufgaben].",
+     "en": "I'm doing my homework."
+    },
+    {
+     "id": "de-58654bde1e",
+     "de": "Morgen habe ich [eine Prüfung].",
+     "en": "Tomorrow I have an exam."
+    },
+    {
+     "id": "de-46ecf698a9",
+     "de": "Ich lerne [für den Test].",
+     "en": "I'm studying for the test."
+    },
+    {
+     "id": "de-8ae168089c",
+     "de": "Die Prüfung ist [schwer].",
+     "en": "The exam is hard."
+    }
+   ]
+  },
+  {
+   "id": "f-33119e45ad",
+   "band": 2,
+   "theme": "phone",
+   "frame": "___ am Telefon.",
+   "rule": "Phone calls.",
+   "sentences": [
+    {
+     "id": "de-8bb8592d81",
+     "de": "[Hallo, hier ist] Lena.",
+     "en": "Hello, it's Lena."
+    },
+    {
+     "id": "de-c59439b4e0",
+     "de": "Kann ich [mit Herrn Weber] sprechen?",
+     "en": "Can I speak to Mr Weber?"
+    },
+    {
+     "id": "de-c9dbc3f4d4",
+     "de": "Er ist [gerade nicht da].",
+     "en": "He's not here right now."
+    },
+    {
+     "id": "de-fc4be31d87",
+     "de": "Ich [rufe später] noch mal an.",
+     "en": "I'll call back later."
+    }
+   ]
+  },
+  {
+   "id": "f-42d883b0d4",
+   "band": 2,
+   "theme": "phone",
+   "frame": "Können Sie ___?",
+   "rule": "On the phone.",
+   "sentences": [
+    {
+     "id": "de-1070696daf",
+     "de": "Können Sie [etwas lauter] sprechen?",
+     "en": "Can you speak a bit louder?"
+    },
+    {
+     "id": "de-9b09150569",
+     "de": "Die Verbindung ist [schlecht].",
+     "en": "The connection is bad."
+    },
+    {
+     "id": "de-47cba7bf88",
+     "de": "Ich [höre Sie] nicht.",
+     "en": "I can't hear you."
+    },
+    {
+     "id": "de-51038df123",
+     "de": "Ich [schreibe dir] eine Nachricht.",
+     "en": "I'll send you a message."
+    }
+   ]
+  },
+  {
+   "id": "f-dc99699f49",
+   "band": 2,
+   "theme": "plans",
+   "frame": "Hast du Lust auf ___?",
+   "rule": "Lust haben auf = to feel like.",
+   "sentences": [
+    {
+     "id": "de-aaeb897707",
+     "de": "Hast du Lust auf [Kino]?",
+     "en": "Do you fancy the cinema?"
+    },
+    {
+     "id": "de-5e244bf492",
+     "de": "Hast du Lust auf [einen Kaffee]?",
+     "en": "Do you fancy a coffee?"
+    },
+    {
+     "id": "de-f01a682a4e",
+     "de": "Ich habe [keine Lust].",
+     "en": "I don't feel like it."
+    },
+    {
+     "id": "de-f5c404267f",
+     "de": "Ich habe [große Lust]!",
+     "en": "I'd really like to!"
+    }
+   ]
+  },
+  {
+   "id": "f-f3db65ac69",
+   "band": 2,
+   "theme": "plans",
+   "frame": "Treffen wir uns ___?",
+   "rule": "Arranging to meet.",
+   "sentences": [
+    {
+     "id": "de-b7c6f40670",
+     "de": "Treffen wir uns [um sechs]?",
+     "en": "Shall we meet at six?"
+    },
+    {
+     "id": "de-83deeb9b83",
+     "de": "Treffen wir uns [vor dem Kino]?",
+     "en": "Shall we meet in front of the cinema?"
+    },
+    {
+     "id": "de-257af8bf4d",
+     "de": "[Wo treffen wir uns]?",
+     "en": "Where shall we meet?"
+    },
+    {
+     "id": "de-90807b16d5",
+     "de": "[Passt dir] Freitag?",
+     "en": "Does Friday suit you?"
+    }
+   ]
+  },
+  {
+   "id": "f-cd66e70458",
+   "band": 2,
+   "theme": "plans",
+   "frame": "Das geht ___.",
+   "rule": "Saying yes or no.",
+   "sentences": [
+    {
+     "id": "de-193c10584e",
+     "de": "Das geht [leider nicht].",
+     "en": "Unfortunately that's not possible."
+    },
+    {
+     "id": "de-7a21fc09e0",
+     "de": "[Das passt] gut.",
+     "en": "That works well."
+    },
+    {
+     "id": "de-b8f30e31c0",
+     "de": "[Gute Idee]!",
+     "en": "Good idea!"
+    },
+    {
+     "id": "de-7f455a8ac4",
+     "de": "Ich [kann leider nicht].",
+     "en": "Unfortunately I can't."
+    },
+    {
+     "id": "de-e3b0f20e48",
+     "de": "Vielleicht [ein anderes Mal].",
+     "en": "Maybe another time."
+    }
+   ]
+  },
+  {
+   "id": "f-fcdbc3a8ad",
+   "band": 2,
+   "theme": "plans",
+   "frame": "Ich lade dich ___ ein.",
+   "rule": "einladen = to invite; also: to treat.",
+   "sentences": [
+    {
+     "id": "de-85f829132f",
+     "de": "Ich [lade] dich zum Essen [ein].",
+     "en": "I'm inviting you to dinner."
+    },
+    {
+     "id": "de-69293848c5",
+     "de": "Ich lade dich [zu meiner Party] ein.",
+     "en": "I'm inviting you to my party."
+    },
+    {
+     "id": "de-0a6c336f8c",
+     "de": "[Danke für die Einladung]!",
+     "en": "Thanks for the invitation!"
+    },
+    {
+     "id": "de-93c6be8a2e",
+     "de": "Heute [lade ich dich ein].",
+     "en": "Today it's my treat."
+    }
+   ]
+  },
+  {
+   "id": "f-a648345a69",
+   "band": 2,
+   "theme": "transport",
+   "frame": "Ich fahre mit ___.",
+   "rule": "mit + dem/der: mit dem Bus, mit der Bahn.",
+   "sentences": [
+    {
+     "id": "de-3862192348",
+     "de": "Ich fahre [mit dem Auto].",
+     "en": "I'm going by car."
+    },
+    {
+     "id": "de-9fde6123be",
+     "de": "Ich fahre [mit der Bahn].",
+     "en": "I'm going by train."
+    },
+    {
+     "id": "de-f0b5127322",
+     "de": "Ich fahre [mit dem Fahrrad].",
+     "en": "I'm going by bike."
+    },
+    {
+     "id": "de-cb245eda25",
+     "de": "Ich fliege [mit Lufthansa].",
+     "en": "I'm flying with Lufthansa."
+    }
+   ]
+  },
+  {
+   "id": "f-cad754ab5e",
+   "band": 2,
+   "theme": "transport",
+   "frame": "Der Zug hat ___.",
+   "rule": "Delays and changes.",
+   "sentences": [
+    {
+     "id": "de-94b680ca95",
+     "de": "Der Zug hat [Verspätung].",
+     "en": "The train is delayed."
+    },
+    {
+     "id": "de-031bb2f191",
+     "de": "Der Bus [kommt nicht].",
+     "en": "The bus isn't coming."
+    },
+    {
+     "id": "de-5d920a47b1",
+     "de": "Der Zug [fällt aus].",
+     "en": "The train is cancelled."
+    },
+    {
+     "id": "de-5874d7c51e",
+     "de": "Ich muss [umsteigen].",
+     "en": "I have to change trains."
+    }
+   ]
+  },
+  {
+   "id": "f-95ed15cb03",
+   "band": 2,
+   "theme": "transport",
+   "frame": "Wie lange ___?",
+   "rule": "Travel times.",
+   "sentences": [
+    {
+     "id": "de-f36be8253c",
+     "de": "Wie lange [dauert die Fahrt]?",
+     "en": "How long is the journey?"
+    },
+    {
+     "id": "de-2c1d7118d4",
+     "de": "Die Fahrt dauert [zwei Stunden].",
+     "en": "The journey takes two hours."
+    },
+    {
+     "id": "de-7beea7d6e4",
+     "de": "Es sind [zehn Minuten] zu Fuß.",
+     "en": "It's ten minutes on foot."
+    },
+    {
+     "id": "de-3d65812afd",
+     "de": "Wir sind [gleich da].",
+     "en": "We're nearly there."
+    }
+   ]
+  },
+  {
+   "id": "f-fdc8a4ed42",
+   "band": 2,
+   "theme": "courtesy",
+   "frame": "___!",
+   "rule": "Wishes for occasions.",
+   "sentences": [
+    {
+     "id": "de-c7ca86af5b",
+     "de": "[Herzlichen Glückwunsch]!",
+     "en": "Congratulations!"
+    },
+    {
+     "id": "de-ed03a04415",
+     "de": "[Alles Gute zum Geburtstag]!",
+     "en": "Happy birthday!"
+    },
+    {
+     "id": "de-268bde61e6",
+     "de": "[Gute Besserung]!",
+     "en": "Get well soon!"
+    },
+    {
+     "id": "de-9d7eee5569",
+     "de": "[Viel Glück]!",
+     "en": "Good luck!"
+    },
+    {
+     "id": "de-a9c595b60e",
+     "de": "[Schönes Wochenende]!",
+     "en": "Have a nice weekend!"
+    }
+   ]
+  },
+  {
+   "id": "f-a9e6aa67df",
+   "band": 2,
+   "theme": "courtesy",
+   "frame": "___!",
+   "rule": "More wishes.",
+   "sentences": [
+    {
+     "id": "de-51e558acad",
+     "de": "[Frohe Weihnachten]!",
+     "en": "Merry Christmas!"
+    },
+    {
+     "id": "de-746efbde6e",
+     "de": "[Gutes neues Jahr]!",
+     "en": "Happy New Year!"
+    },
+    {
+     "id": "de-8af8b72afe",
+     "de": "[Guten Appetit]!",
+     "en": "Enjoy your meal!"
+    },
+    {
+     "id": "de-81de439eb5",
+     "de": "[Prost]!",
+     "en": "Cheers!"
+    },
+    {
+     "id": "de-020c4d5dfa",
+     "de": "[Gute Reise]!",
+     "en": "Have a good trip!"
+    }
+   ]
+  },
+  {
+   "id": "f-f946c0dc56",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "___ und / aber / oder",
+   "rule": "und, aber, oder, denn don't change the word order.",
+   "sentences": [
+    {
+     "id": "de-afc1f63cdd",
+     "de": "Ich bin müde, [aber] ich arbeite noch.",
+     "en": "I'm tired, but I'm still working."
+    },
+    {
+     "id": "de-3acd420515",
+     "de": "Ich trinke Kaffee [und] esse ein Brötchen.",
+     "en": "I drink coffee and eat a roll."
+    },
+    {
+     "id": "de-a3e63e1a12",
+     "de": "Möchtest du Tee [oder] Kaffee?",
+     "en": "Would you like tea or coffee?"
+    },
+    {
+     "id": "de-8ed521ebcc",
+     "de": "Ich bleibe zu Hause, [denn] ich bin krank.",
+     "en": "I'm staying at home because I'm ill."
+    }
+   ]
+  },
+  {
+   "id": "f-ccce27db9d",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "nicht ___, sondern …",
+   "rule": "sondern = but rather (after a negative).",
+   "sentences": [
+    {
+     "id": "de-7a2390c836",
+     "de": "Das ist nicht rot, [sondern] orange.",
+     "en": "That's not red but orange."
+    },
+    {
+     "id": "de-156d6e148c",
+     "de": "Ich komme nicht heute, [sondern morgen].",
+     "en": "I'm not coming today but tomorrow."
+    },
+    {
+     "id": "de-9cb74cdf27",
+     "de": "Er ist nicht Lehrer, [sondern Arzt].",
+     "en": "He isn't a teacher but a doctor."
+    },
+    {
+     "id": "de-53de7b7f0c",
+     "de": "Wir fahren nicht mit dem Auto, [sondern mit dem Zug].",
+     "en": "We're not going by car but by train."
+    }
+   ]
+  },
+  {
+   "id": "f-7e6b171cb3",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Zuerst ___, dann …",
+   "rule": "Order of events: zuerst, dann, danach, zum Schluss.",
+   "sentences": [
+    {
+     "id": "de-81e51514c3",
+     "de": "[Zuerst] frühstücke ich.",
+     "en": "First I have breakfast."
+    },
+    {
+     "id": "de-606da74cac",
+     "de": "[Dann] gehe ich zur Arbeit.",
+     "en": "Then I go to work."
+    },
+    {
+     "id": "de-f0e24a1cb1",
+     "de": "[Danach] kaufe ich ein.",
+     "en": "After that I go shopping."
+    },
+    {
+     "id": "de-59fa7415fb",
+     "de": "[Zum Schluss] sehe ich fern.",
+     "en": "Finally I watch TV."
+    }
+   ]
+  },
+  {
+   "id": "f-ba0f3eebd0",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich ___ auch.",
+   "rule": "auch = also, too.",
+   "sentences": [
+    {
+     "id": "de-e730e0fcbe",
+     "de": "Ich komme [auch].",
+     "en": "I'm coming too."
+    },
+    {
+     "id": "de-f2ade2366b",
+     "de": "Ich [auch]!",
+     "en": "Me too!"
+    },
+    {
+     "id": "de-48c96a034e",
+     "de": "Ich [auch nicht].",
+     "en": "Me neither."
+    },
+    {
+     "id": "de-7ca11e2386",
+     "de": "Er spricht [auch] Französisch.",
+     "en": "He also speaks French."
+    }
+   ]
+  },
+  {
+   "id": "f-660cf48106",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich habe nur ___.",
+   "rule": "nur = only.",
+   "sentences": [
+    {
+     "id": "de-659fa92d80",
+     "de": "Ich habe [nur] zehn Euro.",
+     "en": "I only have ten euros."
+    },
+    {
+     "id": "de-85750d1be3",
+     "de": "Ich [schaue nur].",
+     "en": "I'm only looking."
+    },
+    {
+     "id": "de-321d4f0b12",
+     "de": "Das dauert [nur] fünf Minuten.",
+     "en": "That only takes five minutes."
+    },
+    {
+     "id": "de-108e15a6cc",
+     "de": "Ich habe [nur eine Frage].",
+     "en": "I only have one question."
+    }
+   ]
+  },
+  {
+   "id": "f-55ecbea64f",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "___ schon / noch",
+   "rule": "schon = already; noch = still; noch nicht = not yet.",
+   "sentences": [
+    {
+     "id": "de-b56ce867fc",
+     "de": "Bist du [schon] fertig?",
+     "en": "Are you finished already?"
+    },
+    {
+     "id": "de-bec1f9d31c",
+     "de": "Ich bin [noch nicht] fertig.",
+     "en": "I'm not finished yet."
+    },
+    {
+     "id": "de-e70afebc30",
+     "de": "Er schläft [noch].",
+     "en": "He's still asleep."
+    },
+    {
+     "id": "de-5121bd5a25",
+     "de": "Ich wohne [schon lange] hier.",
+     "en": "I've lived here for a long time."
+    }
+   ]
+  },
+  {
+   "id": "f-9d6b0cca4b",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Hier spricht man ___.",
+   "rule": "man = you, people in general.",
+   "sentences": [
+    {
+     "id": "de-83c3ddb083",
+     "de": "Hier spricht [man] Deutsch.",
+     "en": "German is spoken here."
+    },
+    {
+     "id": "de-908b1c42cd",
+     "de": "Wie [schreibt man] deinen Namen?",
+     "en": "How do you write your name?"
+    },
+    {
+     "id": "de-e56747d7ec",
+     "de": "Hier [kann man] gut essen.",
+     "en": "You can eat well here."
+    },
+    {
+     "id": "de-dd85c97c7c",
+     "de": "Das [macht man] nicht.",
+     "en": "You don't do that."
+    }
+   ]
+  },
+  {
+   "id": "f-2df4a9bad1",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "Ich gehe ___. / Ich bin ___.",
+   "rule": "nach Hause = (going) home; zu Hause = at home.",
+   "sentences": [
+    {
+     "id": "de-3fe824dcc9",
+     "de": "Ich fahre jetzt [nach Hause].",
+     "en": "I'm going home now."
+    },
+    {
+     "id": "de-8821ae8e4c",
+     "de": "Ich bin [zu Hause].",
+     "en": "I'm at home."
+    },
+    {
+     "id": "de-fab0d8364a",
+     "de": "Ich bleibe heute [zu Hause].",
+     "en": "I'm staying at home today."
+    },
+    {
+     "id": "de-c42996559d",
+     "de": "Wann kommst du [nach Hause]?",
+     "en": "When are you coming home?"
+    }
+   ],
+   "pair": {
+    "a": "Ich bin [zu Hause].",
+    "b": "Ich gehe [nach Hause].",
+    "note": "zu Hause for where you are, nach Hause for where you're going."
+   }
+  },
+  {
+   "id": "f-38b8691eba",
+   "band": 2,
+   "theme": "grammar",
+   "frame": "___ durch / um / gegen",
+   "rule": "durch = through, um = around, gegen = against (+ accusative).",
+   "sentences": [
+    {
+     "id": "de-ea90f85fcc",
+     "de": "Wir gehen [durch den Park].",
+     "en": "We're walking through the park."
+    },
+    {
+     "id": "de-ea62087e88",
+     "de": "Wir fahren [um die Stadt].",
+     "en": "We're driving around the town."
+    },
+    {
+     "id": "de-b662093179",
+     "de": "Ich bin [gegen den Plan].",
+     "en": "I'm against the plan."
+    },
+    {
+     "id": "de-1163168306",
+     "de": "Er läuft [gegen die Tür].",
+     "en": "He walks into the door."
+    }
+   ]
+  },
+  {
+   "id": "f-221db10f82",
+   "band": 2,
+   "theme": "opinion",
+   "frame": "Ich finde ___.",
+   "rule": "finden = to find, to think (an opinion).",
+   "sentences": [
+    {
+     "id": "de-c52ef2d905",
+     "de": "Ich finde das [gut].",
+     "en": "I think that's good."
+    },
+    {
+     "id": "de-3628748b2a",
+     "de": "Ich finde den Film [langweilig].",
+     "en": "I find the film boring."
+    },
+    {
+     "id": "de-48ad9496f2",
+     "de": "Wie [findest du] das?",
+     "en": "What do you think of it?"
+    },
+    {
+     "id": "de-937bab7e93",
+     "de": "Ich finde Berlin [spannend].",
+     "en": "I find Berlin exciting."
+    }
+   ]
+  },
+  {
+   "id": "f-0681b93e1e",
+   "band": 2,
+   "theme": "opinion",
+   "frame": "Ich glaube, ___.",
+   "rule": "glauben = to believe, think.",
+   "sentences": [
+    {
+     "id": "de-221624e5e3",
+     "de": "Ich [glaube], ja.",
+     "en": "I think so."
+    },
+    {
+     "id": "de-296c9b9ac9",
+     "de": "Ich glaube [nicht].",
+     "en": "I don't think so."
+    },
+    {
+     "id": "de-31dd5488d5",
+     "de": "Ich glaube, [das stimmt].",
+     "en": "I think that's right."
+    },
+    {
+     "id": "de-d6fd070a35",
+     "de": "Ich glaube, [er kommt nicht].",
+     "en": "I don't think he's coming."
+    }
+   ]
+  },
+  {
+   "id": "f-4b65602b0a",
+   "band": 2,
+   "theme": "opinion",
+   "frame": "Das ist ___.",
+   "rule": "Judgements.",
+   "sentences": [
+    {
+     "id": "de-e07141212d",
+     "de": "Das ist [richtig gut]!",
+     "en": "That's really good!"
+    },
+    {
+     "id": "de-4f814b8ab2",
+     "de": "Das ist [nicht schlecht].",
+     "en": "That's not bad."
+    },
+    {
+     "id": "de-306c0b394d",
+     "de": "Das ist [furchtbar].",
+     "en": "That's terrible."
+    },
+    {
+     "id": "de-a5e2ab8cab",
+     "de": "Das ist [egal].",
+     "en": "It doesn't matter."
+    },
+    {
+     "id": "de-aa0a472ec4",
+     "de": "Das ist [mir egal].",
+     "en": "I don't care."
+    }
+   ]
+  },
+  {
+   "id": "f-655b479505",
+   "band": 2,
+   "theme": "opinion",
+   "frame": "Ich mag ___ nicht.",
+   "rule": "Likes and dislikes.",
+   "sentences": [
+    {
+     "id": "de-70c34216d5",
+     "de": "Ich mag [keine Spinnen].",
+     "en": "I don't like spiders."
+    },
+    {
+     "id": "de-0b4b243d81",
+     "de": "Ich mag [den Winter] nicht.",
+     "en": "I don't like winter."
+    },
+    {
+     "id": "de-55c174058d",
+     "de": "Ich [liebe] Schokolade.",
+     "en": "I love chocolate."
+    },
+    {
+     "id": "de-0e1c12d41a",
+     "de": "Ich [hasse] Staus.",
+     "en": "I hate traffic jams."
+    }
+   ]
+  },
+  {
+   "id": "f-a570f8c1ac",
+   "band": 2,
+   "theme": "feelings",
+   "frame": "Ich bin ___.",
+   "rule": "Feelings.",
+   "sentences": [
+    {
+     "id": "de-d91b636c36",
+     "de": "Ich bin [müde und hungrig].",
+     "en": "I'm tired and hungry."
+    },
+    {
+     "id": "de-f6462e258d",
+     "de": "Ich bin [wütend].",
+     "en": "I'm angry."
+    },
+    {
+     "id": "de-863991c337",
+     "de": "Ich bin [überrascht].",
+     "en": "I'm surprised."
+    },
+    {
+     "id": "de-4b3866f6ba",
+     "de": "Ich bin [aufgeregt].",
+     "en": "I'm excited."
+    },
+    {
+     "id": "de-cc0230387a",
+     "de": "Ich habe [Angst].",
+     "en": "I'm scared."
+    }
+   ]
+  },
+  {
+   "id": "f-c9d1e384ea",
+   "band": 2,
+   "theme": "feelings",
+   "frame": "Was ist ___?",
+   "rule": "Asking what's wrong.",
+   "sentences": [
+    {
+     "id": "de-c7458cbe5c",
+     "de": "[Was ist los]?",
+     "en": "What's wrong?"
+    },
+    {
+     "id": "de-f2d0336fdc",
+     "de": "Was ist [passiert]?",
+     "en": "What happened?"
+    },
+    {
+     "id": "de-151cd0e950",
+     "de": "[Alles in Ordnung]?",
+     "en": "Is everything OK?"
+    },
+    {
+     "id": "de-ad0fc7feed",
+     "de": "[Geht es dir gut]?",
+     "en": "Are you OK?"
+    }
+   ]
+  },
+  {
+   "id": "f-dfc0f84c46",
+   "band": 2,
+   "theme": "feelings",
+   "frame": "Mach dir ___!",
+   "rule": "Reassuring someone.",
+   "sentences": [
+    {
+     "id": "de-11daa6ff73",
+     "de": "[Mach dir keine Sorgen]!",
+     "en": "Don't worry!"
+    },
+    {
+     "id": "de-b4c724430e",
+     "de": "[Keine Angst]!",
+     "en": "Don't be afraid!"
+    },
+    {
+     "id": "de-8ec5261972",
+     "de": "[Das wird schon].",
+     "en": "It'll be fine."
+    },
+    {
+     "id": "de-eeb3f44d5e",
+     "de": "[Ich bin für dich da].",
+     "en": "I'm here for you."
+    }
+   ]
+  },
+  {
+   "id": "f-19bf735979",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich ___ das nicht.",
+   "rule": "Common verbs with das.",
+   "sentences": [
+    {
+     "id": "de-0587eecea1",
+     "de": "Ich [vergesse] das nicht.",
+     "en": "I won't forget that."
+    },
+    {
+     "id": "de-c8e94e4763",
+     "de": "Ich [verstehe] das nicht ganz.",
+     "en": "I don't quite understand that."
+    },
+    {
+     "id": "de-55a34963fd",
+     "de": "Ich [glaube] das nicht.",
+     "en": "I don't believe that."
+    },
+    {
+     "id": "de-f18c3b9cc2",
+     "de": "Ich [brauche] das nicht.",
+     "en": "I don't need that."
+    }
+   ]
+  },
+  {
+   "id": "f-2a0dd64609",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Kannst du ___ erklären?",
+   "rule": "erklären = to explain; zeigen = to show.",
+   "sentences": [
+    {
+     "id": "de-4a34d1057c",
+     "de": "Kannst du mir das [erklären]?",
+     "en": "Can you explain that to me?"
+    },
+    {
+     "id": "de-c288e0273e",
+     "de": "Kannst du mir [den Weg] zeigen?",
+     "en": "Can you show me the way?"
+    },
+    {
+     "id": "de-122fd93a95",
+     "de": "Ich [zeige] dir die Stadt.",
+     "en": "I'll show you the city."
+    },
+    {
+     "id": "de-86a3f80209",
+     "de": "Er erklärt [die Regeln].",
+     "en": "He explains the rules."
+    }
+   ]
+  },
+  {
+   "id": "f-872b410956",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich bringe ___.",
+   "rule": "bringen = to bring; schicken = to send.",
+   "sentences": [
+    {
+     "id": "de-79fa770223",
+     "de": "Ich [bringe] den Wein mit.",
+     "en": "I'll bring the wine."
+    },
+    {
+     "id": "de-b997f2c94c",
+     "de": "Kannst du mir [das Buch] bringen?",
+     "en": "Can you bring me the book?"
+    },
+    {
+     "id": "de-ca8120378b",
+     "de": "Ich [schicke] dir die Fotos.",
+     "en": "I'll send you the photos."
+    },
+    {
+     "id": "de-142bc2f2bc",
+     "de": "Ich schicke [eine E-Mail].",
+     "en": "I'm sending an email."
+    }
+   ]
+  },
+  {
+   "id": "f-702939cd59",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich suche ___.",
+   "rule": "suchen / finden.",
+   "sentences": [
+    {
+     "id": "de-7375fd4f3e",
+     "de": "Ich [suche] meine Brille.",
+     "en": "I'm looking for my glasses."
+    },
+    {
+     "id": "de-2cfeaf9d75",
+     "de": "Ich [finde] meinen Schlüssel nicht.",
+     "en": "I can't find my key."
+    },
+    {
+     "id": "de-8b27e5efd0",
+     "de": "Er sucht [eine Wohnung].",
+     "en": "He's looking for a flat."
+    },
+    {
+     "id": "de-665722ff12",
+     "de": "Sie sucht [einen Job].",
+     "en": "She's looking for a job."
+    }
+   ]
+  },
+  {
+   "id": "f-58279904a5",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich warte ___.",
+   "rule": "warten auf = to wait for.",
+   "sentences": [
+    {
+     "id": "de-a587e7d79f",
+     "de": "Ich [warte] auf den Bus.",
+     "en": "I'm waiting for the bus."
+    },
+    {
+     "id": "de-0efdd2bfbf",
+     "de": "Ich warte [auf dich].",
+     "en": "I'm waiting for you."
+    },
+    {
+     "id": "de-c9abcd7170",
+     "de": "[Wie lange] wartest du schon?",
+     "en": "How long have you been waiting?"
+    },
+    {
+     "id": "de-cc103371bc",
+     "de": "Bitte [warten Sie] kurz.",
+     "en": "Please wait a moment."
+    }
+   ]
+  },
+  {
+   "id": "f-9c67261738",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich ___ Deutsch.",
+   "rule": "Learning verbs.",
+   "sentences": [
+    {
+     "id": "de-bd141c92da",
+     "de": "Ich [übe] jeden Tag.",
+     "en": "I practise every day."
+    },
+    {
+     "id": "de-039f4b87a2",
+     "de": "Ich [wiederhole] die Wörter.",
+     "en": "I'm going over the words."
+    },
+    {
+     "id": "de-f1665e45c4",
+     "de": "Ich [schreibe] einen Brief.",
+     "en": "I'm writing a letter."
+    },
+    {
+     "id": "de-d74fc411c9",
+     "de": "Ich [höre] einen Podcast auf Deutsch.",
+     "en": "I'm listening to a podcast in German."
+    }
+   ]
+  },
+  {
+   "id": "f-8a90d1ee58",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich mache ___.",
+   "rule": "machen with many things.",
+   "sentences": [
+    {
+     "id": "de-2a59af9de9",
+     "de": "Ich mache [eine Pause].",
+     "en": "I'm taking a break."
+    },
+    {
+     "id": "de-1d40eb9b16",
+     "de": "Ich mache [ein Foto].",
+     "en": "I'm taking a photo."
+    },
+    {
+     "id": "de-08c430d6f0",
+     "de": "Ich mache [Sport].",
+     "en": "I do sport."
+    },
+    {
+     "id": "de-c48d82fabe",
+     "de": "Ich mache [Urlaub].",
+     "en": "I'm on holiday."
+    },
+    {
+     "id": "de-b9c386b028",
+     "de": "Ich mache [das Frühstück].",
+     "en": "I'm making breakfast."
+    }
+   ]
+  },
+  {
+   "id": "f-dbb8bcb903",
+   "band": 2,
+   "theme": "verbs",
+   "frame": "Ich ___ dich.",
+   "rule": "Verbs with people.",
+   "sentences": [
+    {
+     "id": "de-203488475a",
+     "de": "Ich [besuche] dich morgen.",
+     "en": "I'll visit you tomorrow."
+    },
+    {
+     "id": "de-ca8620d034",
+     "de": "Ich [vermisse] dich.",
+     "en": "I miss you."
+    },
+    {
+     "id": "de-caa4057b4f",
+     "de": "Ich [frage] den Lehrer.",
+     "en": "I'll ask the teacher."
+    },
+    {
+     "id": "de-ae823c5330",
+     "de": "Ich [treffe] meine Freunde.",
+     "en": "I'm meeting my friends."
+    }
+   ]
+  },
+  {
+   "id": "f-15d7fed5ef",
+   "band": 2,
+   "theme": "city",
+   "frame": "In der Stadt gibt es ___.",
+   "rule": "Places in town.",
+   "sentences": [
+    {
+     "id": "de-57bd6a9ee9",
+     "de": "In der Stadt gibt es [ein Museum].",
+     "en": "There's a museum in the town."
+    },
+    {
+     "id": "de-68cb8b5ab7",
+     "de": "Es gibt [einen Markt] am Samstag.",
+     "en": "There's a market on Saturday."
+    },
+    {
+     "id": "de-c9b2e9a004",
+     "de": "Es gibt [eine Bibliothek].",
+     "en": "There's a library."
+    },
+    {
+     "id": "de-1e26b8dc6d",
+     "de": "Es gibt [viele Geschäfte].",
+     "en": "There are lots of shops."
+    }
+   ]
+  },
+  {
+   "id": "f-433e059c14",
+   "band": 2,
+   "theme": "city",
+   "frame": "Ich gehe ___.",
+   "rule": "zur/zum + place.",
+   "sentences": [
+    {
+     "id": "de-67a7e7a3e7",
+     "de": "Ich gehe [zur Bank].",
+     "en": "I'm going to the bank."
+    },
+    {
+     "id": "de-91f6b1c1a7",
+     "de": "Ich gehe [zum Arzt].",
+     "en": "I'm going to the doctor."
+    },
+    {
+     "id": "de-5c64027cbc",
+     "de": "Ich gehe [zum Friseur].",
+     "en": "I'm going to the hairdresser."
+    },
+    {
+     "id": "de-83dcba502e",
+     "de": "Ich gehe [zur Apotheke].",
+     "en": "I'm going to the pharmacy."
+    }
+   ]
+  },
+  {
+   "id": "f-093cfa6d67",
+   "band": 2,
+   "theme": "city",
+   "frame": "Wann ist ___ geöffnet?",
+   "rule": "Opening times.",
+   "sentences": [
+    {
+     "id": "de-3e408945fc",
+     "de": "Wann ist [die Bank] geöffnet?",
+     "en": "When is the bank open?"
+    },
+    {
+     "id": "de-1bcbd2dc92",
+     "de": "Das Geschäft ist [heute geschlossen].",
+     "en": "The shop is closed today."
+    },
+    {
+     "id": "de-2abf35375c",
+     "de": "Der Supermarkt ist [bis zehn] offen.",
+     "en": "The supermarket is open until ten."
+    },
+    {
+     "id": "de-d5c27ddd21",
+     "de": "[Am Sonntag] ist alles zu.",
+     "en": "Everything is closed on Sunday."
+    }
+   ]
+  },
+  {
+   "id": "f-063c82ff47",
+   "band": 2,
+   "theme": "bank",
+   "frame": "Ich möchte ___.",
+   "rule": "At the bank.",
+   "sentences": [
+    {
+     "id": "de-3400b7305f",
+     "de": "Ich möchte [ein Konto eröffnen].",
+     "en": "I'd like to open an account."
+    },
+    {
+     "id": "de-691d6c05f2",
+     "de": "Ich möchte [Geld abheben].",
+     "en": "I'd like to withdraw money."
+    },
+    {
+     "id": "de-d65c89f06c",
+     "de": "Ich möchte [Geld überweisen].",
+     "en": "I'd like to transfer money."
+    },
+    {
+     "id": "de-1816c1c0be",
+     "de": "Ich möchte [Euro wechseln].",
+     "en": "I'd like to change money into euros."
+    }
+   ]
+  },
+  {
+   "id": "f-f653862afa",
+   "band": 2,
+   "theme": "post",
+   "frame": "Ich möchte ___ schicken.",
+   "rule": "At the post office.",
+   "sentences": [
+    {
+     "id": "de-a6b241c92a",
+     "de": "Ich möchte [ein Paket] schicken.",
+     "en": "I'd like to send a parcel."
+    },
+    {
+     "id": "de-550a0cb3fe",
+     "de": "Ich möchte [einen Brief] nach Ägypten schicken.",
+     "en": "I'd like to send a letter to Egypt."
+    },
+    {
+     "id": "de-8e75f37eda",
+     "de": "Ich brauche [eine Briefmarke].",
+     "en": "I need a stamp."
+    },
+    {
+     "id": "de-6a7cf1b1a2",
+     "de": "Wie lange [braucht] der Brief?",
+     "en": "How long does the letter take?"
+    }
+   ]
+  },
+  {
+   "id": "f-8757799fbf",
+   "band": 2,
+   "theme": "office",
+   "frame": "Ich brauche ___.",
+   "rule": "Official matters.",
+   "sentences": [
+    {
+     "id": "de-5e62454ba6",
+     "de": "Ich brauche [ein Formular].",
+     "en": "I need a form."
+    },
+    {
+     "id": "de-217fa848b3",
+     "de": "Ich muss [mich anmelden].",
+     "en": "I have to register."
+    },
+    {
+     "id": "de-93d4e708de",
+     "de": "Ich habe [einen Termin] beim Amt.",
+     "en": "I have an appointment at the authorities' office."
+    },
+    {
+     "id": "de-d0f4cbe52e",
+     "de": "Welche [Unterlagen] brauche ich?",
+     "en": "Which documents do I need?"
+    }
+   ]
+  },
+  {
+   "id": "f-abe2d2fd83",
+   "band": 2,
+   "theme": "office",
+   "frame": "Mein ___ ist …",
+   "rule": "Personal details.",
+   "sentences": [
+    {
+     "id": "de-8ec4c33ca7",
+     "de": "Mein [Nachname] ist Hassan.",
+     "en": "My surname is Hassan."
+    },
+    {
+     "id": "de-a84b5e85b0",
+     "de": "Mein [Vorname] ist Omar.",
+     "en": "My first name is Omar."
+    },
+    {
+     "id": "de-786d79773a",
+     "de": "Meine [Adresse] ist Gartenstraße zwölf.",
+     "en": "My address is Gartenstraße 12."
+    },
+    {
+     "id": "de-6eaf349d16",
+     "de": "Ich bin [am fünften Mai] geboren.",
+     "en": "I was born on the fifth of May."
+    }
+   ]
+  },
+  {
+   "id": "f-953f76beb2",
+   "band": 2,
+   "theme": "internet",
+   "frame": "Ich habe ___.",
+   "rule": "Technology.",
+   "sentences": [
+    {
+     "id": "de-03dc68fbe2",
+     "de": "Ich habe [kein Internet].",
+     "en": "I don't have internet."
+    },
+    {
+     "id": "de-080b860f57",
+     "de": "Mein Handy [ist leer].",
+     "en": "My phone battery is dead."
+    },
+    {
+     "id": "de-438508da07",
+     "de": "Ich habe [eine neue Nummer].",
+     "en": "I have a new number."
+    },
+    {
+     "id": "de-035819e7ef",
+     "de": "Mein Computer [ist kaputt].",
+     "en": "My computer is broken."
+    }
+   ]
+  },
+  {
+   "id": "f-db388e733f",
+   "band": 2,
+   "theme": "internet",
+   "frame": "Kannst du mir ___ schicken?",
+   "rule": "Messages and links.",
+   "sentences": [
+    {
+     "id": "de-bb064799f2",
+     "de": "Kannst du mir [den Link] schicken?",
+     "en": "Can you send me the link?"
+    },
+    {
+     "id": "de-6978b960bc",
+     "de": "Kannst du mir [deine Adresse] schicken?",
+     "en": "Can you send me your address?"
+    },
+    {
+     "id": "de-2d1ce8928c",
+     "de": "Ich schreibe dir [bei WhatsApp].",
+     "en": "I'll message you on WhatsApp."
+    },
+    {
+     "id": "de-1a98c76761",
+     "de": "Ich habe [deine Nachricht] bekommen.",
+     "en": "I got your message."
+    }
+   ]
+  },
+  {
+   "id": "f-8c40c2017e",
+   "band": 2,
+   "theme": "nature",
+   "frame": "Ich sehe ___.",
+   "rule": "Nature.",
+   "sentences": [
+    {
+     "id": "de-b45bc77df5",
+     "de": "Ich sehe [einen Vogel].",
+     "en": "I can see a bird."
+    },
+    {
+     "id": "de-c475cb67e1",
+     "de": "Ich sehe [das Meer].",
+     "en": "I can see the sea."
+    },
+    {
+     "id": "de-14cd7d2d00",
+     "de": "Ich sehe [die Berge].",
+     "en": "I can see the mountains."
+    },
+    {
+     "id": "de-7537a39be5",
+     "de": "Ich sehe [einen See].",
+     "en": "I can see a lake."
+    }
+   ]
+  },
+  {
+   "id": "f-575dca6601",
+   "band": 2,
+   "theme": "nature",
+   "frame": "Hast du ___?",
+   "rule": "Pets.",
+   "sentences": [
+    {
+     "id": "de-bf6a0cd4e3",
+     "de": "Hast du [ein Haustier]?",
+     "en": "Do you have a pet?"
+    },
+    {
+     "id": "de-df690df82a",
+     "de": "Wir haben [zwei Hasen].",
+     "en": "We have two rabbits."
+    },
+    {
+     "id": "de-d97d4e5610",
+     "de": "Unsere Katze [heißt] Mia.",
+     "en": "Our cat is called Mia."
+    },
+    {
+     "id": "de-bd0933ea93",
+     "de": "Der Hund [bellt] laut.",
+     "en": "The dog barks loudly."
+    }
+   ]
+  },
+  {
+   "id": "f-a6bce683a6",
+   "band": 2,
+   "theme": "travel",
+   "frame": "Ich mache Urlaub ___.",
+   "rule": "Holidays.",
+   "sentences": [
+    {
+     "id": "de-39d6c0c701",
+     "de": "Ich mache Urlaub [in Spanien].",
+     "en": "I'm going on holiday to Spain."
+    },
+    {
+     "id": "de-74da2c9dfa",
+     "de": "Ich fahre [in die Berge].",
+     "en": "I'm going to the mountains."
+    },
+    {
+     "id": "de-d5246483dd",
+     "de": "Ich fahre [ans Meer].",
+     "en": "I'm going to the seaside."
+    },
+    {
+     "id": "de-e6bf1abc32",
+     "de": "Ich besuche [meine Familie].",
+     "en": "I'm visiting my family."
+    }
+   ]
+  },
+  {
+   "id": "f-d70c2d43d3",
+   "band": 2,
+   "theme": "travel",
+   "frame": "Ich brauche ___.",
+   "rule": "Packing.",
+   "sentences": [
+    {
+     "id": "de-5684e13f5a",
+     "de": "Ich brauche [meinen Koffer].",
+     "en": "I need my suitcase."
+    },
+    {
+     "id": "de-8e6a8d6b96",
+     "de": "Ich brauche [ein Visum].",
+     "en": "I need a visa."
+    },
+    {
+     "id": "de-567a58a8e1",
+     "de": "Hast du [die Tickets]?",
+     "en": "Have you got the tickets?"
+    },
+    {
+     "id": "de-6afb817992",
+     "de": "Vergiss [den Pass] nicht!",
+     "en": "Don't forget the passport!"
+    }
+   ]
+  },
+  {
+   "id": "f-3d07a047d3",
+   "band": 2,
+   "theme": "travel",
+   "frame": "Wie ist ___?",
+   "rule": "Talking about a place.",
+   "sentences": [
+    {
+     "id": "de-5e43348931",
+     "de": "Wie ist [das Wetter] dort?",
+     "en": "What's the weather like there?"
+    },
+    {
+     "id": "de-b474755087",
+     "de": "Wie ist [das Hotel]?",
+     "en": "What's the hotel like?"
+    },
+    {
+     "id": "de-379be78357",
+     "de": "Wie ist [das Essen]?",
+     "en": "What's the food like?"
+    },
+    {
+     "id": "de-2a4f488d2a",
+     "de": "Wie sind [die Leute]?",
+     "en": "What are the people like?"
+    }
+   ]
+  },
+  {
+   "id": "f-6e4973d71a",
+   "band": 2,
+   "theme": "cafe",
+   "frame": "Für mich ___.",
+   "rule": "Ordering for yourself.",
+   "sentences": [
+    {
+     "id": "de-4285e31718",
+     "de": "Für mich [ein Wasser], bitte.",
+     "en": "A water for me, please."
+    },
+    {
+     "id": "de-048dd06c5d",
+     "de": "Für mich [das Gleiche].",
+     "en": "The same for me."
+    },
+    {
+     "id": "de-afd81c862b",
+     "de": "Für mich [nichts], danke.",
+     "en": "Nothing for me, thanks."
+    },
+    {
+     "id": "de-a753097582",
+     "de": "Ich nehme [den Fisch].",
+     "en": "I'll have the fish."
+    }
+   ]
+  },
+  {
+   "id": "f-a1f5d093f0",
+   "band": 2,
+   "theme": "cafe",
+   "frame": "Ist ___ frei?",
+   "rule": "In a café.",
+   "sentences": [
+    {
+     "id": "de-7ffbd1658d",
+     "de": "Ist [der Platz] frei?",
+     "en": "Is this seat free?"
+    },
+    {
+     "id": "de-fcede7544f",
+     "de": "Ist [hier noch frei]?",
+     "en": "Is anyone sitting here?"
+    },
+    {
+     "id": "de-9f0dbcdb5c",
+     "de": "Wir sind [zu viert].",
+     "en": "There are four of us."
+    },
+    {
+     "id": "de-c583627d4a",
+     "de": "Haben Sie [einen Tisch] für zwei?",
+     "en": "Do you have a table for two?"
+    }
+   ]
+  },
+  {
+   "id": "f-93760ab679",
+   "band": 2,
+   "theme": "cafe",
+   "frame": "Ich bin ___.",
+   "rule": "Dietary needs.",
+   "sentences": [
+    {
+     "id": "de-c8b2b08864",
+     "de": "Ich bin [allergisch gegen Nüsse].",
+     "en": "I'm allergic to nuts."
+    },
+    {
+     "id": "de-98caedf190",
+     "de": "Ich esse [kein Schweinefleisch].",
+     "en": "I don't eat pork."
+    },
+    {
+     "id": "de-f4e9787e06",
+     "de": "Ist das [ohne Fleisch]?",
+     "en": "Is that without meat?"
+    },
+    {
+     "id": "de-7c550e83f2",
+     "de": "Ist das [scharf]?",
+     "en": "Is that spicy?"
+    }
+   ]
+  },
+  {
+   "id": "f-ac1a8a470e",
+   "band": 2,
+   "theme": "courtesy",
+   "frame": "Entschuldigung, ___?",
+   "rule": "Polite interruptions.",
+   "sentences": [
+    {
+     "id": "de-07c3b4d6fd",
+     "de": "Entschuldigung, [wie spät ist es]?",
+     "en": "Excuse me, what time is it?"
+    },
+    {
+     "id": "de-689a75db62",
+     "de": "Entschuldigung, [ist das Ihr Platz]?",
+     "en": "Excuse me, is this your seat?"
+    },
+    {
+     "id": "de-af52932d18",
+     "de": "Entschuldigung, [darf ich vorbei]?",
+     "en": "Excuse me, may I get past?"
+    },
+    {
+     "id": "de-3c2f834724",
+     "de": "Entschuldigung, [sprechen Sie Englisch]?",
+     "en": "Excuse me, do you speak English?"
+    }
+   ]
+  },
+  {
+   "id": "f-9cdad14005",
+   "band": 2,
+   "theme": "courtesy",
+   "frame": "Das ist ___ von dir.",
+   "rule": "Thanking for kindness.",
+   "sentences": [
+    {
+     "id": "de-015d6ee572",
+     "de": "Das ist [nett] von dir.",
+     "en": "That's kind of you."
+    },
+    {
+     "id": "de-d49d779a16",
+     "de": "Das ist [sehr lieb] von dir.",
+     "en": "That's very sweet of you."
+    },
+    {
+     "id": "de-f7e2895d22",
+     "de": "[Danke für alles]!",
+     "en": "Thanks for everything!"
+    },
+    {
+     "id": "de-647f8587b3",
+     "de": "[Danke, gleichfalls]!",
+     "en": "Thanks, you too!"
+    }
+   ]
+  },
+  {
+   "id": "f-44c46f47de",
+   "band": 2,
+   "theme": "courtesy",
+   "frame": "Sie ___ gut aus.",
+   "rule": "Compliments.",
+   "sentences": [
+    {
+     "id": "de-8bfdf06f7b",
+     "de": "Du [siehst gut aus].",
+     "en": "You look good."
+    },
+    {
+     "id": "de-0da3ad086b",
+     "de": "Das Kleid [steht dir].",
+     "en": "The dress suits you."
+    },
+    {
+     "id": "de-c02cc08940",
+     "de": "Du [sprichst gut] Deutsch!",
+     "en": "You speak German well!"
+    },
+    {
+     "id": "de-c009db28ee",
+     "de": "[Toll gemacht]!",
+     "en": "Well done!"
+    }
+   ]
+  },
+  {
+   "id": "f-fe2d73eac0",
+   "band": 2,
+   "theme": "numbers",
+   "frame": "Das kostet ___.",
+   "rule": "Bigger numbers.",
+   "sentences": [
+    {
+     "id": "de-04a76a8e6a",
+     "de": "Das kostet [dreißig] Euro.",
+     "en": "That costs thirty euros."
+    },
+    {
+     "id": "de-91821d518b",
+     "de": "Das kostet [fünfzig] Euro.",
+     "en": "That costs fifty euros."
+    },
+    {
+     "id": "de-90aa7bf484",
+     "de": "Das kostet [neunundneunzig] Cent.",
+     "en": "That costs ninety-nine cents."
+    },
+    {
+     "id": "de-c02781a2ac",
+     "de": "Das kostet [tausend] Euro.",
+     "en": "That costs a thousand euros."
+    }
+   ]
+  },
+  {
+   "id": "f-09b01d0f9c",
+   "band": 2,
+   "theme": "numbers",
+   "frame": "Ich bin ___ geboren.",
+   "rule": "Years: neunzehnhundert…, zweitausend…",
+   "sentences": [
+    {
+     "id": "de-4d8574b109",
+     "de": "Ich bin [neunzehnhundertneunzig] geboren.",
+     "en": "I was born in 1990."
+    },
+    {
+     "id": "de-0aa55c7bd7",
+     "de": "Ich bin [zweitausendeins] geboren.",
+     "en": "I was born in 2001."
+    },
+    {
+     "id": "de-86f9aec1bf",
+     "de": "Wir haben [zweitausendsechsundzwanzig].",
+     "en": "It's 2026."
+    },
+    {
+     "id": "de-055582b9ff",
+     "de": "Das Haus ist [hundert Jahre] alt.",
+     "en": "The house is a hundred years old."
+    }
+   ]
+  }
+ ]
+}

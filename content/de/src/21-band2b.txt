@@ -1,0 +1,389 @@
+// Band 2 · Foundations (A1), continued: home, people, possessives, plurals, clothes, body,
+// meals, seasons, dates, imperative, pronouns, work and school.
+## band 2
+
+# home | Ich wohne in ___. | in einer Wohnung (die), in einem Haus (das).
+Ich wohne in [einer Wohnung]. | I live in a flat.
+Ich wohne in [einem Haus]. | I live in a house.
+Ich wohne [im dritten Stock]. | I live on the third floor.
+Ich wohne [in der Stadt]. | I live in the city.
+Wir wohnen [auf dem Land]. | We live in the countryside.
+
+# home | Die Wohnung hat ___. | Describing a flat.
+Die Wohnung hat [drei Zimmer]. | The flat has three rooms.
+Die Wohnung hat [einen Balkon]. | The flat has a balcony.
+Die Wohnung hat [eine große Küche]. | The flat has a big kitchen.
+Die Wohnung hat [kein Bad]. | The flat has no bathroom.
+
+# home | Das ist ___. | Rooms of a home.
+Das ist [das Wohnzimmer]. | This is the living room.
+Das ist [das Schlafzimmer]. | This is the bedroom.
+Das ist [die Küche]. | This is the kitchen.
+Das ist [das Badezimmer]. | This is the bathroom.
+Das ist [mein Zimmer]. | This is my room.
+
+# home | Die Wohnung ist ___. | Describing with ist + describing word.
+Die Wohnung ist [hell]. | The flat is bright.
+Die Wohnung ist [dunkel]. | The flat is dark.
+Die Wohnung ist [ruhig]. | The flat is quiet.
+Die Wohnung ist [laut]. | The flat is noisy.
+Die Miete ist [hoch]. | The rent is high.
+
+# home | Wir brauchen ___. | Furniture: der Tisch, die Lampe, das Sofa.
+Wir brauchen [einen Tisch]. | We need a table.
+Wir brauchen [eine Lampe]. | We need a lamp.
+Wir brauchen [ein Sofa]. | We need a sofa.
+Wir brauchen [neue Stühle]. | We need new chairs.
+
+# home | Wo ist ___? | Things at home.
+Wo ist [die Fernbedienung]? | Where is the remote control?
+Wo ist [mein Handy]? | Where is my phone?
+Wo sind [meine Schlüssel]? | Where are my keys?
+Wo ist [das Ladegerät]? | Where is the charger?
+
+# home | Kannst du bitte ___? | Chores and requests at home.
+Kannst du bitte [den Müll rausbringen]? | Can you take out the rubbish, please?
+Kannst du bitte [das Licht ausmachen]? | Can you turn off the light, please?
+Kannst du bitte [die Tür zumachen]? | Can you close the door, please?
+Kannst du bitte [abwaschen]? | Can you do the washing-up, please?
+
+# grammar | Das ist mein ___. | mein (der/das), meine (die and plural).
+Das ist [mein] Freund. | This is my friend.
+Das ist [meine] Freundin. | This is my girlfriend.
+Das sind [meine] Eltern. | These are my parents.
+Das ist [mein] Kind. | This is my child.
+
+# grammar | Das ist dein ___? | dein/deine = your (to someone you say du to).
+Ist das [dein] Buch? | Is that your book?
+Ist das [deine] Jacke? | Is that your jacket?
+Wie heißt [deine] Mutter? | What's your mother's name?
+Wo arbeitet [dein] Vater? | Where does your father work?
+
+# grammar | Sein ___ / ihr ___. | sein = his, ihr = her.
+[Sein] Name ist Paul. | His name is Paul.
+[Ihr] Name ist Anna. | Her name is Anna.
+[Seine] Frau ist Ärztin. | His wife is a doctor.
+[Ihr] Mann ist Koch. | Her husband is a cook.
+= [Sein] Auto ist neu. || [Ihr] Auto ist neu. || The word depends on the owner: his car = sein Auto, her car = ihr Auto.
+
+# grammar | Unser ___ / euer ___. | unser = our, euer = your (several people), Ihr = your (polite).
+[Unser] Haus ist klein. | Our house is small.
+[Unsere] Kinder gehen zur Schule. | Our children go to school.
+Ist das [euer] Auto? | Is that your car?
+Ist das [Ihr] Koffer? | Is that your suitcase?
+
+# grammar | Ich habe zwei ___. | Plurals have many endings; learn each with die.
+Ich habe zwei [Kinder]. | I have two children.
+Wir haben drei [Katzen]. | We have three cats.
+Ich brauche zwei [Tassen]. | I need two cups.
+Ich kaufe fünf [Äpfel]. | I'm buying five apples.
+Es gibt vier [Zimmer]. | There are four rooms.
+
+# grammar | Die ___ sind … | In the plural, der, die and das all become die.
+[Die Kinder] sind müde. | The children are tired.
+Die [Bücher] sind neu. | The books are new.
+Die [Tomaten] sind frisch. | The tomatoes are fresh.
+Die [Leute] sind nett. | The people are nice.
+
+# people | Er ist ___. | Describing people.
+Er ist [groß]. | He's tall.
+Sie ist [klein]. | She's short.
+Er ist [jung]. | He's young.
+Sie ist [sehr freundlich]. | She's very friendly.
+Er ist [lustig]. | He's funny.
+
+# people | Sie hat ___ Haare. | Hair and eyes: Sie hat … Haare, … Augen.
+Sie hat [lange] Haare. | She has long hair.
+Er hat [kurze] Haare. | He has short hair.
+Sie hat [blaue] Augen. | She has blue eyes.
+Er hat [einen Bart]. | He has a beard.
+
+# people | Er trägt ___. | tragen = to wear; du trägst, er trägt.
+Er trägt [eine Brille]. | He wears glasses.
+Sie trägt [ein Kleid]. | She's wearing a dress.
+Er trägt [einen Anzug]. | He's wearing a suit.
+Sie trägt [heute Jeans]. | She's wearing jeans today.
+
+# family | Das ist ___. | Family members.
+Das ist [mein Opa]. | This is my grandad.
+Das ist [meine Oma]. | This is my grandma.
+Das ist [mein Onkel]. | This is my uncle.
+Das ist [meine Tante]. | This is my aunt.
+Das ist [mein Cousin]. | This is my cousin.
+
+# family | Ich bin ___. | Family status.
+Ich bin [ledig]. | I'm single.
+Ich bin [geschieden]. | I'm divorced.
+Ich habe [eine Freundin]. | I have a girlfriend.
+Wir sind [seit fünf Jahren] zusammen. | We've been together for five years.
+
+# family | Mein Sohn ___. | Talking about children.
+Mein Sohn ist [sechs]. | My son is six.
+Meine Tochter geht [in den Kindergarten]. | My daughter goes to nursery.
+Meine Kinder gehen [zur Schule]. | My children go to school.
+Mein Baby ist [drei Monate alt]. | My baby is three months old.
+
+# clothes | Ich suche ___. | Shopping for clothes.
+Ich suche [eine Hose]. | I'm looking for trousers.
+Ich suche [ein T-Shirt]. | I'm looking for a T-shirt.
+Ich suche [einen Mantel]. | I'm looking for a coat.
+Ich suche [Schuhe]. | I'm looking for shoes.
+
+# clothes | Kann ich ___ anprobieren? | anprobieren = to try on.
+Kann ich [das] anprobieren? | Can I try this on?
+[Wo ist] die Umkleidekabine? | Where is the changing room?
+Haben Sie das [in Größe M]? | Do you have this in size M?
+Haben Sie das [in Schwarz]? | Do you have this in black?
+
+# clothes | Die ___ passt. | passen = to fit.
+Die Hose [passt]. | The trousers fit.
+Die Jacke passt [nicht]. | The jacket doesn't fit.
+Die Schuhe sind [zu eng]. | The shoes are too tight.
+Das Kleid ist [zu lang]. | The dress is too long.
+
+# body | Mein ___ tut weh. | … tut weh = … hurts (plural: tun weh).
+Mein [Kopf] tut weh. | My head hurts.
+Mein [Bauch] tut weh. | My stomach hurts.
+Mein [Rücken] tut weh. | My back hurts.
+Meine [Füße] tun weh. | My feet hurt.
+= Mein Kopf [tut] weh. || Meine Füße [tun] weh. || One thing tut weh, several things tun weh.
+
+# body | Ich habe ___. | Common symptoms.
+Ich habe [Husten]. | I have a cough.
+Ich habe [Schnupfen]. | I have a cold.
+Ich habe [Halsschmerzen]. | I have a sore throat.
+Ich habe [eine Erkältung]. | I've got a cold.
+
+# health | Ich brauche einen ___. | At the doctor's.
+Ich brauche [einen Termin]. | I need an appointment.
+Ich brauche [ein Rezept]. | I need a prescription.
+Ich brauche [eine Krankmeldung]. | I need a sick note.
+Ich brauche [Tabletten gegen Kopfschmerzen]. | I need tablets for a headache.
+
+# health | Seit ___ | seit + time = for (and still going on).
+[Seit gestern] habe ich Fieber. | I've had a fever since yesterday.
+Seit [drei Tagen] bin ich krank. | I've been ill for three days.
+Seit [einer Woche] habe ich Husten. | I've had a cough for a week.
+Seit [heute Morgen] tut mein Bauch weh. | My stomach has hurt since this morning.
+
+# meals | Zum Frühstück ___. | Meals: das Frühstück, das Mittagessen, das Abendessen.
+Zum Frühstück esse ich [Müsli]. | For breakfast I have muesli.
+Zum Frühstück trinke ich [Kaffee]. | For breakfast I drink coffee.
+Zum Mittagessen gibt es [Suppe]. | There's soup for lunch.
+Zum Abendessen essen wir [Brot mit Käse]. | For dinner we eat bread and cheese.
+
+# meals | Ich koche ___. | Cooking at home.
+Ich koche [Nudeln]. | I'm cooking pasta.
+Ich koche [Kartoffeln]. | I'm cooking potatoes.
+Ich mache [einen Salat]. | I'm making a salad.
+Ich backe [einen Kuchen]. | I'm baking a cake.
+
+# meals | Möchtest du ___? | Offering food and drink.
+Möchtest du [noch etwas]? | Would you like something else?
+Möchtest du [einen Tee]? | Would you like a tea?
+Möchtest du [probieren]? | Would you like to try it?
+[Nimm doch] noch ein Stück! | Do have another piece!
+
+# meals | Das schmeckt ___. | schmecken = to taste.
+Das schmeckt [gut]. | That tastes good.
+Das schmeckt [super]. | That tastes great.
+Das schmeckt [komisch]. | That tastes strange.
+Das schmeckt [nach Zimt]. | That tastes of cinnamon.
+
+# shopping | Ich brauche ___. | Food shopping list.
+Ich brauche [Eier]. | I need eggs.
+Ich brauche [Butter]. | I need butter.
+Ich brauche [Zwiebeln]. | I need onions.
+Ich brauche [Mehl und Zucker]. | I need flour and sugar.
+
+# shopping | Was kosten ___? | kostet for one thing, kosten for several.
+Was kosten [die Tomaten]? | How much are the tomatoes?
+Was kostet [ein Kilo]? | How much is a kilo?
+Was kostet [die Flasche]? | How much is the bottle?
+Was kosten [die Bananen]? | How much are the bananas?
+
+# shopping | Ich zahle ___. | Paying.
+Ich zahle [mit Karte]. | I'm paying by card.
+Ich zahle [bar]. | I'm paying cash.
+Kann ich [mit dem Handy] zahlen? | Can I pay with my phone?
+Ich brauche [den Kassenbon]. | I need the receipt.
+
+# weather | Es ist ___. | More weather.
+Es ist [windig]. | It's windy.
+Es ist [bewölkt]. | It's cloudy.
+Es ist [heiß]. | It's hot.
+Es ist [nass]. | It's wet.
+
+# weather | Es ___. | Weather verbs with es.
+Es [schneit]. | It's snowing.
+Es [donnert]. | It's thundering.
+Die Sonne [scheint]. | The sun is shining.
+Es [ist neblig]. | It's foggy.
+
+# weather | Im ___ … | im + season or month = in.
+[Im Sommer] ist es warm. | In summer it's warm.
+Im [Winter] ist es kalt. | In winter it's cold.
+Im [Frühling] blühen die Blumen. | In spring the flowers bloom.
+Im [Herbst] regnet es oft. | In autumn it often rains.
+
+# time | Im ___ habe ich Urlaub. | Months: im Januar, im August …
+Im [Januar] habe ich Urlaub. | I'm on holiday in January.
+Im [Juli] fahren wir weg. | In July we're going away.
+Mein Geburtstag ist [im Mai]. | My birthday is in May.
+Im [Dezember] ist Weihnachten. | Christmas is in December.
+
+# time | Heute ist der ___. | Dates: der erste, der zweite, der dritte …
+Heute ist [der erste] März. | Today is the first of March.
+Heute ist der [zwölfte] Juni. | Today is the twelfth of June.
+Mein Geburtstag ist [am dritten] Oktober. | My birthday is on the third of October.
+[Der Wievielte] ist heute? | What's the date today?
+
+# time | ___ Woche | Time words: diese Woche, nächste Woche.
+[Diese Woche] arbeite ich viel. | This week I'm working a lot.
+[Nächste Woche] habe ich Urlaub. | Next week I'm on holiday.
+[Jeden Tag] lerne ich Deutsch. | Every day I learn German.
+[Einmal pro Woche] gehe ich schwimmen. | I go swimming once a week.
+
+# time | Es ist ___. | More clock times.
+Es ist [Viertel vor] acht. | It's quarter to eight.
+Es ist [fünf nach] drei. | It's five past three.
+Es ist [zehn vor] zwölf. | It's ten to twelve.
+Es ist [genau] neun Uhr. | It's exactly nine o'clock.
+
+# grammar | ___ Sie bitte! | Polite commands: verb first, then Sie.
+[Kommen Sie] bitte herein! | Please come in!
+[Warten Sie] bitte hier! | Please wait here!
+[Nehmen Sie] Platz! | Take a seat!
+[Unterschreiben Sie] bitte hier! | Please sign here!
+[Füllen Sie] bitte das Formular aus! | Please fill in the form!
+
+# grammar | Kennst du ___? | Accusative pronouns: mich, dich, ihn, sie, es, uns, euch.
+Kennst du [ihn]? | Do you know him?
+Ich kenne [sie] nicht. | I don't know her.
+Ich liebe [dich]. | I love you.
+Besuchst du [uns]? | Will you visit us?
+= [Er] ist nett. || Ich mag [ihn]. || er becomes ihn when he is the one you like or see.
+
+# grammar | Das ist für ___. | für + accusative: für mich, für dich, für ihn.
+Das ist [für dich]. | This is for you.
+Ist das [für mich]? | Is this for me?
+Ich kaufe das [für meinen Vater]. | I'm buying this for my father.
+Wir haben [ein Geschenk] für dich. | We have a present for you.
+
+# grammar | ___ ohne ___. | ohne = without (+ accusative).
+Ich trinke Kaffee [ohne Milch]. | I drink coffee without milk.
+Ich gehe [nicht ohne dich]. | I'm not going without you.
+[Ohne Brille] sehe ich nichts. | Without glasses I can't see anything.
+Ein Zimmer [ohne Frühstück], bitte. | A room without breakfast, please.
+
+# grammar | Es gibt ___. | Es gibt + accusative: es gibt einen Park.
+Hier gibt es [einen Park]. | There's a park here.
+Es gibt [viele Restaurants]. | There are lots of restaurants.
+Gibt es [hier eine Toilette]? | Is there a toilet here?
+Es gibt [keinen Bus] mehr. | There are no more buses.
+
+# work | Ich bin ___. | Jobs: no “a” in German. Female forms often end in -in.
+Ich bin [Krankenpfleger]. | I'm a nurse. | Ich bin Krankenpflegerin.
+Ich bin [Verkäuferin]. | I'm a shop assistant. | Ich bin Verkäufer.
+Er ist [Arzt]. | He's a doctor.
+Sie ist [Lehrerin]. | She's a teacher.
+Ich bin [arbeitslos]. | I'm unemployed.
+
+# work | Ich arbeite ___. | Where and how you work.
+Ich arbeite [bei Siemens]. | I work at Siemens.
+Ich arbeite [in einem Restaurant]. | I work in a restaurant.
+Ich arbeite [Teilzeit]. | I work part-time.
+Ich arbeite [von neun bis fünf]. | I work from nine to five.
+
+# work | Ich habe heute ___. | Work days.
+Ich habe heute [frei]. | I have the day off today.
+Ich habe heute [viel zu tun]. | I have a lot to do today.
+Ich habe heute [eine Besprechung]. | I have a meeting today.
+Ich habe heute [Spätschicht]. | I'm on the late shift today.
+
+# school | Ich gehe ___. | Education.
+Ich gehe [zur Schule]. | I go to school.
+Ich studiere [Informatik]. | I study computer science.
+Ich mache [einen Deutschkurs]. | I'm doing a German course.
+Ich gehe [zur Uni]. | I go to university.
+
+# school | Wie ___ man …? | Classroom language.
+Wie [spricht man] das aus? | How do you pronounce that?
+Was ist [das Gegenteil] von „groß“? | What's the opposite of “big”?
+Können Sie das [bitte wiederholen]? | Could you repeat that, please?
+Ich habe [eine Frage] zu Seite zehn. | I have a question about page ten.
+
+# school | - | -
+Ich mache [meine Hausaufgaben]. | I'm doing my homework.
+Morgen habe ich [eine Prüfung]. | Tomorrow I have an exam.
+Ich lerne [für den Test]. | I'm studying for the test.
+Die Prüfung ist [schwer]. | The exam is hard.
+
+# phone | ___ am Telefon. | Phone calls.
+[Hallo, hier ist] Lena. | Hello, it's Lena.
+Kann ich [mit Herrn Weber] sprechen? | Can I speak to Mr Weber?
+Er ist [gerade nicht da]. | He's not here right now.
+Ich [rufe später] noch mal an. | I'll call back later.
+
+# phone | Können Sie ___? | On the phone.
+Können Sie [etwas lauter] sprechen? | Can you speak a bit louder?
+Die Verbindung ist [schlecht]. | The connection is bad.
+Ich [höre Sie] nicht. | I can't hear you.
+Ich [schreibe dir] eine Nachricht. | I'll send you a message.
+
+# plans | Hast du Lust auf ___? | Lust haben auf = to feel like.
+Hast du Lust auf [Kino]? | Do you fancy the cinema?
+Hast du Lust auf [einen Kaffee]? | Do you fancy a coffee?
+Ich habe [keine Lust]. | I don't feel like it.
+Ich habe [große Lust]! | I'd really like to!
+
+# plans | Treffen wir uns ___? | Arranging to meet.
+Treffen wir uns [um sechs]? | Shall we meet at six?
+Treffen wir uns [vor dem Kino]? | Shall we meet in front of the cinema?
+[Wo treffen wir uns]? | Where shall we meet?
+[Passt dir] Freitag? | Does Friday suit you?
+
+# plans | Das geht ___. | Saying yes or no.
+Das geht [leider nicht]. | Unfortunately that's not possible.
+[Das passt] gut. | That works well.
+[Gute Idee]! | Good idea!
+Ich [kann leider nicht]. | Unfortunately I can't.
+Vielleicht [ein anderes Mal]. | Maybe another time.
+
+# plans | Ich lade dich ___ ein. | einladen = to invite; also: to treat.
+Ich [lade] dich zum Essen [ein]. | I'm inviting you to dinner.
+Ich lade dich [zu meiner Party] ein. | I'm inviting you to my party.
+[Danke für die Einladung]! | Thanks for the invitation!
+Heute [lade ich dich ein]. | Today it's my treat.
+
+# transport | Ich fahre mit ___. | mit + dem/der: mit dem Bus, mit der Bahn.
+Ich fahre [mit dem Auto]. | I'm going by car.
+Ich fahre [mit der Bahn]. | I'm going by train.
+Ich fahre [mit dem Fahrrad]. | I'm going by bike.
+Ich fliege [mit Lufthansa]. | I'm flying with Lufthansa.
+
+# transport | Der Zug hat ___. | Delays and changes.
+Der Zug hat [Verspätung]. | The train is delayed.
+Der Bus [kommt nicht]. | The bus isn't coming.
+Der Zug [fällt aus]. | The train is cancelled.
+Ich muss [umsteigen]. | I have to change trains.
+
+# transport | Wie lange ___? | Travel times.
+Wie lange [dauert die Fahrt]? | How long is the journey?
+Die Fahrt dauert [zwei Stunden]. | The journey takes two hours.
+Es sind [zehn Minuten] zu Fuß. | It's ten minutes on foot.
+Wir sind [gleich da]. | We're nearly there.
+
+# courtesy | ___! | Wishes for occasions.
+[Herzlichen Glückwunsch]! | Congratulations!
+[Alles Gute zum Geburtstag]! | Happy birthday!
+[Gute Besserung]! | Get well soon!
+[Viel Glück]! | Good luck!
+[Schönes Wochenende]! | Have a nice weekend!
+
+# courtesy | ___! | More wishes.
+[Frohe Weihnachten]! | Merry Christmas!
+[Gutes neues Jahr]! | Happy New Year!
+[Guten Appetit]! | Enjoy your meal!
+[Prost]! | Cheers!
+[Gute Reise]! | Have a good trip!

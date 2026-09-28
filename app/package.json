@@ -6,12 +6,13 @@
   "scripts": {
     "predev": "node scripts/tokens-css.mjs",
     "dev": "vite",
-    "build": "node scripts/tokens-css.mjs && tsc --noEmit && vite build",
+    "build": "node scripts/compile-content.mjs && node scripts/tokens-css.mjs && tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "typecheck": "node scripts/tokens-css.mjs && tsc --noEmit",
-    "content:check": "node scripts/check-content.mjs",
-    "build:artifact": "node scripts/build-artifact.mjs"
+    "content:check": "node scripts/compile-content.mjs && node scripts/check-content.mjs",
+    "build:artifact": "node scripts/build-artifact.mjs",
+    "content:build": "node scripts/compile-content.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

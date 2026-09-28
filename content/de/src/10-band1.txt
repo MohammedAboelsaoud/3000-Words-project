@@ -1,0 +1,274 @@
+// Band 1 · Survival (sentences 1–300): greetings, repair, self, café, prices, directions.
+## band 1
+
+# courtesy | Guten ___! | Guten + time of day = a greeting.
+= Guten [Abend]! || Gute [Nacht]! || Nacht is a die-word: gute, not guten. And it means goodbye, not hello.
+Guten [Morgen]! | Good morning!
+Guten [Tag]! | Hello! (daytime, polite)
+Guten [Abend]! | Good evening!
+
+# courtesy | - | -
+[Hallo]! | Hi!
+[Tschüss]! | Bye! | Tschüs!
+[Auf Wiedersehen]! | Goodbye! (polite)
+[Schönen Tag noch]! | Have a nice day!
+
+# courtesy | - | -
+[Danke]! | Thanks!
+Danke [schön]! | Thank you very much!
+[Vielen] Dank! | Many thanks!
+[Bitte] schön. | You're welcome.
+[Gern geschehen]. | My pleasure.
+
+# courtesy | - | -
+[Entschuldigung]! | Excuse me! / Sorry!
+[Es tut mir leid]. | I'm sorry.
+[Kein Problem]. | No problem.
+[Macht nichts]. | Never mind.
+
+# repair | - | -
+[Wie bitte]? | Sorry? (I didn't catch that)
+[Ich verstehe das nicht]. | I don't understand that.
+[Noch einmal], bitte. | Once more, please. | Nochmal, bitte.
+[Langsamer], bitte. | Slower, please.
+
+# courtesy | - | -
+[Ja]. | Yes.
+[Nein]. | No.
+[Vielleicht]. | Maybe.
+[Natürlich]. | Of course.
+[Genau]. | Exactly.
+
+# courtesy | Wie geht's? — ___ | Wie geht's? is the everyday “How are you?”
+Wie [geht's]? | How are you? | Wie geht es?
+[Gut], danke. | Good, thanks.
+[Und dir]? | And you?
+[Nicht so gut]. | Not so good.
+[Es geht]. | So-so.
+
+# self | Ich bin ___. | Ich bin ___ = I am ___. No “a” before a job: Ich bin Student.
+= Ich bin müde. || [Bist du] müde? || A yes/no question starts with the verb.
+Ich [bin] müde. | I'm tired.
+Ich bin [Student]. | I'm a student. | Ich bin Studentin.
+Ich bin [aus Ägypten]. | I'm from Egypt.
+Ich bin [hier]. | I'm here.
+
+# self | Wie ___ du/Sie? | heißen = to be called. du heißt, Sie heißen (polite).
+= Wie heißt [du]? || Wie heißen [Sie]? || Sie is the polite “you”, and the verb ending changes with it.
+Ich [heiße] Lena. | My name is Lena.
+Wie heißt [du]? | What's your name?
+Wie heißen [Sie]? | What's your name? (polite)
+[Freut mich]. | Nice to meet you.
+
+# self | Ich komme aus ___. | aus + place = from. Woher = where from.
+= Woher kommst [du]? || Woher kommen [Sie]? || du → kommst, Sie → kommen.
+[Woher] kommst du? | Where are you from?
+Ich komme [aus Deutschland]. | I'm from Germany.
+Ich komme aus [Kairo]. | I'm from Cairo.
+Woher kommen [Sie]? | Where are you from? (polite)
+
+# courtesy | Bis ___! | Bis + a time = see you then.
+Bis [morgen]! | See you tomorrow!
+Bis [später]! | See you later!
+Bis [Montag]! | See you on Monday!
+Bis [bald]! | See you soon!
+
+# opinion | Das ist ___. | Das ist + a describing word = That's ___.
+= Das ist [gut]. || Das ist [nicht] gut. || nicht goes before the describing word.
+Das ist [gut]. | That's good.
+Das ist [richtig]. | That's right.
+Das ist [falsch]. | That's wrong.
+Das ist [lecker]. | That's delicious.
+Das ist [schön]. | That's nice.
+
+# repair | - | -
+Ich weiß [nicht]. | I don't know. | Ich weiß es nicht.
+[Keine Ahnung]. | No idea.
+[Moment], bitte. | One moment, please.
+Ich weiß [es]. | I know.
+
+# self | Ich spreche ___. | sprechen = to speak. Sprechen Sie ___? asks politely.
+= Ich spreche Englisch. || [Sprechen Sie] Englisch? || The question puts the verb first.
+Ich spreche [ein bisschen] Deutsch. | I speak a little German.
+Ich spreche [Englisch]. | I speak English.
+Ich spreche [Arabisch]. | I speak Arabic.
+[Sprechen Sie] Englisch? | Do you speak English?
+
+# cafe | Ich hätte gern ___. | Ich hätte gern + a thing = the polite “I'd like”.
+= Ich hätte gern [einen] Kaffee. || Ich hätte gern [ein] Wasser. || Kaffee is a der-word → einen. Wasser is a das-word → ein.
+Ich hätte gern [einen Kaffee]. | I'd like a coffee. | Ich hätte gerne einen Kaffee.
+Ich hätte gern [ein Wasser]. | I'd like a water. | Ich hätte gerne ein Wasser.
+Ich hätte gern [einen Tee]. | I'd like a tea. | Ich hätte gerne einen Tee.
+Ich hätte gern [die Rechnung]. | I'd like the bill. | Ich hätte gerne die Rechnung.
+
+# cafe | Ich möchte ___. | möchte = would like. A second verb goes to the very end.
+= Ich möchte einen Kaffee. || Ich möchte einen Kaffee [trinken]. || Add a second verb and it goes to the end.
+Ich [möchte] bezahlen. | I'd like to pay.
+Ich möchte [ein Bier]. | I'd like a beer.
+Ich möchte [bestellen]. | I'd like to order.
+Ich möchte einen Kaffee [trinken]. | I'd like to drink a coffee.
+
+# cafe | ___, bitte. | Thing + bitte is enough to order.
+[Zwei Kaffee], bitte. | Two coffees, please.
+[Mit Milch], bitte. | With milk, please.
+[Ohne Zucker], bitte. | Without sugar, please.
+[Zum Mitnehmen], bitte. | To go, please.
+
+# cafe | Haben Sie ___? | Haben Sie ___? = Do you have ___? The verb comes first.
+[Haben Sie] Wasser? | Do you have water?
+Haben Sie [einen Tisch] frei? | Do you have a free table?
+Haben Sie [WLAN]? | Do you have Wi-Fi?
+Haben Sie [Kuchen]? | Do you have cake?
+
+# prices | Das kostet ___ Euro. | kosten = to cost.
+Das [kostet] zwei Euro. | That costs two euros.
+Das kostet [drei] Euro. | That costs three euros.
+Das kostet [fünf] Euro. | That costs five euros.
+Das kostet [zehn] Euro. | That costs ten euros.
+
+# prices | - | -
+[Was kostet] das? | How much is that?
+[Wie viel] kostet der Kaffee? | How much is the coffee?
+Das ist [teuer]. | That's expensive.
+Das ist [billig]. | That's cheap.
+
+# cafe | Kann ich ___? | Kann ich + … + verb at the end = Can I …?
+= Kann ich [mit Karte] zahlen? || Kann ich [bar] zahlen? || Only the way of paying changes; zahlen stays at the end.
+[Kann ich] mit Karte zahlen? | Can I pay by card?
+Kann ich [bar] zahlen? | Can I pay cash?
+Kann ich [hier sitzen]? | Can I sit here?
+Kann ich [helfen]? | Can I help?
+
+# directions | Wo ist ___? | Wo ist ___? Learn each noun with der, die or das.
+[Wo ist] der Bahnhof? | Where is the train station?
+Wo ist [die Toilette]? | Where is the toilet?
+Wo ist [das Hotel]? | Where is the hotel?
+Wo ist [die Haltestelle]? | Where is the stop?
+
+# directions | Ich suche ___. | After suche, der becomes den. die and das stay the same.
+= Wo ist [der] Bahnhof? || Ich suche [den] Bahnhof. || der → den after suche. die and das don't change.
+Ich [suche] den Bahnhof. | I'm looking for the train station.
+Ich suche [eine Apotheke]. | I'm looking for a pharmacy.
+Ich suche [ein Hotel]. | I'm looking for a hotel.
+Ich suche [die U-Bahn]. | I'm looking for the underground.
+
+# directions | Gehen Sie ___. | Gehen Sie ___. = Go ___. (polite instruction)
+Gehen Sie [geradeaus]. | Go straight ahead.
+Gehen Sie [nach links]. | Go left.
+Gehen Sie [nach rechts]. | Go right.
+
+# directions | - | -
+Ist das [weit]? | Is it far?
+Das ist [nicht weit]. | It's not far.
+Das ist [ganz nah]. | It's very close.
+Das ist [da drüben]. | It's over there.
+
+# time | Es ist ___. | halb + next hour: halb vier = 3:30.
+= Es ist [drei] Uhr. || Es ist [halb vier]. || halb vier is half TO four: 3:30.
+[Wie spät] ist es? | What time is it?
+Es ist [drei Uhr]. | It's three o'clock.
+Es ist [halb vier]. | It's half past three.
+Es ist [Viertel nach] zwei. | It's quarter past two.
+
+# self | Ich habe ___. | German “has” hunger and thirst: Ich habe Hunger = I'm hungry.
+= Ich [bin] müde. || Ich [habe] Hunger. || Tired uses bin; hungry and thirsty use habe.
+Ich habe [Hunger]. | I'm hungry.
+Ich habe [Durst]. | I'm thirsty.
+Ich habe [keine Zeit]. | I don't have time.
+Ich habe [eine Frage]. | I have a question.
+
+# self | Ich wohne ___. | wohnen = to live (somewhere).
+Ich [wohne] in Berlin. | I live in Berlin.
+Wo [wohnst] du? | Where do you live?
+Ich wohne [allein]. | I live alone.
+
+# self | Das ist mein/meine ___. | mein for der- and das-words, meine for die-words.
+= Das ist [mein] Bruder. || Das ist [meine] Schwester. || Schwester is a die-word → meine.
+Das ist [mein Bruder]. | This is my brother.
+Das ist [meine Schwester]. | This is my sister.
+Das ist [meine Mutter]. | This is my mother.
+Das ist [mein Vater]. | This is my father.
+
+# self | Ich bin ___ Jahre alt. | Age uses bin: Ich bin 20 Jahre alt.
+Wie [alt] bist du? | How old are you?
+Ich bin [zwanzig] Jahre alt. | I'm twenty years old.
+Ich bin [dreißig] Jahre alt. | I'm thirty years old.
+
+# food | Ich ___ gern. | verb + gern = I like doing it.
+= Ich trinke Tee. || Ich trinke [gern] Tee. || gern turns “I drink” into “I like drinking”.
+Ich trinke [gern] Tee. | I like drinking tea. | Ich trinke gerne Tee.
+Ich esse gern [Pizza]. | I like eating pizza. | Ich esse gerne Pizza.
+Ich [lese] gern. | I like reading. | Ich lese gerne.
+Ich [koche] gern. | I like cooking. | Ich koche gerne.
+
+# food | Ich mag ___. | mögen = to like (a thing). kein/keinen = not any.
+= Ich mag Fisch. || Ich mag [keinen] Fisch. || keinen, not nicht, before a noun.
+Ich [mag] Kaffee. | I like coffee.
+Ich mag [Musik]. | I like music.
+Ich mag [keinen] Fisch. | I don't like fish.
+[Magst du] Schokolade? | Do you like chocolate?
+
+# weather | Es ist ___. | Weather uses es: Es ist kalt. Es regnet.
+Es ist [kalt]. | It's cold.
+Es ist [warm]. | It's warm.
+Es [regnet]. | It's raining.
+Es ist [sonnig]. | It's sunny.
+
+# transport | Wann fährt ___? | Wann fährt ___? = When does ___ leave?
+[Wann fährt] der Zug? | When does the train leave?
+Wann fährt [der nächste Bus]? | When does the next bus leave?
+Wann [kommt] der Zug? | When does the train arrive?
+Welches [Gleis]? | Which platform?
+
+# transport | Eine Fahrkarte ___, bitte. | nach + city = to (a place).
+[Eine Fahrkarte] nach München, bitte. | A ticket to Munich, please.
+Eine Fahrkarte [nach Hamburg], bitte. | A ticket to Hamburg, please.
+[Hin und zurück], bitte. | Return, please.
+[Einfach], bitte. | One way, please.
+
+# shopping | - | -
+Ich [nehme] das. | I'll take this.
+Ich nehme [zwei]. | I'll take two.
+Ich [schaue mich nur um]. | I'm just looking.
+[Das ist alles]. | That's all.
+
+# health | Ich brauche ___. | brauchen = to need. der-words take einen: einen Arzt.
+Ich [brauche] einen Arzt. | I need a doctor.
+Ich brauche [Hilfe]. | I need help.
+Ich brauche [ein Taxi]. | I need a taxi.
+Ich brauche [mehr Zeit]. | I need more time.
+
+# health | Ich habe ___. | Pain and fever use habe: Ich habe Fieber.
+Ich habe [Kopfschmerzen]. | I have a headache.
+Ich habe [Bauchschmerzen]. | I have a stomach ache.
+Ich habe [Fieber]. | I have a fever.
+Ich bin [krank]. | I'm ill.
+
+# repair | ___ ist das? | Question words come first: was, wer, wann, warum.
+[Was] ist das? | What's that?
+[Wer] ist das? | Who's that?
+[Wann] beginnt der Film? | When does the film start?
+[Warum] nicht? | Why not?
+
+# plans | Hast du ___ Zeit? | Hast du Zeit? = Are you free?
+Hast du [heute] Zeit? | Are you free today?
+Hast du [morgen] Zeit? | Are you free tomorrow?
+Hast du [heute Abend] Zeit? | Are you free tonight?
+Ich habe [am Wochenende] Zeit. | I'm free at the weekend.
+
+# plans | Ich gehe ___. | gehen = to go (on foot, or in general).
+Ich gehe [nach Hause]. | I'm going home.
+Ich gehe [ins Kino]. | I'm going to the cinema.
+Ich gehe [einkaufen]. | I'm going shopping.
+Ich gehe [zur Arbeit]. | I'm going to work.
+
+# work | Ich arbeite ___. | arbeiten = to work. als + job = as a …
+Ich arbeite [als Ingenieur]. | I work as an engineer. | Ich arbeite als Ingenieurin.
+Ich arbeite [viel]. | I work a lot.
+Ich arbeite [von zu Hause]. | I work from home.
+Was machst du [beruflich]? | What do you do for a living?
+
+# courtesy | Es gibt ___. | Es gibt = there is / there are.
+Es gibt [ein Problem]. | There's a problem.
+Gibt es [hier] ein Café? | Is there a café here?
+Es gibt [keinen Zucker]. | There's no sugar.

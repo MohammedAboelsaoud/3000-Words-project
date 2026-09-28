@@ -1,5 +1,5 @@
 // The content pack: pattern families of German sentences with English glosses.
-import band1 from '../../../content/de/band1.json';
+import pack from '../../../content/de/pack.json';
 
 export interface Sentence {
   id: string;
@@ -56,7 +56,7 @@ export function buildContent(pack: ContentPack): Content {
   return { pack, families: pack.families, familyById, sentenceById, familyOfSentence, orderOf };
 }
 
-export const germanContent: Content = buildContent(band1 as ContentPack);
+export const germanContent: Content = buildContent(pack as ContentPack);
 
 /** Two wrong English options for a 3-way meaning choice: same family first, then neighbouring families. */
 export function distractors(content: Content, sentenceId: string, rand: () => number = Math.random): string[] {

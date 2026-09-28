@@ -1,0 +1,320 @@
+// Band 2 · Foundations (A1): present tense, verb-second order, questions, modal verbs,
+// accusative, separable verbs, daily life.
+## band 2
+
+# grammar | Du ___? | du-forms end in -st: du wohnst, du arbeitest.
+Was [kochst] du heute? | What are you cooking today?
+Was [machst] du? | What are you doing?
+[Arbeitest] du heute? | Are you working today?
+[Lernst] du Deutsch? | Are you learning German?
+= Ich [wohne] hier. || Du [wohnst] hier. || ich → -e, du → -st.
+
+# grammar | Er/Sie ___. | er, sie and es forms end in -t: er wohnt, sie arbeitet.
+Er [wohnt] in Hamburg. | He lives in Hamburg.
+Sie [arbeitet] im Büro. | She works in an office.
+Er [spielt] Fußball. | He plays football.
+Sie [kocht] sehr gut. | She cooks very well.
+
+# grammar | Wir ___. | wir and Sie use the dictionary form: wir wohnen, Sie wohnen.
+Wir [wohnen] zusammen. | We live together.
+Wir [lernen] zusammen Deutsch. | We're learning German together.
+Wir [kommen] aus Syrien. | We're from Syria.
+Wir [spielen] heute Karten. | We're playing cards today.
+
+# grammar | Ihr ___. | ihr = you (several people you know well); ends in -t.
+Wo [wohnt ihr]? | Where do you all live?
+[Kommt ihr] mit? | Are you coming along?
+Was [macht ihr] heute? | What are you doing today?
+[Habt ihr] Hunger? | Are you hungry?
+
+# grammar | sein: bin, bist, ist … | sein (to be) is irregular: ich bin, du bist, er ist, wir sind, ihr seid, sie sind.
+[Bist du] zu Hause? | Are you at home?
+Er [ist] Lehrer. | He's a teacher.
+Wir [sind] Freunde. | We're friends.
+[Seid ihr] fertig? | Are you all ready?
+Sie [sind] sehr nett. | They're very nice.
+
+# grammar | haben: habe, hast, hat … | haben (to have): ich habe, du hast, er hat, wir haben.
+[Hast du] ein Auto? | Do you have a car?
+Sie [hat] zwei Kinder. | She has two children.
+Wir [haben] eine Katze. | We have a cat.
+Er [hat] heute Geburtstag. | It's his birthday today.
+
+# grammar | Heute ___ ich … | The verb is always second: a time word first, then the verb, then ich.
+Heute [gehe ich] ins Kino. | Today I'm going to the cinema.
+Morgen [arbeite ich] nicht. | Tomorrow I'm not working.
+Am Abend [koche ich]. | In the evening I cook.
+Jetzt [habe ich] Zeit. | Now I have time.
+= [Ich gehe] heute ins Kino. || Heute [gehe ich] ins Kino. || Start with the time, and the verb still comes second: ich moves behind it.
+
+# grammar | Am Wochenende ___ wir … | Verb second again, with wir.
+Am Wochenende [fahren wir] ans Meer. | At the weekend we're going to the sea.
+Im Sommer [reisen wir] viel. | In summer we travel a lot.
+Nach dem Essen [trinken wir] Kaffee. | After the meal we drink coffee.
+Danach [gehen wir] spazieren. | After that we go for a walk.
+
+# questions | Wann ___? | Wann = when.
+Wann [kommst du]? | When are you coming?
+Wann [beginnt] der Kurs? | When does the course start?
+Wann [hast du] Zeit? | When are you free?
+Wann [bist du] zu Hause? | When are you at home?
+
+# questions | Wohin ___? | wohin = where to; wo = where (no movement).
+[Wohin] gehst du? | Where are you going?
+Wohin [fährst du] im Urlaub? | Where are you going on holiday?
+Wohin [fliegt ihr]? | Where are you flying to?
+= [Wo] bist du? || [Wohin] gehst du? || wo for where something is, wohin for where it is going.
+
+# questions | Wie viel ___? | Wie viel for amounts, wie viele for things you count.
+Wie viel [Zeit] hast du? | How much time do you have?
+[Wie viele] Kinder hast du? | How many children do you have?
+Wie viele [Leute] kommen? | How many people are coming?
+Wie viel [Geld] brauchst du? | How much money do you need?
+
+# questions | Wie lange ___? | Wie lange = how long.
+[Wie lange] dauert das? | How long does that take?
+Wie lange [bleibst du]? | How long are you staying?
+Wie lange [lernst du] schon Deutsch? | How long have you been learning German?
+Wie lange [ist] die Pause? | How long is the break?
+
+# questions | Wie ___? | Wie + describing word asks for a quality.
+Wie [groß] bist du? | How tall are you?
+Wie [alt] ist dein Sohn? | How old is your son?
+Wie [weit] ist es zum Bahnhof? | How far is it to the station?
+Wie [teuer] ist das Ticket? | How expensive is the ticket?
+
+# questions | Welche ___? | welcher/welche/welches = which.
+[Welche] Farbe magst du? | Which colour do you like?
+Welche [Sprachen] sprichst du? | Which languages do you speak?
+[Welcher] Bus fährt zum Zentrum? | Which bus goes to the centre?
+[Welches] Buch liest du? | Which book are you reading?
+
+# questions | ___ du …? | Yes/no questions start with the verb.
+[Kennst] du Maria? | Do you know Maria?
+[Magst] du Katzen? | Do you like cats?
+[Brauchst] du Hilfe? | Do you need help?
+[Verstehst] du mich? | Do you understand me?
+
+# grammar | Ich kann ___. | können = can. The second verb goes to the end.
+Ich [kann] gut schwimmen. | I can swim well.
+Ich kann [nicht kommen]. | I can't come.
+[Kannst du] mir helfen? | Can you help me?
+Er kann [sehr gut] kochen. | He can cook very well.
+= Ich [schwimme]. || Ich [kann] [schwimmen]. || With können, the other verb moves to the end in its dictionary form.
+
+# grammar | Ich muss ___. | müssen = must, have to.
+Ich [muss] arbeiten. | I have to work.
+Ich muss [jetzt gehen]. | I have to go now.
+[Musst du] morgen arbeiten? | Do you have to work tomorrow?
+Wir müssen [früh aufstehen]. | We have to get up early.
+
+# grammar | Ich will ___. | wollen = want to. ich will, du willst, er will.
+Ich [will] Deutsch lernen. | I want to learn German.
+[Willst du] mitkommen? | Do you want to come along?
+Er will [ein Auto kaufen]. | He wants to buy a car.
+Wir wollen [nach Berlin fahren]. | We want to go to Berlin.
+
+# grammar | Darf ich ___? | dürfen = may, be allowed to.
+[Darf ich] hier rauchen? | May I smoke here?
+Darf ich [das Fenster öffnen]? | May I open the window?
+Hier [darf man] nicht parken. | You're not allowed to park here.
+Darf ich [kurz stören]? | May I interrupt for a moment?
+
+# grammar | Soll ich ___? | sollen = should, be supposed to.
+[Soll ich] das Fenster zumachen? | Shall I close the window?
+Was [soll ich] machen? | What should I do?
+Soll ich [dich abholen]? | Shall I pick you up?
+Du [sollst] den Arzt anrufen. | You're supposed to call the doctor.
+
+# grammar | Ich möchte ___. | möchte + verb at the end = would like to.
+Ich möchte [ein Zimmer buchen]. | I'd like to book a room.
+Ich möchte [einen Termin machen]. | I'd like to make an appointment.
+Ich möchte [etwas fragen]. | I'd like to ask something.
+Ich möchte [nach Hause gehen]. | I'd like to go home.
+
+# grammar | Ich habe ___. | der-words take den/einen after most verbs (accusative).
+Ich habe [einen] Hund. | I have a dog.
+Ich kaufe [den] Tisch. | I'm buying the table.
+Ich sehe [den] Mann. | I see the man.
+Ich brauche [einen] Stift. | I need a pen.
+= [Der] Tisch ist neu. || Ich kaufe [den] Tisch. || As the thing you buy or see, der becomes den.
+
+# grammar | Ich habe kein ___. | kein/keine/keinen = no, not any (before a noun).
+Ich habe [kein] Auto. | I don't have a car.
+Sie hat [keine] Geschwister. | She has no brothers or sisters.
+Ich habe [keinen] Hunger. | I'm not hungry.
+Wir haben [keine] Milch mehr. | We have no milk left.
+
+# grammar | Ich ___ nicht. | nicht negates a verb, describing word or whole idea.
+Ich [komme nicht]. | I'm not coming.
+Das ist [nicht] richtig. | That's not right.
+Ich [weiß es nicht]. | I don't know it.
+Er ist [nicht] zu Hause. | He isn't at home.
+= Ich habe [kein] Auto. || Ich fahre [nicht] Auto. || kein before a noun on its own, nicht for everything else.
+
+# routine | Ich stehe um ___ auf. | aufstehen splits: Ich stehe … auf.
+Ich [stehe] um sieben Uhr [auf]. | I get up at seven o'clock.
+[Wann stehst du auf]? | When do you get up?
+Am Sonntag stehe ich [spät] auf. | On Sunday I get up late.
+Er steht [immer früh] auf. | He always gets up early.
+
+# routine | Ich rufe ___ an. | anrufen splits: Ich rufe dich an.
+Ich [rufe] dich [an]. | I'll call you.
+Ich rufe [meine Mutter] an. | I'm calling my mother.
+[Rufst du] mich morgen an? | Will you call me tomorrow?
+Ich rufe [später] an. | I'll call later.
+
+# routine | Ich kaufe ___ ein. | einkaufen = to do the shopping.
+Ich [kaufe] heute [ein]. | I'm doing the shopping today.
+Wo [kaufst du ein]? | Where do you do your shopping?
+Wir kaufen [am Samstag] ein. | We do the shopping on Saturday.
+Ich muss noch [einkaufen]. | I still have to do the shopping.
+= Ich [kaufe] heute [ein]. || Ich muss heute [einkaufen]. || After muss, the split verb joins up again at the end.
+
+# routine | ___ mit? | mitkommen / mitnehmen: mit goes to the end.
+[Kommst du mit]? | Are you coming along?
+Ich komme [gern] mit. | I'd love to come along.
+Ich nehme [einen Regenschirm] mit. | I'm taking an umbrella.
+[Nimmst du] das mit? | Are you taking that with you?
+
+# routine | Der Kurs fängt ___ an. | anfangen = to begin; aufhören = to stop.
+Der Kurs [fängt] um neun [an]. | The course starts at nine.
+Wann [fängt] der Film [an]? | When does the film start?
+Die Schule [hört] um drei [auf]. | School finishes at three.
+Ich [höre] jetzt [auf]. | I'm stopping now.
+
+# routine | Ich sehe ___ fern. | fernsehen = to watch TV.
+Ich [sehe] abends [fern]. | I watch TV in the evening.
+[Siehst du] gern fern? | Do you like watching TV?
+Wir sehen [nicht viel] fern. | We don't watch much TV.
+Die Kinder sehen [zu viel] fern. | The children watch too much TV.
+
+# routine | Der Zug kommt ___ an. | ankommen = to arrive; abfahren = to leave.
+Der Zug [kommt] um acht [an]. | The train arrives at eight.
+Wann [kommst du an]? | When do you arrive?
+Der Bus [fährt] gleich [ab]. | The bus is leaving soon.
+Wann [fährt] der Zug [ab]? | When does the train leave?
+
+# routine | Ich hole ___ ab. | abholen = to pick up.
+Ich [hole] dich [ab]. | I'll pick you up.
+Ich hole [die Kinder] ab. | I'm picking up the children.
+[Holst du] mich vom Bahnhof ab? | Will you pick me up from the station?
+Wer holt [das Paket] ab? | Who's collecting the parcel?
+
+# routine | - | -
+Ich [dusche] morgens. | I shower in the morning.
+Ich [ziehe mich an]. | I'm getting dressed.
+Ich [putze] mir die Zähne. | I'm brushing my teeth.
+Ich [frühstücke] um acht. | I have breakfast at eight.
+
+# routine | Um ___ Uhr … | um + time = at (a clock time).
+[Um acht Uhr] fahre ich zur Arbeit. | At eight o'clock I go to work.
+Um [zwölf] esse ich zu Mittag. | At twelve I have lunch.
+Um [halb sechs] komme ich nach Hause. | At half past five I come home.
+Um [elf] gehe ich ins Bett. | At eleven I go to bed.
+
+# routine | Am ___ … | am + part of the day.
+[Am Morgen] trinke ich Kaffee. | In the morning I drink coffee.
+Am [Nachmittag] arbeite ich. | In the afternoon I work.
+Am [Abend] lese ich. | In the evening I read.
+In der [Nacht] schlafe ich. | At night I sleep.
+
+# routine | Ich ___ immer … | How often: immer, oft, manchmal, selten, nie.
+Ich trinke [immer] Kaffee. | I always drink coffee.
+Ich koche [oft]. | I often cook.
+Ich gehe [manchmal] ins Kino. | I sometimes go to the cinema.
+Ich esse [selten] Fleisch. | I rarely eat meat.
+Ich rauche [nie]. | I never smoke.
+
+# verbs | Ich fahre, du fährst | Some verbs change their vowel with du and er: fahren → du fährst, er fährt.
+Ich [fahre] mit dem Rad. | I go by bike.
+Du [fährst] zu schnell. | You're driving too fast.
+Er [fährt] nach Köln. | He's going to Cologne.
+[Fährst du] morgen? | Are you leaving tomorrow?
+
+# verbs | Ich esse, du isst | essen → du isst, er isst.
+Was [isst du] gern? | What do you like eating?
+Er [isst] kein Schweinefleisch. | He doesn't eat pork.
+Sie [isst] gerade. | She's eating right now.
+Wir [essen] um sieben. | We eat at seven.
+
+# verbs | Ich lese, du liest | lesen → du liest, er liest.
+Was [liest du]? | What are you reading?
+Sie [liest] jeden Tag Zeitung. | She reads the paper every day.
+Ich [lese] gern Krimis. | I like reading crime novels.
+Er [liest] den Kindern vor. | He reads to the children.
+
+# verbs | Ich sehe, du siehst | sehen → du siehst, er sieht.
+[Siehst du] das Schild? | Do you see the sign?
+Er [sieht] sehr müde aus. | He looks very tired.
+Ich [sehe] nichts. | I can't see anything.
+Wir [sehen] uns morgen. | See you tomorrow.
+
+# verbs | Ich nehme, du nimmst | nehmen → du nimmst, er nimmt.
+Was [nimmst du]? | What are you having?
+Er [nimmt] den Zug. | He's taking the train.
+Ich [nehme] die Suppe. | I'll have the soup.
+Sie [nimmt] Zucker in den Tee. | She takes sugar in her tea.
+
+# verbs | Ich spreche, du sprichst | sprechen → du sprichst, er spricht.
+[Sprichst du] Englisch? | Do you speak English?
+Er [spricht] drei Sprachen. | He speaks three languages.
+Sie [spricht] zu schnell. | She speaks too fast.
+Wir [sprechen] später darüber. | We'll talk about it later.
+
+# verbs | Ich schlafe, du schläfst | schlafen → du schläfst, er schläft.
+[Schläfst du] schon? | Are you asleep already?
+Das Baby [schläft]. | The baby is sleeping.
+Ich [schlafe] schlecht. | I'm sleeping badly.
+Er [schläft] bis zehn. | He sleeps until ten.
+
+# verbs | Ich weiß, du weißt | wissen = to know (a fact): ich weiß, du weißt, er weiß.
+[Weißt du] das? | Do you know that?
+Er [weiß] es nicht. | He doesn't know.
+[Wer weiß]? | Who knows?
+Das [weiß ich] schon. | I know that already.
+= Ich [kenne] Maria. || Ich [weiß] ihre Adresse. || kennen for people and places, wissen for facts.
+
+# verbs | Ich gebe, du gibst | geben → du gibst, er gibt.
+[Gibst du] mir das Salz? | Will you pass me the salt?
+Er [gibt] mir das Geld. | He's giving me the money.
+Ich [gebe] dir meine Nummer. | I'll give you my number.
+Was [gibt es] zum Essen? | What's for dinner?
+
+# verbs | Ich helfe, du hilfst | helfen → du hilfst, er hilft.
+Ich [helfe] dir. | I'll help you.
+[Hilfst du] mir? | Will you help me?
+Er [hilft] seiner Mutter. | He's helping his mother.
+[Kann ich] Ihnen helfen? | Can I help you?
+
+# verbs | Ich ___ gern. | Hobbies with gern.
+Ich [spiele] gern Gitarre. | I like playing the guitar.
+Ich [tanze] gern. | I like dancing.
+Ich [schwimme] gern. | I like swimming.
+Ich [male] gern. | I like painting.
+Ich [wandere] gern. | I like hiking.
+
+# verbs | Ich ___ lieber … | lieber = rather, prefer; am liebsten = most of all.
+Ich trinke [lieber] Tee. | I prefer tea.
+Ich bleibe [lieber] zu Hause. | I'd rather stay at home.
+[Am liebsten] esse ich Pasta. | Most of all I like eating pasta.
+Was machst du [am liebsten]? | What do you like doing most?
+= Ich trinke [gern] Kaffee. || Ich trinke [lieber] Tee. || gern → lieber → am liebsten: like → prefer → like most.
+
+# hobbies | Mein Hobby ist ___. | Talking about free time.
+Mein Hobby ist [Lesen]. | My hobby is reading.
+Meine Hobbys sind [Sport und Musik]. | My hobbies are sport and music.
+In meiner Freizeit [fotografiere] ich. | In my free time I take photos.
+Was machst du [in deiner Freizeit]? | What do you do in your free time?
+
+# hobbies | Ich spiele ___. | spielen + a game or instrument.
+Ich spiele [Klavier]. | I play the piano.
+Ich spiele [Tennis]. | I play tennis.
+Ich spiele [Schach]. | I play chess.
+Wir spielen [Computerspiele]. | We play computer games.
+
+# hobbies | Ich gehe ___. | Going to activities.
+Ich gehe [ins Fitnessstudio]. | I'm going to the gym.
+Ich gehe [joggen]. | I'm going jogging.
+Ich gehe [schwimmen]. | I'm going swimming.
+Ich gehe [ins Konzert]. | I'm going to a concert.

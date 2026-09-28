@@ -1,0 +1,283 @@
+// Band 2 · Foundations (A1), continued: linking words, opinions, common verbs, the city,
+// bank and post, the internet, small words (auch, nur, schon, noch).
+## band 2
+
+# grammar | ___ und / aber / oder | und, aber, oder, denn don't change the word order.
+Ich bin müde, [aber] ich arbeite noch. | I'm tired, but I'm still working.
+Ich trinke Kaffee [und] esse ein Brötchen. | I drink coffee and eat a roll.
+Möchtest du Tee [oder] Kaffee? | Would you like tea or coffee?
+Ich bleibe zu Hause, [denn] ich bin krank. | I'm staying at home because I'm ill.
+
+# grammar | nicht ___, sondern … | sondern = but rather (after a negative).
+Das ist nicht rot, [sondern] orange. | That's not red but orange.
+Ich komme nicht heute, [sondern morgen]. | I'm not coming today but tomorrow.
+Er ist nicht Lehrer, [sondern Arzt]. | He isn't a teacher but a doctor.
+Wir fahren nicht mit dem Auto, [sondern mit dem Zug]. | We're not going by car but by train.
+
+# grammar | Zuerst ___, dann … | Order of events: zuerst, dann, danach, zum Schluss.
+[Zuerst] frühstücke ich. | First I have breakfast.
+[Dann] gehe ich zur Arbeit. | Then I go to work.
+[Danach] kaufe ich ein. | After that I go shopping.
+[Zum Schluss] sehe ich fern. | Finally I watch TV.
+
+# grammar | Ich ___ auch. | auch = also, too.
+Ich komme [auch]. | I'm coming too.
+Ich [auch]! | Me too!
+Ich [auch nicht]. | Me neither.
+Er spricht [auch] Französisch. | He also speaks French.
+
+# grammar | Ich habe nur ___. | nur = only.
+Ich habe [nur] zehn Euro. | I only have ten euros.
+Ich [schaue nur]. | I'm only looking.
+Das dauert [nur] fünf Minuten. | That only takes five minutes.
+Ich habe [nur eine Frage]. | I only have one question.
+
+# grammar | ___ schon / noch | schon = already; noch = still; noch nicht = not yet.
+Bist du [schon] fertig? | Are you finished already?
+Ich bin [noch nicht] fertig. | I'm not finished yet.
+Er schläft [noch]. | He's still asleep.
+Ich wohne [schon lange] hier. | I've lived here for a long time.
+
+# grammar | Hier spricht man ___. | man = you, people in general.
+Hier spricht [man] Deutsch. | German is spoken here.
+Wie [schreibt man] deinen Namen? | How do you write your name?
+Hier [kann man] gut essen. | You can eat well here.
+Das [macht man] nicht. | You don't do that.
+
+# grammar | Ich gehe ___. / Ich bin ___. | nach Hause = (going) home; zu Hause = at home.
+Ich fahre jetzt [nach Hause]. | I'm going home now.
+Ich bin [zu Hause]. | I'm at home.
+Ich bleibe heute [zu Hause]. | I'm staying at home today.
+Wann kommst du [nach Hause]? | When are you coming home?
+= Ich bin [zu Hause]. || Ich gehe [nach Hause]. || zu Hause for where you are, nach Hause for where you're going.
+
+# grammar | ___ durch / um / gegen | durch = through, um = around, gegen = against (+ accusative).
+Wir gehen [durch den Park]. | We're walking through the park.
+Wir fahren [um die Stadt]. | We're driving around the town.
+Ich bin [gegen den Plan]. | I'm against the plan.
+Er läuft [gegen die Tür]. | He walks into the door.
+
+# opinion | Ich finde ___. | finden = to find, to think (an opinion).
+Ich finde das [gut]. | I think that's good.
+Ich finde den Film [langweilig]. | I find the film boring.
+Wie [findest du] das? | What do you think of it?
+Ich finde Berlin [spannend]. | I find Berlin exciting.
+
+# opinion | Ich glaube, ___. | glauben = to believe, think.
+Ich [glaube], ja. | I think so.
+Ich glaube [nicht]. | I don't think so.
+Ich glaube, [das stimmt]. | I think that's right.
+Ich glaube, [er kommt nicht]. | I don't think he's coming.
+
+# opinion | Das ist ___. | Judgements.
+Das ist [richtig gut]! | That's really good!
+Das ist [nicht schlecht]. | That's not bad.
+Das ist [furchtbar]. | That's terrible.
+Das ist [egal]. | It doesn't matter.
+Das ist [mir egal]. | I don't care.
+
+# opinion | Ich mag ___ nicht. | Likes and dislikes.
+Ich mag [keine Spinnen]. | I don't like spiders.
+Ich mag [den Winter] nicht. | I don't like winter.
+Ich [liebe] Schokolade. | I love chocolate.
+Ich [hasse] Staus. | I hate traffic jams.
+
+# feelings | Ich bin ___. | Feelings.
+Ich bin [müde und hungrig]. | I'm tired and hungry.
+Ich bin [wütend]. | I'm angry.
+Ich bin [überrascht]. | I'm surprised.
+Ich bin [aufgeregt]. | I'm excited.
+Ich habe [Angst]. | I'm scared.
+
+# feelings | Was ist ___? | Asking what's wrong.
+[Was ist los]? | What's wrong?
+Was ist [passiert]? | What happened?
+[Alles in Ordnung]? | Is everything OK?
+[Geht es dir gut]? | Are you OK?
+
+# feelings | Mach dir ___! | Reassuring someone.
+[Mach dir keine Sorgen]! | Don't worry!
+[Keine Angst]! | Don't be afraid!
+[Das wird schon]. | It'll be fine.
+[Ich bin für dich da]. | I'm here for you.
+
+# verbs | Ich ___ das nicht. | Common verbs with das.
+Ich [vergesse] das nicht. | I won't forget that.
+Ich [verstehe] das nicht ganz. | I don't quite understand that.
+Ich [glaube] das nicht. | I don't believe that.
+Ich [brauche] das nicht. | I don't need that.
+
+# verbs | Kannst du ___ erklären? | erklären = to explain; zeigen = to show.
+Kannst du mir das [erklären]? | Can you explain that to me?
+Kannst du mir [den Weg] zeigen? | Can you show me the way?
+Ich [zeige] dir die Stadt. | I'll show you the city.
+Er erklärt [die Regeln]. | He explains the rules.
+
+# verbs | Ich bringe ___. | bringen = to bring; schicken = to send.
+Ich [bringe] den Wein mit. | I'll bring the wine.
+Kannst du mir [das Buch] bringen? | Can you bring me the book?
+Ich [schicke] dir die Fotos. | I'll send you the photos.
+Ich schicke [eine E-Mail]. | I'm sending an email.
+
+# verbs | Ich suche ___. | suchen / finden.
+Ich [suche] meine Brille. | I'm looking for my glasses.
+Ich [finde] meinen Schlüssel nicht. | I can't find my key.
+Er sucht [eine Wohnung]. | He's looking for a flat.
+Sie sucht [einen Job]. | She's looking for a job.
+
+# verbs | Ich warte ___. | warten auf = to wait for.
+Ich [warte] auf den Bus. | I'm waiting for the bus.
+Ich warte [auf dich]. | I'm waiting for you.
+[Wie lange] wartest du schon? | How long have you been waiting?
+Bitte [warten Sie] kurz. | Please wait a moment.
+
+# verbs | Ich ___ Deutsch. | Learning verbs.
+Ich [übe] jeden Tag. | I practise every day.
+Ich [wiederhole] die Wörter. | I'm going over the words.
+Ich [schreibe] einen Brief. | I'm writing a letter.
+Ich [höre] einen Podcast auf Deutsch. | I'm listening to a podcast in German.
+
+# verbs | Ich mache ___. | machen with many things.
+Ich mache [eine Pause]. | I'm taking a break.
+Ich mache [ein Foto]. | I'm taking a photo.
+Ich mache [Sport]. | I do sport.
+Ich mache [Urlaub]. | I'm on holiday.
+Ich mache [das Frühstück]. | I'm making breakfast.
+
+# verbs | Ich ___ dich. | Verbs with people.
+Ich [besuche] dich morgen. | I'll visit you tomorrow.
+Ich [vermisse] dich. | I miss you.
+Ich [frage] den Lehrer. | I'll ask the teacher.
+Ich [treffe] meine Freunde. | I'm meeting my friends.
+
+# city | In der Stadt gibt es ___. | Places in town.
+In der Stadt gibt es [ein Museum]. | There's a museum in the town.
+Es gibt [einen Markt] am Samstag. | There's a market on Saturday.
+Es gibt [eine Bibliothek]. | There's a library.
+Es gibt [viele Geschäfte]. | There are lots of shops.
+
+# city | Ich gehe ___. | zur/zum + place.
+Ich gehe [zur Bank]. | I'm going to the bank.
+Ich gehe [zum Arzt]. | I'm going to the doctor.
+Ich gehe [zum Friseur]. | I'm going to the hairdresser.
+Ich gehe [zur Apotheke]. | I'm going to the pharmacy.
+
+# city | Wann ist ___ geöffnet? | Opening times.
+Wann ist [die Bank] geöffnet? | When is the bank open?
+Das Geschäft ist [heute geschlossen]. | The shop is closed today.
+Der Supermarkt ist [bis zehn] offen. | The supermarket is open until ten.
+[Am Sonntag] ist alles zu. | Everything is closed on Sunday.
+
+# bank | Ich möchte ___. | At the bank.
+Ich möchte [ein Konto eröffnen]. | I'd like to open an account.
+Ich möchte [Geld abheben]. | I'd like to withdraw money.
+Ich möchte [Geld überweisen]. | I'd like to transfer money.
+Ich möchte [Euro wechseln]. | I'd like to change money into euros.
+
+# post | Ich möchte ___ schicken. | At the post office.
+Ich möchte [ein Paket] schicken. | I'd like to send a parcel.
+Ich möchte [einen Brief] nach Ägypten schicken. | I'd like to send a letter to Egypt.
+Ich brauche [eine Briefmarke]. | I need a stamp.
+Wie lange [braucht] der Brief? | How long does the letter take?
+
+# office | Ich brauche ___. | Official matters.
+Ich brauche [ein Formular]. | I need a form.
+Ich muss [mich anmelden]. | I have to register.
+Ich habe [einen Termin] beim Amt. | I have an appointment at the authorities' office.
+Welche [Unterlagen] brauche ich? | Which documents do I need?
+
+# office | Mein ___ ist … | Personal details.
+Mein [Nachname] ist Hassan. | My surname is Hassan.
+Mein [Vorname] ist Omar. | My first name is Omar.
+Meine [Adresse] ist Gartenstraße zwölf. | My address is Gartenstraße 12.
+Ich bin [am fünften Mai] geboren. | I was born on the fifth of May.
+
+# internet | Ich habe ___. | Technology.
+Ich habe [kein Internet]. | I don't have internet.
+Mein Handy [ist leer]. | My phone battery is dead.
+Ich habe [eine neue Nummer]. | I have a new number.
+Mein Computer [ist kaputt]. | My computer is broken.
+
+# internet | Kannst du mir ___ schicken? | Messages and links.
+Kannst du mir [den Link] schicken? | Can you send me the link?
+Kannst du mir [deine Adresse] schicken? | Can you send me your address?
+Ich schreibe dir [bei WhatsApp]. | I'll message you on WhatsApp.
+Ich habe [deine Nachricht] bekommen. | I got your message.
+
+# nature | Ich sehe ___. | Nature.
+Ich sehe [einen Vogel]. | I can see a bird.
+Ich sehe [das Meer]. | I can see the sea.
+Ich sehe [die Berge]. | I can see the mountains.
+Ich sehe [einen See]. | I can see a lake.
+
+# nature | Hast du ___? | Pets.
+Hast du [ein Haustier]? | Do you have a pet?
+Wir haben [zwei Hasen]. | We have two rabbits.
+Unsere Katze [heißt] Mia. | Our cat is called Mia.
+Der Hund [bellt] laut. | The dog barks loudly.
+
+# travel | Ich mache Urlaub ___. | Holidays.
+Ich mache Urlaub [in Spanien]. | I'm going on holiday to Spain.
+Ich fahre [in die Berge]. | I'm going to the mountains.
+Ich fahre [ans Meer]. | I'm going to the seaside.
+Ich besuche [meine Familie]. | I'm visiting my family.
+
+# travel | Ich brauche ___. | Packing.
+Ich brauche [meinen Koffer]. | I need my suitcase.
+Ich brauche [ein Visum]. | I need a visa.
+Hast du [die Tickets]? | Have you got the tickets?
+Vergiss [den Pass] nicht! | Don't forget the passport!
+
+# travel | Wie ist ___? | Talking about a place.
+Wie ist [das Wetter] dort? | What's the weather like there?
+Wie ist [das Hotel]? | What's the hotel like?
+Wie ist [das Essen]? | What's the food like?
+Wie sind [die Leute]? | What are the people like?
+
+# cafe | Für mich ___. | Ordering for yourself.
+Für mich [ein Wasser], bitte. | A water for me, please.
+Für mich [das Gleiche]. | The same for me.
+Für mich [nichts], danke. | Nothing for me, thanks.
+Ich nehme [den Fisch]. | I'll have the fish.
+
+# cafe | Ist ___ frei? | In a café.
+Ist [der Platz] frei? | Is this seat free?
+Ist [hier noch frei]? | Is anyone sitting here?
+Wir sind [zu viert]. | There are four of us.
+Haben Sie [einen Tisch] für zwei? | Do you have a table for two?
+
+# cafe | Ich bin ___. | Dietary needs.
+Ich bin [allergisch gegen Nüsse]. | I'm allergic to nuts.
+Ich esse [kein Schweinefleisch]. | I don't eat pork.
+Ist das [ohne Fleisch]? | Is that without meat?
+Ist das [scharf]? | Is that spicy?
+
+# courtesy | Entschuldigung, ___? | Polite interruptions.
+Entschuldigung, [wie spät ist es]? | Excuse me, what time is it?
+Entschuldigung, [ist das Ihr Platz]? | Excuse me, is this your seat?
+Entschuldigung, [darf ich vorbei]? | Excuse me, may I get past?
+Entschuldigung, [sprechen Sie Englisch]? | Excuse me, do you speak English?
+
+# courtesy | Das ist ___ von dir. | Thanking for kindness.
+Das ist [nett] von dir. | That's kind of you.
+Das ist [sehr lieb] von dir. | That's very sweet of you.
+[Danke für alles]! | Thanks for everything!
+[Danke, gleichfalls]! | Thanks, you too!
+
+# courtesy | Sie ___ gut aus. | Compliments.
+Du [siehst gut aus]. | You look good.
+Das Kleid [steht dir]. | The dress suits you.
+Du [sprichst gut] Deutsch! | You speak German well!
+[Toll gemacht]! | Well done!
+
+# numbers | Das kostet ___. | Bigger numbers.
+Das kostet [dreißig] Euro. | That costs thirty euros.
+Das kostet [fünfzig] Euro. | That costs fifty euros.
+Das kostet [neunundneunzig] Cent. | That costs ninety-nine cents.
+Das kostet [tausend] Euro. | That costs a thousand euros.
+
+# numbers | Ich bin ___ geboren. | Years: neunzehnhundert…, zweitausend…
+Ich bin [neunzehnhundertneunzig] geboren. | I was born in 1990.
+Ich bin [zweitausendeins] geboren. | I was born in 2001.
+Wir haben [zweitausendsechsundzwanzig]. | It's 2026.
+Das Haus ist [hundert Jahre] alt. | The house is a hundred years old.

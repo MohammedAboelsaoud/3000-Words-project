@@ -1,0 +1,213 @@
+// Band 1 · Survival, continued (to sentence 300): numbers, days, food shopping, hotel,
+// restaurant, emergencies, language help.
+## band 1
+
+# repair | Wie sagt man ___ auf Deutsch? | Wie sagt man … auf Deutsch? = How do you say … in German?
+[Wie sagt man] „bill“ auf Deutsch? | How do you say “bill” in German?
+Was [bedeutet] das? | What does that mean?
+Wie [schreibt man] das? | How do you spell that?
+Können Sie das [aufschreiben]? | Can you write that down?
+
+# repair | Ich ___ Deutsch. | Say how well you speak: Ich lerne / spreche / verstehe …
+Ich [lerne] Deutsch. | I'm learning German.
+Mein Deutsch ist [nicht so gut]. | My German isn't very good.
+Ich verstehe [ein bisschen]. | I understand a little.
+[Sprechen Sie bitte langsam]. | Please speak slowly.
+
+# numbers | - | -
+[Eins, zwei, drei]. | One, two, three.
+[Vier, fünf, sechs]. | Four, five, six.
+[Sieben, acht, neun, zehn]. | Seven, eight, nine, ten.
+[Elf, zwölf]. | Eleven, twelve.
+
+# numbers | Das macht ___ Euro. | Das macht … = That comes to … (the total).
+Das macht [zwölf] Euro. | That comes to twelve euros.
+Das macht [zwanzig] Euro. | That comes to twenty euros.
+Das macht [fünfzehn] Euro. | That comes to fifteen euros.
+Das macht [hundert] Euro. | That comes to a hundred euros.
+= Das macht [zwanzig] Euro. || Das macht [zweiundzwanzig] Euro. || German says the ones first: zwei-und-zwanzig, “two and twenty”.
+
+# numbers | Meine Nummer ist ___. | Phone numbers are read digit by digit or in pairs.
+Wie ist [Ihre Telefonnummer]? | What's your phone number?
+Meine Nummer ist [null eins sieben drei]. | My number is zero one seven three.
+Wie ist [deine Handynummer]? | What's your mobile number?
+Ich [rufe Sie an]. | I'll call you.
+
+# time | Heute ist ___. | Days are der-words: der Montag, am Montag = on Monday.
+Heute ist [Montag]. | Today is Monday.
+Morgen ist [Dienstag]. | Tomorrow is Tuesday.
+[Welcher Tag] ist heute? | What day is it today?
+Heute ist [Freitag]. | Today is Friday.
+
+# time | Am ___ habe ich Zeit. | am + day = on (that day).
+[Am Mittwoch] habe ich Zeit. | I'm free on Wednesday.
+Am [Donnerstag] habe ich Zeit. | I'm free on Thursday.
+Am [Samstag] habe ich Zeit. | I'm free on Saturday.
+Am [Sonntag] habe ich Zeit. | I'm free on Sunday.
+
+# time | Wann? — ___ | Words for when.
+Ich komme [jetzt]. | I'm coming now.
+Ich komme [gleich]. | I'll be right there.
+Ich komme [später]. | I'm coming later.
+Ich komme [heute nicht]. | I'm not coming today.
+
+# food | Ich esse ___. | essen = to eat.
+Ich [esse] Brot. | I'm eating bread.
+Ich esse [Reis]. | I'm eating rice.
+Ich esse [kein Fleisch]. | I don't eat meat.
+Ich esse [vegetarisch]. | I'm vegetarian.
+
+# food | Ich trinke ___. | trinken = to drink.
+Ich [trinke] Wasser. | I'm drinking water.
+Ich trinke [keinen Alkohol]. | I don't drink alcohol.
+Ich trinke [Orangensaft]. | I'm drinking orange juice.
+Ich trinke [Tee mit Zitrone]. | I'm drinking tea with lemon.
+
+# shopping | Ich hätte gern ___. | Buying food: a quantity + the thing.
+Ich hätte gern [ein Brot]. | I'd like a loaf of bread. | Ich hätte gerne ein Brot.
+Ich hätte gern [vier Brötchen]. | I'd like four bread rolls. | Ich hätte gerne vier Brötchen.
+Ich hätte gern [ein Kilo Äpfel]. | I'd like a kilo of apples. | Ich hätte gerne ein Kilo Äpfel.
+Ich hätte gern [zweihundert Gramm Käse]. | I'd like two hundred grams of cheese. | Ich hätte gerne zweihundert Gramm Käse.
+
+# shopping | Noch ___? | At the counter.
+[Noch etwas]? | Anything else?
+[Nein, danke], das ist alles. | No, thanks, that's all.
+Ja, [noch zwei Brötchen]. | Yes, two more rolls.
+Brauchen Sie [eine Tüte]? | Do you need a bag?
+
+# shopping | Wo finde ich ___? | Wo finde ich …? = Where can I find …?
+[Wo finde ich] Milch? | Where can I find milk?
+Wo finde ich [Brot]? | Where can I find bread?
+Wo finde ich [die Kasse]? | Where is the checkout?
+Wo finde ich [Obst und Gemüse]? | Where are the fruit and vegetables?
+
+# shopping | Das ist zu ___. | zu + describing word = too …
+Das ist [zu teuer]. | That's too expensive.
+Das ist zu [groß]. | That's too big.
+Das ist zu [klein]. | That's too small.
+Haben Sie das [kleiner]? | Do you have it in a smaller size?
+
+# shopping | Das ___ ist schön. | Colours come after ist without an ending.
+Das Hemd ist [blau]. | The shirt is blue.
+Die Tasche ist [schwarz]. | The bag is black.
+Das Auto ist [rot]. | The car is red.
+Der Pullover ist [grün]. | The jumper is green.
+Die Wand ist [weiß]. | The wall is white.
+
+# hotel | Ich habe ___. | At the hotel desk.
+Ich habe [eine Reservierung]. | I have a reservation.
+Ich habe [ein Zimmer] reserviert. | I've booked a room.
+Haben Sie [ein Zimmer frei]? | Do you have a room available?
+Für [zwei Nächte], bitte. | For two nights, please.
+
+# hotel | Wann gibt es ___? | Wann gibt es …? = When is … served?
+Wann gibt es [Frühstück]? | When is breakfast?
+[Wo ist] der Aufzug? | Where is the lift?
+Wie ist [das WLAN-Passwort]? | What's the Wi-Fi password?
+Der Schlüssel [funktioniert nicht]. | The key doesn't work.
+
+# cafe | Die ___, bitte. | Asking for things at the table.
+[Die Speisekarte], bitte. | The menu, please.
+Die Rechnung, [bitte]. | The bill, please.
+[Zusammen oder getrennt]? | Together or separately?
+[Getrennt], bitte. | Separately, please.
+[Stimmt so]. | Keep the change.
+
+# cafe | Was ___ Sie? | The waiter asks.
+[Was möchten Sie]? | What would you like?
+Was [trinken] Sie? | What are you drinking?
+Was [empfehlen] Sie? | What do you recommend?
+[Hat es geschmeckt]? | Did you enjoy it?
+
+# cafe | Es ist ___. | Saying how the food is.
+Es ist [sehr lecker]. | It's very tasty.
+Es ist [zu salzig]. | It's too salty.
+Die Suppe ist [kalt]. | The soup is cold.
+Es ist [zu scharf]. | It's too spicy.
+
+# health | - | -
+[Hilfe]! | Help!
+[Rufen Sie einen Krankenwagen]! | Call an ambulance!
+[Rufen Sie die Polizei]! | Call the police!
+[Vorsicht]! | Watch out!
+Es ist [ein Notfall]. | It's an emergency.
+
+# health | Mir ist ___. | Mir ist … = I feel … (a set phrase).
+Mir ist [schlecht]. | I feel sick.
+Mir ist [kalt]. | I'm cold.
+Mir ist [warm]. | I'm warm.
+Mir ist [schwindelig]. | I feel dizzy.
+= Ich [bin] müde. || [Mir ist] kalt. || Feeling cold or sick uses mir ist, not ich bin.
+
+# health | Wo ist ___? | Places you might need fast.
+Wo ist [das Krankenhaus]? | Where is the hospital?
+Wo ist [die nächste Apotheke]? | Where is the nearest pharmacy?
+Wo ist [ein Arzt]? | Where is there a doctor?
+Wo ist [die Polizei]? | Where is the police station?
+
+# self | Ich habe ___ verloren. | verloren = lost.
+Ich habe [meinen Pass] verloren. | I've lost my passport.
+Ich habe [mein Handy] verloren. | I've lost my phone.
+Ich habe [meine Tasche] verloren. | I've lost my bag.
+Ich habe [meinen Schlüssel] verloren. | I've lost my key.
+
+# directions | Wo ist hier ___? | Wo ist hier …? = Where is there a … around here?
+Wo ist hier [ein Supermarkt]? | Is there a supermarket around here?
+Wo ist hier [eine Bank]? | Is there a bank around here?
+Wo ist hier [ein Geldautomat]? | Is there a cash machine around here?
+Wo ist hier [ein Restaurant]? | Is there a restaurant around here?
+
+# directions | Wie komme ich ___? | Wie komme ich zum/zur …? = How do I get to …?
+[Wie komme ich] zum Bahnhof? | How do I get to the station?
+Wie komme ich [zur Post]? | How do I get to the post office?
+Wie komme ich [zum Flughafen]? | How do I get to the airport?
+Wie komme ich [zum Zentrum]? | How do I get to the centre?
+= Wie komme ich [zum] Bahnhof? || Wie komme ich [zur] Post? || zum for der- and das-words, zur for die-words.
+
+# directions | Die ___ Straße ___. | Directions on the street.
+Die [erste Straße] links. | The first street on the left.
+Die [zweite Straße] rechts. | The second street on the right.
+[An der Ampel] links. | Left at the traffic lights.
+Immer [geradeaus]. | Keep going straight ahead.
+
+# transport | Ich nehme ___. | nehmen = to take (a bus, a taxi).
+Ich nehme [den Bus]. | I'm taking the bus.
+Ich nehme [ein Taxi]. | I'm taking a taxi.
+Ich nehme [die U-Bahn]. | I'm taking the underground.
+Ich [gehe zu Fuß]. | I'm walking.
+
+# transport | Wo ___ ich ___? | Asking where to do something.
+Wo [kaufe ich] eine Fahrkarte? | Where do I buy a ticket?
+Wo [muss ich] aussteigen? | Where do I have to get off?
+Wo [ist der Ausgang]? | Where is the exit?
+Wo [ist der Eingang]? | Where is the entrance?
+
+# courtesy | ___, bitte. | Short polite requests.
+[Einen Moment], bitte. | One moment, please.
+[Hier], bitte. | Here you are.
+[Nach Ihnen], bitte. | After you.
+[Setzen Sie sich], bitte. | Please sit down.
+
+# courtesy | Das ist ___. | Reacting to news.
+Das ist [toll]! | That's great!
+Das ist [schade]. | That's a pity.
+Das ist [interessant]. | That's interesting.
+Das ist [kein Problem]. | That's no problem.
+
+# self | Ich bin ___. | How you feel.
+Ich bin [glücklich]. | I'm happy.
+Ich bin [traurig]. | I'm sad.
+Ich bin [nervös]. | I'm nervous.
+Ich bin [zufrieden]. | I'm satisfied.
+
+# self | Ich bin ___ Jahre alt. | Numbers 20–90 end in -zig (dreißig ends in -ßig).
+Ich bin [vierzig] Jahre alt. | I'm forty years old.
+Ich bin [fünfundzwanzig] Jahre alt. | I'm twenty-five years old.
+Ich bin [achtzehn] Jahre alt. | I'm eighteen years old.
+Mein Vater ist [sechzig]. | My father is sixty.
+
+# self | Ich habe ___. | Talking about family: Ich habe + einen/eine/ein.
+Ich habe [einen Bruder]. | I have a brother.
+Ich habe [zwei Schwestern]. | I have two sisters.
+Ich habe [keine Kinder]. | I don't have children.
+Ich bin [verheiratet]. | I'm married.

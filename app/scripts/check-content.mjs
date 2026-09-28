@@ -8,7 +8,7 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const args = process.argv.slice(2);
 const freqAt = args.indexOf('--freq');
 const freqPath = freqAt >= 0 ? args[freqAt + 1] : null;
-const packPath = args.find((a, i) => !a.startsWith('--') && i !== freqAt + 1) ?? path.join(here, '../../content/de/band1.json');
+const packPath = args.find((a, i) => !a.startsWith('--') && i !== freqAt + 1) ?? path.join(here, '../../content/de/pack.json');
 const pack = JSON.parse(fs.readFileSync(packPath, 'utf8'));
 
 const errors = [];

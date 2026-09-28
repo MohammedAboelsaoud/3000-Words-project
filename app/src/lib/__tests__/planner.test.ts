@@ -16,7 +16,7 @@ describe('plan', () => {
     expect(p.mode).toBe('normal');
     expect(p.newSentences).toBeGreaterThanOrEqual(3);
     expect(p.newSentences).toBeLessThanOrEqual(6.67);
-    expect(p.newFamilyIds[0]).toBe('f001');
+    expect(p.newFamilyIds[0]).toBe(germanContent.families[0].id);
   });
   it('credit carries over and is capped at two days', () => {
     expect(accrueCredit(3.67, 30)).toBeCloseTo(10.33, 1);
